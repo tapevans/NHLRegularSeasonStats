@@ -1,0 +1,1313 @@
+Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
+10/7/2022,12:00 PM,2:00 PM,San Jose Sharks,1,Nashville Predators,4,Regulation
+10/8/2022,12:00 PM,2:00 PM,Nashville Predators,3,San Jose Sharks,2,Regulation
+10/11/2022,5:30 PM,7:30 PM,Tampa Bay Lightning,1,New York Rangers,3,Regulation
+10/11/2022,8:00 PM,10:00 PM,Vegas Golden Knights,4,Los Angeles Kings,3,Regulation
+10/12/2022,5:00 PM,7:00 PM,Boston Bruins,5,Washington Capitals,2,Regulation
+10/12/2022,5:00 PM,7:00 PM,Columbus Blue Jackets,1,Carolina Hurricanes,4,Regulation
+10/12/2022,5:00 PM,7:00 PM,Toronto Maple Leafs,3,Montreal Canadiens,4,Regulation
+10/12/2022,7:30 PM,9:30 PM,Chicago Blackhawks,2,Colorado Avalanche,5,Regulation
+10/12/2022,8:00 PM,10:00 PM,Seattle Kraken,4,Anaheim Ducks,5,OT
+10/12/2022,8:00 PM,10:00 PM,Vancouver Canucks,3,Edmonton Oilers,5,Regulation
+10/13/2022,5:00 PM,7:00 PM,Arizona Coyotes,2,Pittsburgh Penguins,6,Regulation
+10/13/2022,5:00 PM,7:00 PM,New Jersey Devils,2,Philadelphia Flyers,5,Regulation
+10/13/2022,5:00 PM,7:00 PM,Ottawa Senators,1,Buffalo Sabres,4,Regulation
+10/13/2022,5:30 PM,7:30 PM,Florida Panthers,3,New York Islanders,1,Regulation
+10/13/2022,5:30 PM,7:30 PM,Washington Capitals,2,Toronto Maple Leafs,3,Regulation
+10/13/2022,6:00 PM,8:00 PM,New York Rangers,7,Minnesota Wild,3,Regulation
+10/13/2022,6:30 PM,8:30 PM,Dallas Stars,4,Nashville Predators,1,Regulation
+10/13/2022,7:30 PM,9:30 PM,Colorado Avalanche,3,Calgary Flames,5,Regulation
+10/13/2022,8:00 PM,10:00 PM,Chicago Blackhawks,0,Vegas Golden Knights,1,Regulation
+10/13/2022,8:30 PM,10:30 PM,Seattle Kraken,4,Los Angeles Kings,1,Regulation
+10/14/2022,5:00 PM,7:00 PM,Tampa Bay Lightning,5,Columbus Blue Jackets,2,Regulation
+10/14/2022,5:00 PM,7:00 PM,Montreal Canadiens,0,Detroit Red Wings,3,Regulation
+10/14/2022,6:00 PM,8:00 PM,New York Rangers,1,Winnipeg Jets,4,Regulation
+10/14/2022,8:30 PM,10:30 PM,Carolina Hurricanes,2,San Jose Sharks,1,Regulation
+10/15/2022,11:00 AM,1:00 PM,Florida Panthers,4,Buffalo Sabres,3,Regulation
+10/15/2022,2:00 PM,4:00 PM,Vancouver Canucks,2,Philadelphia Flyers,3,Regulation
+10/15/2022,5:00 PM,7:00 PM,Arizona Coyotes,3,Boston Bruins,6,Regulation
+10/15/2022,5:00 PM,7:00 PM,Detroit Red Wings,5,New Jersey Devils,2,Regulation
+10/15/2022,5:00 PM,7:00 PM,Montreal Canadiens,1,Washington Capitals,3,Regulation
+10/15/2022,5:00 PM,7:00 PM,Ottawa Senators,2,Toronto Maple Leafs,3,Regulation
+10/15/2022,5:00 PM,7:00 PM,Tampa Bay Lightning,2,Pittsburgh Penguins,6,Regulation
+10/15/2022,5:30 PM,7:30 PM,Anaheim Ducks,1,New York Islanders,7,Regulation
+10/15/2022,6:00 PM,8:00 PM,Columbus Blue Jackets,2,St. Louis Blues,5,Regulation
+10/15/2022,6:00 PM,8:00 PM,Los Angeles Kings,7,Minnesota Wild,6,Regulation
+10/15/2022,6:00 PM,8:00 PM,Nashville Predators,1,Dallas Stars,5,Regulation
+10/15/2022,8:00 PM,10:00 PM,Calgary Flames,4,Edmonton Oilers,3,Regulation
+10/15/2022,8:00 PM,10:00 PM,Vegas Golden Knights,5,Seattle Kraken,2,Regulation
+10/15/2022,8:00 PM,10:00 PM,Chicago Blackhawks,5,San Jose Sharks,2,Regulation
+10/17/2022,5:00 PM,7:00 PM,Anaheim Ducks,4,New York Rangers,6,Regulation
+10/17/2022,5:00 PM,7:00 PM,Arizona Coyotes,4,Toronto Maple Leafs,2,Regulation
+10/17/2022,5:00 PM,7:00 PM,Florida Panthers,3,Boston Bruins,5,Regulation
+10/17/2022,5:00 PM,7:00 PM,Pittsburgh Penguins,2,Montreal Canadiens,3,OT
+10/17/2022,5:00 PM,7:00 PM,Vancouver Canucks,4,Washington Capitals,6,Regulation
+10/17/2022,5:00 PM,7:00 PM,Los Angeles Kings,5,Detroit Red Wings,4,OT
+10/17/2022,6:00 PM,8:00 PM,Colorado Avalanche,6,Minnesota Wild,3,Regulation
+10/17/2022,6:30 PM,8:30 PM,Winnipeg Jets,1,Dallas Stars,4,Regulation
+10/17/2022,8:00 PM,10:00 PM,Carolina Hurricanes,5,Seattle Kraken,1,Regulation
+10/18/2022,5:00 PM,7:00 PM,Anaheim Ducks,2,New Jersey Devils,4,Regulation
+10/18/2022,5:00 PM,7:00 PM,Boston Bruins,5,Ottawa Senators,7,Regulation
+10/18/2022,5:00 PM,7:00 PM,Vancouver Canucks,3,Columbus Blue Jackets,4,OT
+10/18/2022,5:00 PM,7:00 PM,Philadelphia Flyers,3,Tampa Bay Lightning,2,Regulation
+10/18/2022,5:30 PM,7:30 PM,San Jose Sharks,2,New York Islanders,5,Regulation
+10/18/2022,7:00 PM,9:00 PM,Buffalo Sabres,4,Edmonton Oilers,2,Regulation
+10/18/2022,7:00 PM,9:00 PM,Vegas Golden Knights,2,Calgary Flames,3,Regulation
+10/18/2022,7:30 PM,9:30 PM,Los Angeles Kings,4,Nashville Predators,3,SO
+10/19/2022,5:30 PM,7:30 PM,Philadelphia Flyers,3,Florida Panthers,4,Regulation
+10/19/2022,6:00 PM,8:00 PM,Winnipeg Jets,4,Colorado Avalanche,3,OT
+10/19/2022,8:00 PM,10:00 PM,St. Louis Blues,4,Seattle Kraken,3,OT
+10/20/2022,5:00 PM,7:00 PM,Anaheim Ducks,1,Boston Bruins,2,SO
+10/20/2022,5:00 PM,7:00 PM,Arizona Coyotes,2,Montreal Canadiens,6,Regulation
+10/20/2022,5:00 PM,7:00 PM,Dallas Stars,2,Toronto Maple Leafs,3,OT
+10/20/2022,5:00 PM,7:00 PM,Los Angeles Kings,1,Pittsburgh Penguins,6,Regulation
+10/20/2022,5:00 PM,7:00 PM,Nashville Predators,3,Columbus Blue Jackets,5,Regulation
+10/20/2022,5:00 PM,7:00 PM,San Jose Sharks,3,New York Rangers,2,OT
+10/20/2022,5:00 PM,7:00 PM,Washington Capitals,2,Ottawa Senators,5,Regulation
+10/20/2022,5:30 PM,7:30 PM,New Jersey Devils,4,New York Islanders,1,Regulation
+10/20/2022,6:00 PM,8:00 PM,Vancouver Canucks,3,Minnesota Wild,4,OT
+10/20/2022,7:00 PM,9:00 PM,Carolina Hurricanes,4,Edmonton Oilers,6,Regulation
+10/20/2022,7:30 PM,9:30 PM,Buffalo Sabres,6,Calgary Flames,3,Regulation
+10/20/2022,8:00 PM,10:00 PM,Winnipeg Jets,2,Vegas Golden Knights,5,Regulation
+10/21/2022,5:30 PM,7:30 PM,Tampa Bay Lightning,3,Florida Panthers,2,OT
+10/21/2022,6:30 PM,8:30 PM,Detroit Red Wings,3,Chicago Blackhawks,4,OT
+10/21/2022,7:00 PM,9:00 PM,Seattle Kraken,3,Colorado Avalanche,2,Regulation
+10/22/2022,11:00 AM,1:00 PM,Minnesota Wild,3,Boston Bruins,4,OT
+10/22/2022,11:00 AM,1:00 PM,San Jose Sharks,1,New Jersey Devils,2,Regulation
+10/22/2022,2:00 PM,4:00 PM,Arizona Coyotes,2,Ottawa Senators,6,Regulation
+10/22/2022,2:00 PM,4:00 PM,St. Louis Blues,2,Edmonton Oilers,0,Regulation
+10/22/2022,5:00 PM,7:00 PM,Dallas Stars,5,Montreal Canadiens,2,Regulation
+10/22/2022,5:00 PM,7:00 PM,Los Angeles Kings,3,Washington Capitals,4,Regulation
+10/22/2022,5:00 PM,7:00 PM,New York Islanders,3,Tampa Bay Lightning,5,Regulation
+10/22/2022,5:00 PM,7:00 PM,Pittsburgh Penguins,6,Columbus Blue Jackets,3,Regulation
+10/22/2022,5:00 PM,7:00 PM,Toronto Maple Leafs,4,Winnipeg Jets,1,Regulation
+10/22/2022,6:00 PM,8:00 PM,Philadelphia Flyers,3,Nashville Predators,1,Regulation
+10/22/2022,8:00 PM,10:00 PM,Buffalo Sabres,5,Vancouver Canucks,1,Regulation
+10/22/2022,8:00 PM,10:00 PM,Carolina Hurricanes,2,Calgary Flames,3,OT
+10/22/2022,8:00 PM,10:00 PM,Colorado Avalanche,3,Vegas Golden Knights,2,Regulation
+10/23/2022,12:00 PM,2:00 PM,Seattle Kraken,4,Chicago Blackhawks,5,Regulation
+10/23/2022,3:00 PM,5:00 PM,Anaheim Ducks,1,Detroit Red Wings,5,Regulation
+10/23/2022,3:00 PM,5:00 PM,Columbus Blue Jackets,5,New York Rangers,1,Regulation
+10/23/2022,3:00 PM,5:00 PM,New York Islanders,2,Florida Panthers,3,Regulation
+10/23/2022,5:00 PM,7:00 PM,San Jose Sharks,3,Philadelphia Flyers,0,Regulation
+10/24/2022,5:00 PM,7:00 PM,Dallas Stars,2,Ottawa Senators,4,Regulation
+10/24/2022,5:00 PM,7:00 PM,Washington Capitals,6,New Jersey Devils,3,Regulation
+10/24/2022,6:00 PM,8:00 PM,Pittsburgh Penguins,3,Edmonton Oilers,6,Regulation
+10/24/2022,6:00 PM,8:00 PM,St. Louis Blues,0,Winnipeg Jets,4,Regulation
+10/24/2022,8:00 PM,10:00 PM,Toronto Maple Leafs,1,Vegas Golden Knights,3,Regulation
+10/24/2022,8:30 PM,10:30 PM,Carolina Hurricanes,3,Vancouver Canucks,2,Regulation
+10/25/2022,5:00 PM,7:00 PM,Arizona Coyotes,6,Columbus Blue Jackets,3,Regulation
+10/25/2022,5:00 PM,7:00 PM,Dallas Stars,1,Boston Bruins,3,Regulation
+10/25/2022,5:00 PM,7:00 PM,Minnesota Wild,3,Montreal Canadiens,1,Regulation
+10/25/2022,5:00 PM,7:00 PM,New Jersey Devils,6,Detroit Red Wings,2,Regulation
+10/25/2022,6:00 PM,8:00 PM,Colorado Avalanche,3,New York Rangers,2,SO
+10/25/2022,6:30 PM,8:30 PM,Florida Panthers,2,Chicago Blackhawks,4,Regulation
+10/25/2022,7:00 PM,9:00 PM,Pittsburgh Penguins,1,Calgary Flames,4,Regulation
+10/25/2022,8:00 PM,10:00 PM,Buffalo Sabres,1,Seattle Kraken,5,Regulation
+10/25/2022,8:30 PM,10:30 PM,Tampa Bay Lightning,2,Los Angeles Kings,4,Regulation
+10/25/2022,8:30 PM,10:30 PM,Vegas Golden Knights,4,San Jose Sharks,2,Regulation
+10/26/2022,5:30 PM,7:30 PM,New York Rangers,0,New York Islanders,3,Regulation
+10/26/2022,6:00 PM,8:00 PM,Edmonton Oilers,3,St. Louis Blues,1,Regulation
+10/26/2022,8:00 PM,10:00 PM,Tampa Bay Lightning,4,Anaheim Ducks,2,Regulation
+10/27/2022,5:00 PM,7:00 PM,Detroit Red Wings,1,Boston Bruins,5,Regulation
+10/27/2022,5:00 PM,7:00 PM,Florida Panthers,3,Philadelphia Flyers,4,Regulation
+10/27/2022,5:00 PM,7:00 PM,Minnesota Wild,4,Ottawa Senators,2,Regulation
+10/27/2022,5:00 PM,7:00 PM,Montreal Canadiens,3,Buffalo Sabres,2,Regulation
+10/27/2022,6:00 PM,8:00 PM,St. Louis Blues,2,Nashville Predators,6,Regulation
+10/27/2022,6:30 PM,8:30 PM,Edmonton Oilers,6,Chicago Blackhawks,5,Regulation
+10/27/2022,6:30 PM,8:30 PM,Washington Capitals,0,Dallas Stars,2,Regulation
+10/27/2022,8:00 PM,10:00 PM,Vancouver Canucks,5,Seattle Kraken,4,Regulation
+10/27/2022,8:30 PM,10:30 PM,Toronto Maple Leafs,3,San Jose Sharks,4,OT
+10/27/2022,8:30 PM,10:30 PM,Winnipeg Jets,6,Los Angeles Kings,4,Regulation
+10/28/2022,4:00 PM,6:00 PM,Anaheim Ducks,0,Vegas Golden Knights,4,Regulation
+10/28/2022,5:00 PM,7:00 PM,Boston Bruins,4,Columbus Blue Jackets,0,Regulation
+10/28/2022,5:00 PM,7:00 PM,Colorado Avalanche,0,New Jersey Devils,1,Regulation
+10/28/2022,5:00 PM,7:00 PM,New York Islanders,6,Carolina Hurricanes,2,Regulation
+10/28/2022,8:00 PM,10:00 PM,Pittsburgh Penguins,1,Vancouver Canucks,5,Regulation
+10/28/2022,8:30 PM,10:30 PM,Winnipeg Jets,3,Arizona Coyotes,2,OT
+10/29/2022,12:00 PM,2:00 PM,New York Rangers,6,Dallas Stars,3,Regulation
+10/29/2022,2:00 PM,4:00 PM,Ottawa Senators,3,Florida Panthers,5,Regulation
+10/29/2022,2:30 PM,4:30 PM,Tampa Bay Lightning,4,San Jose Sharks,3,Regulation
+10/29/2022,5:00 PM,7:00 PM,Carolina Hurricanes,4,Philadelphia Flyers,3,OT
+10/29/2022,5:00 PM,7:00 PM,Chicago Blackhawks,3,Buffalo Sabres,4,OT
+10/29/2022,5:00 PM,7:00 PM,Minnesota Wild,1,Detroit Red Wings,2,Regulation
+10/29/2022,5:00 PM,7:00 PM,Montreal Canadiens,7,St. Louis Blues,4,Regulation
+10/29/2022,5:00 PM,7:00 PM,Toronto Maple Leafs,2,Los Angeles Kings,4,Regulation
+10/29/2022,5:30 PM,7:30 PM,Colorado Avalanche,4,New York Islanders,5,Regulation
+10/29/2022,6:00 PM,8:00 PM,Washington Capitals,3,Nashville Predators,0,Regulation
+10/29/2022,8:00 PM,10:00 PM,Edmonton Oilers,3,Calgary Flames,2,Regulation
+10/29/2022,8:00 PM,10:00 PM,Pittsburgh Penguins,1,Seattle Kraken,3,Regulation
+10/30/2022,12:00 PM,2:00 PM,Columbus Blue Jackets,1,New Jersey Devils,7,Regulation
+10/30/2022,5:00 PM,7:00 PM,Minnesota Wild,4,Chicago Blackhawks,3,SO
+10/30/2022,6:00 PM,8:00 PM,New York Rangers,3,Arizona Coyotes,2,Regulation
+10/30/2022,6:00 PM,8:00 PM,Toronto Maple Leafs,3,Anaheim Ducks,4,OT
+10/30/2022,6:00 PM,8:00 PM,Winnipeg Jets,1,Vegas Golden Knights,2,OT
+10/31/2022,5:00 PM,7:00 PM,Detroit Red Wings,3,Buffalo Sabres,8,Regulation
+10/31/2022,5:00 PM,7:00 PM,Washington Capitals,2,Carolina Hurricanes,3,SO
+10/31/2022,6:00 PM,8:00 PM,Los Angeles Kings,5,St. Louis Blues,1,Regulation
+11/1/2022,5:00 PM,7:00 PM,Ottawa Senators,3,Tampa Bay Lightning,4,Regulation
+11/1/2022,5:00 PM,7:00 PM,Philadelphia Flyers,0,New York Rangers,1,OT
+11/1/2022,5:00 PM,7:00 PM,Vegas Golden Knights,3,Washington Capitals,2,OT
+11/1/2022,6:00 PM,8:00 PM,Boston Bruins,6,Pittsburgh Penguins,5,OT
+11/1/2022,6:00 PM,8:00 PM,Montreal Canadiens,1,Minnesota Wild,4,Regulation
+11/1/2022,6:30 PM,8:30 PM,New York Islanders,3,Chicago Blackhawks,1,Regulation
+11/1/2022,6:30 PM,8:30 PM,Los Angeles Kings,2,Dallas Stars,5,Regulation
+11/1/2022,7:00 PM,9:00 PM,Nashville Predators,4,Edmonton Oilers,7,Regulation
+11/1/2022,7:00 PM,9:00 PM,Seattle Kraken,5,Calgary Flames,4,Regulation
+11/1/2022,8:00 PM,10:00 PM,Florida Panthers,1,Arizona Coyotes,3,Regulation
+11/1/2022,8:00 PM,10:00 PM,New Jersey Devils,5,Vancouver Canucks,2,Regulation
+11/1/2022,8:30 PM,10:30 PM,Anaheim Ducks,6,San Jose Sharks,5,SO
+11/2/2022,5:00 PM,7:00 PM,Philadelphia Flyers,2,Toronto Maple Leafs,5,Regulation
+11/2/2022,5:30 PM,7:30 PM,Pittsburgh Penguins,3,Buffalo Sabres,6,Regulation
+11/3/2022,5:00 PM,7:00 PM,Carolina Hurricanes,4,Tampa Bay Lightning,3,SO
+11/3/2022,5:00 PM,7:00 PM,Vegas Golden Knights,5,Ottawa Senators,4,Regulation
+11/3/2022,5:00 PM,7:00 PM,Washington Capitals,1,Detroit Red Wings,3,Regulation
+11/3/2022,5:30 PM,7:30 PM,Boston Bruins,5,New York Rangers,2,Regulation
+11/3/2022,6:00 PM,8:00 PM,Montreal Canadiens,2,Winnipeg Jets,3,OT
+11/3/2022,6:00 PM,8:00 PM,New York Islanders,5,St. Louis Blues,2,Regulation
+11/3/2022,6:00 PM,8:00 PM,Seattle Kraken,4,Minnesota Wild,0,Regulation
+11/3/2022,6:30 PM,8:30 PM,Los Angeles Kings,1,Chicago Blackhawks,2,OT
+11/3/2022,7:00 PM,9:00 PM,Nashville Predators,4,Calgary Flames,1,Regulation
+11/3/2022,7:00 PM,9:00 PM,New Jersey Devils,4,Edmonton Oilers,3,Regulation
+11/3/2022,8:00 PM,10:00 PM,Anaheim Ducks,5,Vancouver Canucks,8,Regulation
+11/3/2022,8:00 PM,10:00 PM,Dallas Stars,7,Arizona Coyotes,2,Regulation
+11/3/2022,8:30 PM,10:30 PM,Florida Panthers,4,San Jose Sharks,3,SO
+11/4/2022,12:00 PM,2:00 PM,Columbus Blue Jackets,3,Colorado Avalanche,6,Regulation
+11/4/2022,5:00 PM,7:00 PM,Buffalo Sabres,3,Carolina Hurricanes,5,Regulation
+11/5/2022,11:00 AM,1:00 PM,New York Islanders,0,Detroit Red Wings,3,Regulation
+11/5/2022,12:00 PM,2:00 PM,Colorado Avalanche,5,Columbus Blue Jackets,1,Regulation
+11/5/2022,1:00 PM,3:00 PM,Chicago Blackhawks,0,Winnipeg Jets,4,Regulation
+11/5/2022,2:00 PM,4:00 PM,Dallas Stars,6,Edmonton Oilers,2,Regulation
+11/5/2022,5:00 PM,7:00 PM,Arizona Coyotes,3,Washington Capitals,2,Regulation
+11/5/2022,5:00 PM,7:00 PM,Boston Bruins,1,Toronto Maple Leafs,2,Regulation
+11/5/2022,5:00 PM,7:00 PM,Buffalo Sabres,3,Tampa Bay Lightning,5,Regulation
+11/5/2022,5:00 PM,7:00 PM,Philadelphia Flyers,2,Ottawa Senators,1,Regulation
+11/5/2022,5:00 PM,7:00 PM,Seattle Kraken,3,Pittsburgh Penguins,2,Regulation
+11/5/2022,5:00 PM,7:00 PM,Vegas Golden Knights,6,Montreal Canadiens,4,Regulation
+11/5/2022,8:00 PM,10:00 PM,Nashville Predators,4,Vancouver Canucks,3,SO
+11/5/2022,8:00 PM,10:00 PM,New Jersey Devils,4,Calgary Flames,3,OT
+11/5/2022,8:30 PM,10:30 PM,Anaheim Ducks,5,San Jose Sharks,4,SO
+11/5/2022,8:30 PM,10:30 PM,Florida Panthers,4,Los Angeles Kings,5,Regulation
+11/6/2022,4:00 PM,5:00 PM,Detroit Red Wings,3,New York Rangers,2,OT
+11/6/2022,4:00 PM,5:00 PM,Toronto Maple Leafs,3,Carolina Hurricanes,1,Regulation
+11/6/2022,8:00 PM,9:00 PM,Florida Panthers,5,Anaheim Ducks,3,Regulation
+11/7/2022,6:00 PM,7:00 PM,Calgary Flames,3,New York Islanders,4,OT
+11/7/2022,6:00 PM,7:00 PM,St. Louis Blues,1,Boston Bruins,3,Regulation
+11/7/2022,7:00 PM,8:00 PM,Edmonton Oilers,4,Washington Capitals,5,Regulation
+11/8/2022,6:00 PM,7:00 PM,Arizona Coyotes,4,Buffalo Sabres,1,Regulation
+11/8/2022,6:00 PM,7:00 PM,Calgary Flames,2,New Jersey Devils,3,Regulation
+11/8/2022,6:00 PM,7:00 PM,New York Islanders,4,New York Rangers,3,Regulation
+11/8/2022,6:00 PM,7:00 PM,St. Louis Blues,1,Philadelphia Flyers,5,Regulation
+11/8/2022,6:00 PM,7:00 PM,Vancouver Canucks,6,Ottawa Senators,4,Regulation
+11/8/2022,6:00 PM,7:00 PM,Vegas Golden Knights,4,Toronto Maple Leafs,3,OT
+11/8/2022,6:00 PM,7:00 PM,Montreal Canadiens,3,Detroit Red Wings,2,SO
+11/8/2022,6:30 PM,7:30 PM,Edmonton Oilers,3,Tampa Bay Lightning,2,Regulation
+11/8/2022,7:00 PM,8:00 PM,Dallas Stars,1,Winnipeg Jets,5,Regulation
+11/8/2022,9:00 PM,10:00 PM,Nashville Predators,1,Seattle Kraken,5,Regulation
+11/8/2022,9:30 PM,10:30 PM,Minnesota Wild,0,Los Angeles Kings,1,Regulation
+11/9/2022,6:00 PM,7:00 PM,Carolina Hurricanes,0,Florida Panthers,3,Regulation
+11/9/2022,6:30 PM,7:30 PM,Pittsburgh Penguins,4,Washington Capitals,1,Regulation
+11/9/2022,6:30 PM,7:30 PM,Vancouver Canucks,2,Montreal Canadiens,5,Regulation
+11/9/2022,9:00 PM,10:00 PM,Minnesota Wild,4,Anaheim Ducks,1,Regulation
+11/10/2022,6:00 PM,7:00 PM,Calgary Flames,1,Boston Bruins,3,Regulation
+11/10/2022,6:00 PM,7:00 PM,Edmonton Oilers,2,Carolina Hurricanes,7,Regulation
+11/10/2022,6:00 PM,7:00 PM,Ottawa Senators,3,New Jersey Devils,4,OT
+11/10/2022,6:00 PM,7:00 PM,Philadelphia Flyers,2,Columbus Blue Jackets,5,Regulation
+11/10/2022,6:00 PM,7:00 PM,Vegas Golden Knights,7,Buffalo Sabres,4,Regulation
+11/10/2022,6:00 PM,7:00 PM,New York Rangers,8,Detroit Red Wings,2,Regulation
+11/10/2022,6:30 PM,7:30 PM,Arizona Coyotes,2,New York Islanders,0,Regulation
+11/10/2022,7:00 PM,8:00 PM,San Jose Sharks,3,St. Louis Blues,5,Regulation
+11/10/2022,8:00 PM,9:00 PM,Nashville Predators,3,Colorado Avalanche,5,Regulation
+11/10/2022,9:30 PM,10:30 PM,Chicago Blackhawks,1,Los Angeles Kings,2,OT
+11/11/2022,6:00 PM,7:00 PM,Pittsburgh Penguins,4,Toronto Maple Leafs,2,Regulation
+11/11/2022,6:00 PM,7:00 PM,Tampa Bay Lightning,1,Washington Capitals,5,Regulation
+11/11/2022,7:30 PM,8:30 PM,San Jose Sharks,5,Dallas Stars,4,Regulation
+11/11/2022,9:00 PM,10:00 PM,Minnesota Wild,1,Seattle Kraken,0,Regulation
+11/12/2022,12:00 PM,1:00 PM,Ottawa Senators,4,Philadelphia Flyers,1,Regulation
+11/12/2022,3:00 PM,4:00 PM,Edmonton Oilers,4,Florida Panthers,2,Regulation
+11/12/2022,6:00 PM,7:00 PM,Arizona Coyotes,2,New Jersey Devils,4,Regulation
+11/12/2022,6:00 PM,7:00 PM,Boston Bruins,3,Buffalo Sabres,1,Regulation
+11/12/2022,6:00 PM,7:00 PM,Pittsburgh Penguins,4,Montreal Canadiens,5,OT
+11/12/2022,6:00 PM,7:00 PM,Vancouver Canucks,2,Toronto Maple Leafs,3,Regulation
+11/12/2022,6:30 PM,7:30 PM,Columbus Blue Jackets,3,New York Islanders,4,OT
+11/12/2022,7:00 PM,8:00 PM,New York Rangers,1,Nashville Predators,2,Regulation
+11/12/2022,8:00 PM,9:00 PM,Carolina Hurricanes,1,Colorado Avalanche,4,Regulation
+11/12/2022,9:00 PM,10:00 PM,Chicago Blackhawks,3,Anaheim Ducks,2,Regulation
+11/12/2022,9:00 PM,10:00 PM,St. Louis Blues,3,Vegas Golden Knights,2,Regulation
+11/12/2022,9:00 PM,10:00 PM,Winnipeg Jets,2,Calgary Flames,3,Regulation
+11/12/2022,9:30 PM,10:30 PM,Detroit Red Wings,3,Los Angeles Kings,4,Regulation
+11/13/2022,12:00 PM,1:00 PM,Dallas Stars,5,Philadelphia Flyers,1,Regulation
+11/13/2022,5:00 PM,6:00 PM,San Jose Sharks,3,Minnesota Wild,2,SO
+11/13/2022,5:00 PM,6:00 PM,Vancouver Canucks,2,Boston Bruins,5,Regulation
+11/13/2022,6:00 PM,7:00 PM,Arizona Coyotes,1,New York Rangers,4,Regulation
+11/13/2022,6:00 PM,7:00 PM,Washington Capitals,3,Tampa Bay Lightning,6,Regulation
+11/13/2022,7:00 PM,8:00 PM,Winnipeg Jets,3,Seattle Kraken,2,OT
+11/14/2022,4:30 PM,5:30 PM,New York Islanders,4,Ottawa Senators,2,Regulation
+11/14/2022,7:30 PM,8:30 PM,Carolina Hurricanes,3,Chicago Blackhawks,0,Regulation
+11/14/2022,7:30 PM,8:30 PM,Los Angeles Kings,5,Calgary Flames,6,Regulation
+11/14/2022,8:00 PM,9:00 PM,St. Louis Blues,3,Colorado Avalanche,2,Regulation
+11/15/2022,6:00 PM,7:00 PM,Dallas Stars,4,Tampa Bay Lightning,5,OT
+11/15/2022,6:00 PM,7:00 PM,New Jersey Devils,5,Montreal Canadiens,1,Regulation
+11/15/2022,6:00 PM,7:00 PM,Toronto Maple Leafs,5,Pittsburgh Penguins,2,Regulation
+11/15/2022,6:00 PM,7:00 PM,Vancouver Canucks,5,Buffalo Sabres,4,Regulation
+11/15/2022,6:00 PM,7:00 PM,Washington Capitals,2,Florida Panthers,5,Regulation
+11/15/2022,6:30 PM,7:30 PM,Philadelphia Flyers,4,Columbus Blue Jackets,5,OT
+11/15/2022,7:00 PM,8:00 PM,Minnesota Wild,1,Nashville Predators,2,Regulation
+11/15/2022,9:00 PM,10:00 PM,Detroit Red Wings,2,Anaheim Ducks,3,OT
+11/15/2022,9:00 PM,10:00 PM,San Jose Sharks,5,Vegas Golden Knights,2,Regulation
+11/16/2022,6:00 PM,7:00 PM,Buffalo Sabres,1,Ottawa Senators,4,Regulation
+11/16/2022,6:30 PM,7:30 PM,St. Louis Blues,5,Chicago Blackhawks,2,Regulation
+11/16/2022,9:00 PM,10:00 PM,Los Angeles Kings,3,Edmonton Oilers,1,Regulation
+11/17/2022,6:00 PM,7:00 PM,Calgary Flames,1,Tampa Bay Lightning,4,Regulation
+11/17/2022,6:00 PM,7:00 PM,Colorado Avalanche,3,Carolina Hurricanes,2,OT
+11/17/2022,6:00 PM,7:00 PM,Dallas Stars,6,Florida Panthers,4,Regulation
+11/17/2022,6:00 PM,7:00 PM,Montreal Canadiens,4,Columbus Blue Jackets,6,Regulation
+11/17/2022,6:00 PM,7:00 PM,New Jersey Devils,3,Toronto Maple Leafs,2,OT
+11/17/2022,6:00 PM,7:00 PM,Philadelphia Flyers,1,Boston Bruins,4,Regulation
+11/17/2022,7:00 PM,8:00 PM,Anaheim Ducks,2,Winnipeg Jets,3,Regulation
+11/17/2022,7:00 PM,8:00 PM,New York Islanders,4,Nashville Predators,5,Regulation
+11/17/2022,7:00 PM,8:00 PM,Pittsburgh Penguins,6,Minnesota Wild,4,Regulation
+11/17/2022,7:00 PM,8:00 PM,Washington Capitals,4,St. Louis Blues,5,SO
+11/17/2022,9:00 PM,10:00 PM,Arizona Coyotes,1,Vegas Golden Knights,4,Regulation
+11/17/2022,9:00 PM,10:00 PM,New York Rangers,2,Seattle Kraken,3,OT
+11/17/2022,9:30 PM,10:30 PM,Detroit Red Wings,7,San Jose Sharks,4,Regulation
+11/18/2022,9:00 PM,10:00 PM,Los Angeles Kings,1,Vancouver Canucks,4,Regulation
+11/19/2022,12:00 PM,1:00 PM,New Jersey Devils,5,Ottawa Senators,1,Regulation
+11/19/2022,3:00 PM,4:00 PM,Calgary Flames,5,Florida Panthers,4,SO
+11/19/2022,6:00 PM,7:00 PM,Buffalo Sabres,2,Toronto Maple Leafs,5,Regulation
+11/19/2022,6:00 PM,7:00 PM,Chicago Blackhawks,1,Boston Bruins,6,Regulation
+11/19/2022,6:00 PM,7:00 PM,Colorado Avalanche,4,Washington Capitals,0,Regulation
+11/19/2022,6:00 PM,7:00 PM,Detroit Red Wings,6,Columbus Blue Jackets,1,Regulation
+11/19/2022,6:00 PM,7:00 PM,Philadelphia Flyers,4,Montreal Canadiens,5,SO
+11/19/2022,6:00 PM,7:00 PM,Pittsburgh Penguins,3,Winnipeg Jets,0,Regulation
+11/19/2022,7:00 PM,8:00 PM,Anaheim Ducks,2,St. Louis Blues,6,Regulation
+11/19/2022,7:00 PM,8:00 PM,Carolina Hurricanes,1,Minnesota Wild,2,OT
+11/19/2022,7:00 PM,8:00 PM,New York Islanders,2,Dallas Stars,5,Regulation
+11/19/2022,7:00 PM,8:00 PM,Tampa Bay Lightning,3,Nashville Predators,2,OT
+11/19/2022,9:00 PM,10:00 PM,Los Angeles Kings,2,Seattle Kraken,3,OT
+11/19/2022,9:00 PM,10:00 PM,Vegas Golden Knights,3,Edmonton Oilers,4,OT
+11/19/2022,9:30 PM,10:30 PM,New York Rangers,2,San Jose Sharks,1,Regulation
+11/20/2022,5:00 PM,6:00 PM,Florida Panthers,3,Columbus Blue Jackets,5,Regulation
+11/20/2022,6:00 PM,7:00 PM,Pittsburgh Penguins,5,Chicago Blackhawks,3,Regulation
+11/21/2022,6:00 PM,7:00 PM,Boston Bruins,5,Tampa Bay Lightning,3,Regulation
+11/21/2022,6:00 PM,7:00 PM,Calgary Flames,5,Philadelphia Flyers,2,Regulation
+11/21/2022,6:00 PM,7:00 PM,Edmonton Oilers,2,New Jersey Devils,5,Regulation
+11/21/2022,6:30 PM,7:30 PM,Carolina Hurricanes,3,Winnipeg Jets,4,OT
+11/21/2022,6:30 PM,7:30 PM,New York Islanders,3,Toronto Maple Leafs,2,OT
+11/21/2022,7:00 PM,8:00 PM,Anaheim Ducks,1,St. Louis Blues,3,Regulation
+11/21/2022,7:00 PM,8:00 PM,Arizona Coyotes,3,Nashville Predators,4,SO
+11/21/2022,7:30 PM,8:30 PM,Colorado Avalanche,3,Dallas Stars,2,SO
+11/21/2022,9:30 PM,10:30 PM,Ottawa Senators,1,San Jose Sharks,5,Regulation
+11/21/2022,9:30 PM,10:30 PM,Vegas Golden Knights,5,Vancouver Canucks,4,Regulation
+11/22/2022,6:00 PM,7:00 PM,Buffalo Sabres,7,Montreal Canadiens,2,Regulation
+11/22/2022,9:30 PM,10:30 PM,New York Rangers,5,Los Angeles Kings,3,Regulation
+11/23/2022,6:00 PM,7:00 PM,Arizona Coyotes,4,Carolina Hurricanes,0,Regulation
+11/23/2022,6:00 PM,7:00 PM,Boston Bruins,2,Florida Panthers,5,Regulation
+11/23/2022,6:00 PM,7:00 PM,Calgary Flames,1,Pittsburgh Penguins,2,SO
+11/23/2022,6:00 PM,7:00 PM,Montreal Canadiens,3,Columbus Blue Jackets,1,Regulation
+11/23/2022,6:00 PM,7:00 PM,St. Louis Blues,2,Buffalo Sabres,6,Regulation
+11/23/2022,6:00 PM,7:00 PM,Toronto Maple Leafs,2,New Jersey Devils,1,Regulation
+11/23/2022,6:00 PM,7:00 PM,Winnipeg Jets,1,Minnesota Wild,6,Regulation
+11/23/2022,6:00 PM,7:00 PM,Nashville Predators,0,Detroit Red Wings,3,Regulation
+11/23/2022,6:30 PM,7:30 PM,Edmonton Oilers,0,New York Islanders,3,Regulation
+11/23/2022,6:30 PM,7:30 PM,Philadelphia Flyers,2,Washington Capitals,3,OT
+11/23/2022,7:30 PM,8:30 PM,Chicago Blackhawks,4,Dallas Stars,6,Regulation
+11/23/2022,9:00 PM,10:00 PM,New York Rangers,2,Anaheim Ducks,3,Regulation
+11/23/2022,9:00 PM,10:00 PM,Ottawa Senators,1,Vegas Golden Knights,4,Regulation
+11/23/2022,9:00 PM,10:00 PM,San Jose Sharks,5,Seattle Kraken,8,Regulation
+11/23/2022,9:00 PM,10:00 PM,Vancouver Canucks,4,Colorado Avalanche,3,Regulation
+11/25/2022,12:00 PM,1:00 PM,Carolina Hurricanes,2,Boston Bruins,3,OT
+11/25/2022,1:00 PM,2:00 PM,Calgary Flames,0,Washington Capitals,3,Regulation
+11/25/2022,1:00 PM,2:00 PM,Montreal Canadiens,3,Chicago Blackhawks,2,SO
+11/25/2022,1:00 PM,2:00 PM,Toronto Maple Leafs,4,Minnesota Wild,3,Regulation
+11/25/2022,2:00 PM,3:00 PM,Ottawa Senators,5,Anaheim Ducks,1,Regulation
+11/25/2022,4:30 PM,5:30 PM,Pittsburgh Penguins,4,Philadelphia Flyers,1,Regulation
+11/25/2022,7:00 PM,8:00 PM,Arizona Coyotes,3,Detroit Red Wings,4,SO
+11/25/2022,7:00 PM,8:00 PM,New York Islanders,3,Columbus Blue Jackets,2,Regulation
+11/25/2022,7:00 PM,8:00 PM,New Jersey Devils,3,Buffalo Sabres,1,Regulation
+11/25/2022,7:00 PM,8:00 PM,St. Louis Blues,2,Tampa Bay Lightning,5,Regulation
+11/25/2022,7:00 PM,8:00 PM,Seattle Kraken,4,Vegas Golden Knights,2,Regulation
+11/25/2022,7:30 PM,8:30 PM,Winnipeg Jets,5,Dallas Stars,4,OT
+11/25/2022,9:30 PM,10:30 PM,Los Angeles Kings,5,San Jose Sharks,2,Regulation
+11/26/2022,12:00 PM,1:00 PM,Edmonton Oilers,4,New York Rangers,3,Regulation
+11/26/2022,3:00 PM,4:00 PM,Calgary Flames,2,Carolina Hurricanes,3,Regulation
+11/26/2022,5:30 PM,6:30 PM,St. Louis Blues,5,Florida Panthers,4,OT
+11/26/2022,6:00 PM,7:00 PM,Toronto Maple Leafs,4,Pittsburgh Penguins,1,Regulation
+11/26/2022,6:00 PM,7:00 PM,Washington Capitals,1,New Jersey Devils,5,Regulation
+11/26/2022,6:30 PM,7:30 PM,Philadelphia Flyers,2,New York Islanders,5,Regulation
+11/26/2022,8:00 PM,9:00 PM,Dallas Stars,1,Colorado Avalanche,4,Regulation
+11/26/2022,9:00 PM,10:00 PM,Vancouver Canucks,5,Vegas Golden Knights,1,Regulation
+11/27/2022,1:00 PM,2:00 PM,Arizona Coyotes,3,Minnesota Wild,4,Regulation
+11/27/2022,6:00 PM,7:00 PM,Winnipeg Jets,7,Chicago Blackhawks,2,Regulation
+11/27/2022,7:00 PM,8:00 PM,Seattle Kraken,5,Anaheim Ducks,4,Regulation
+11/27/2022,7:00 PM,8:00 PM,Vancouver Canucks,4,San Jose Sharks,3,OT
+11/27/2022,9:30 PM,10:30 PM,Ottawa Senators,3,Los Angeles Kings,2,OT
+11/28/2022,6:00 PM,7:00 PM,New Jersey Devils,5,New York Rangers,3,Regulation
+11/28/2022,6:00 PM,7:00 PM,Tampa Bay Lightning,6,Buffalo Sabres,5,OT
+11/28/2022,6:00 PM,7:00 PM,Toronto Maple Leafs,4,Detroit Red Wings,2,Regulation
+11/28/2022,6:00 PM,7:00 PM,Vegas Golden Knights,3,Columbus Blue Jackets,2,SO
+11/28/2022,7:00 PM,8:00 PM,Dallas Stars,4,St. Louis Blues,1,Regulation
+11/28/2022,8:30 PM,9:30 PM,Florida Panthers,3,Edmonton Oilers,4,OT
+11/29/2022,6:00 PM,7:00 PM,Carolina Hurricanes,3,Pittsburgh Penguins,2,OT
+11/29/2022,6:00 PM,7:00 PM,San Jose Sharks,4,Montreal Canadiens,0,Regulation
+11/29/2022,6:00 PM,7:00 PM,Tampa Bay Lightning,1,Boston Bruins,3,Regulation
+11/29/2022,6:30 PM,7:30 PM,New York Islanders,1,Philadelphia Flyers,3,Regulation
+11/29/2022,7:00 PM,8:00 PM,Anaheim Ducks,1,Nashville Predators,2,OT
+11/29/2022,7:00 PM,8:00 PM,Colorado Avalanche,0,Winnipeg Jets,5,Regulation
+11/29/2022,8:00 PM,9:00 PM,Florida Panthers,2,Calgary Flames,6,Regulation
+11/29/2022,9:00 PM,10:00 PM,Washington Capitals,5,Vancouver Canucks,1,Regulation
+11/29/2022,9:30 PM,10:30 PM,Seattle Kraken,9,Los Angeles Kings,8,OT
+11/30/2022,6:00 PM,7:00 PM,Buffalo Sabres,5,Detroit Red Wings,4,SO
+11/30/2022,6:00 PM,7:00 PM,New York Rangers,3,Ottawa Senators,1,Regulation
+11/30/2022,6:00 PM,7:00 PM,San Jose Sharks,1,Toronto Maple Leafs,3,Regulation
+11/30/2022,8:30 PM,9:30 PM,Edmonton Oilers,5,Chicago Blackhawks,4,Regulation
+12/1/2022,6:00 PM,7:00 PM,Colorado Avalanche,6,Buffalo Sabres,4,Regulation
+12/1/2022,6:00 PM,7:00 PM,Nashville Predators,4,New Jersey Devils,3,OT
+12/1/2022,6:00 PM,7:00 PM,Tampa Bay Lightning,4,Philadelphia Flyers,1,Regulation
+12/1/2022,6:00 PM,7:00 PM,Vegas Golden Knights,3,Pittsburgh Penguins,4,Regulation
+12/1/2022,7:00 PM,8:00 PM,Carolina Hurricanes,6,St. Louis Blues,4,Regulation
+12/1/2022,7:00 PM,8:00 PM,Edmonton Oilers,3,Minnesota Wild,5,Regulation
+12/1/2022,7:30 PM,8:30 PM,Anaheim Ducks,0,Dallas Stars,5,Regulation
+12/1/2022,8:00 PM,9:00 PM,Montreal Canadiens,2,Calgary Flames,1,Regulation
+12/1/2022,9:00 PM,10:00 PM,Florida Panthers,5,Vancouver Canucks,1,Regulation
+12/1/2022,9:00 PM,10:00 PM,Washington Capitals,2,Seattle Kraken,3,OT
+12/1/2022,9:30 PM,10:30 PM,Arizona Coyotes,3,Los Angeles Kings,5,Regulation
+12/2/2022,6:00 PM,7:00 PM,Ottawa Senators,3,New York Rangers,2,OT
+12/2/2022,6:30 PM,7:30 PM,Nashville Predators,4,New York Islanders,1,Regulation
+12/2/2022,7:00 PM,8:00 PM,Columbus Blue Jackets,4,Winnipeg Jets,1,Regulation
+12/3/2022,1:00 PM,2:00 PM,Anaheim Ducks,4,Minnesota Wild,5,SO
+12/3/2022,6:00 PM,7:00 PM,Colorado Avalanche,1,Boston Bruins,5,Regulation
+12/3/2022,6:00 PM,7:00 PM,Montreal Canadiens,3,Edmonton Oilers,5,Regulation
+12/3/2022,6:00 PM,7:00 PM,New Jersey Devils,3,Philadelphia Flyers,2,Regulation
+12/3/2022,6:00 PM,7:00 PM,San Jose Sharks,2,Ottawa Senators,5,Regulation
+12/3/2022,6:00 PM,7:00 PM,St. Louis Blues,2,Pittsburgh Penguins,6,Regulation
+12/3/2022,6:00 PM,7:00 PM,Toronto Maple Leafs,3,Tampa Bay Lightning,4,OT
+12/3/2022,6:00 PM,7:00 PM,Vegas Golden Knights,4,Detroit Red Wings,1,Regulation
+12/3/2022,6:30 PM,7:30 PM,Chicago Blackhawks,5,New York Rangers,2,Regulation
+12/3/2022,9:00 PM,10:00 PM,Arizona Coyotes,2,Vancouver Canucks,3,OT
+12/3/2022,9:00 PM,10:00 PM,Florida Panthers,5,Seattle Kraken,1,Regulation
+12/3/2022,9:00 PM,10:00 PM,Washington Capitals,2,Calgary Flames,5,Regulation
+12/3/2022,9:30 PM,10:30 PM,Carolina Hurricanes,4,Los Angeles Kings,2,Regulation
+12/4/2022,2:00 PM,3:00 PM,Anaheim Ducks,2,Winnipeg Jets,5,Regulation
+12/4/2022,2:00 PM,3:00 PM,Minnesota Wild,6,Dallas Stars,5,SO
+12/4/2022,5:00 PM,6:00 PM,Detroit Red Wings,4,Columbus Blue Jackets,2,Regulation
+12/4/2022,6:00 PM,7:00 PM,San Jose Sharks,3,Buffalo Sabres,6,Regulation
+12/4/2022,6:30 PM,7:30 PM,Chicago Blackhawks,0,New York Islanders,3,Regulation
+12/5/2022,6:00 PM,7:00 PM,Colorado Avalanche,3,Philadelphia Flyers,5,Regulation
+12/5/2022,6:00 PM,7:00 PM,St. Louis Blues,4,New York Rangers,6,Regulation
+12/5/2022,6:00 PM,7:00 PM,Vegas Golden Knights,4,Boston Bruins,3,SO
+12/5/2022,7:30 PM,8:30 PM,Washington Capitals,3,Edmonton Oilers,2,Regulation
+12/5/2022,8:00 PM,9:00 PM,Arizona Coyotes,2,Calgary Flames,3,Regulation
+12/5/2022,9:30 PM,10:30 PM,Montreal Canadiens,6,Vancouver Canucks,7,OT
+12/6/2022,6:00 PM,7:00 PM,Chicago Blackhawks,0,New Jersey Devils,3,Regulation
+12/6/2022,6:00 PM,7:00 PM,Columbus Blue Jackets,1,Pittsburgh Penguins,4,Regulation
+12/6/2022,6:00 PM,7:00 PM,Detroit Red Wings,4,Tampa Bay Lightning,2,Regulation
+12/6/2022,6:00 PM,7:00 PM,Los Angeles Kings,5,Ottawa Senators,2,Regulation
+12/6/2022,6:30 PM,7:30 PM,St. Louis Blues,7,New York Islanders,4,Regulation
+12/6/2022,7:00 PM,8:00 PM,Florida Panthers,2,Winnipeg Jets,5,Regulation
+12/6/2022,7:30 PM,8:30 PM,Toronto Maple Leafs,4,Dallas Stars,0,Regulation
+12/6/2022,9:00 PM,10:00 PM,Carolina Hurricanes,3,Anaheim Ducks,4,OT
+12/6/2022,9:00 PM,10:00 PM,Montreal Canadiens,4,Seattle Kraken,2,Regulation
+12/7/2022,6:00 PM,7:00 PM,Washington Capitals,4,Philadelphia Flyers,1,Regulation
+12/7/2022,6:30 PM,7:30 PM,Buffalo Sabres,9,Columbus Blue Jackets,4,Regulation
+12/7/2022,7:00 PM,8:00 PM,Minnesota Wild,3,Calgary Flames,5,Regulation
+12/7/2022,8:00 PM,9:00 PM,Boston Bruins,4,Colorado Avalanche,0,Regulation
+12/7/2022,8:30 PM,9:30 PM,Arizona Coyotes,2,Edmonton Oilers,8,Regulation
+12/7/2022,9:00 PM,10:00 PM,New York Rangers,5,Vegas Golden Knights,1,Regulation
+12/7/2022,9:30 PM,10:30 PM,Vancouver Canucks,6,San Jose Sharks,5,OT
+12/8/2022,6:00 PM,7:00 PM,Los Angeles Kings,0,Toronto Maple Leafs,5,Regulation
+12/8/2022,6:00 PM,7:00 PM,Nashville Predators,2,Tampa Bay Lightning,5,Regulation
+12/8/2022,6:30 PM,7:30 PM,Detroit Red Wings,1,Florida Panthers,5,Regulation
+12/8/2022,7:00 PM,8:00 PM,Winnipeg Jets,5,St. Louis Blues,2,Regulation
+12/8/2022,7:30 PM,8:30 PM,Ottawa Senators,3,Dallas Stars,4,OT
+12/9/2022,6:00 PM,7:00 PM,Calgary Flames,1,Columbus Blue Jackets,3,Regulation
+12/9/2022,6:00 PM,7:00 PM,New York Islanders,6,New Jersey Devils,4,Regulation
+12/9/2022,6:00 PM,7:00 PM,Pittsburgh Penguins,4,Buffalo Sabres,3,OT
+12/9/2022,6:00 PM,7:00 PM,Seattle Kraken,1,Washington Capitals,4,Regulation
+12/9/2022,7:30 PM,8:30 PM,Winnipeg Jets,3,Chicago Blackhawks,1,Regulation
+12/9/2022,8:00 PM,9:00 PM,Minnesota Wild,2,Edmonton Oilers,5,Regulation
+12/9/2022,8:00 PM,9:00 PM,New York Rangers,2,Colorado Avalanche,1,SO
+12/9/2022,8:30 PM,9:30 PM,Boston Bruins,3,Arizona Coyotes,4,Regulation
+12/9/2022,9:00 PM,10:00 PM,Philadelphia Flyers,1,Vegas Golden Knights,2,OT
+12/9/2022,9:00 PM,10:00 PM,San Jose Sharks,6,Anaheim Ducks,1,Regulation
+12/10/2022,12:30 PM,1:30 PM,Ottawa Senators,3,Nashville Predators,2,Regulation
+12/10/2022,1:00 PM,2:00 PM,Detroit Red Wings,2,Dallas Stars,3,OT
+12/10/2022,3:30 PM,4:30 PM,Florida Panthers,1,Tampa Bay Lightning,4,Regulation
+12/10/2022,6:00 PM,7:00 PM,Buffalo Sabres,1,Pittsburgh Penguins,3,Regulation
+12/10/2022,6:00 PM,7:00 PM,Calgary Flames,4,Toronto Maple Leafs,5,OT
+12/10/2022,6:00 PM,7:00 PM,Los Angeles Kings,4,Montreal Canadiens,2,Regulation
+12/10/2022,6:30 PM,7:30 PM,Carolina Hurricanes,3,New York Islanders,0,Regulation
+12/10/2022,9:00 PM,10:00 PM,Minnesota Wild,3,Vancouver Canucks,0,Regulation
+12/11/2022,2:00 PM,3:00 PM,Colorado Avalanche,3,St. Louis Blues,2,OT
+12/11/2022,5:00 PM,6:00 PM,Los Angeles Kings,5,Columbus Blue Jackets,6,OT
+12/11/2022,5:00 PM,6:00 PM,Seattle Kraken,5,Florida Panthers,2,Regulation
+12/11/2022,6:00 PM,7:00 PM,Philadelphia Flyers,4,Arizona Coyotes,5,OT
+12/11/2022,6:00 PM,7:00 PM,Washington Capitals,5,Winnipeg Jets,2,Regulation
+12/11/2022,7:00 PM,8:00 PM,Boston Bruins,3,Vegas Golden Knights,1,Regulation
+12/12/2022,6:00 PM,7:00 PM,Calgary Flames,1,Montreal Canadiens,2,SO
+12/12/2022,6:00 PM,7:00 PM,Dallas Stars,1,Pittsburgh Penguins,2,Regulation
+12/12/2022,6:00 PM,7:00 PM,New Jersey Devils,3,New York Rangers,4,OT
+12/12/2022,6:30 PM,7:30 PM,Anaheim Ducks,0,Ottawa Senators,3,Regulation
+12/12/2022,7:00 PM,8:00 PM,Edmonton Oilers,1,Minnesota Wild,2,Regulation
+12/12/2022,7:00 PM,8:00 PM,Nashville Predators,0,St. Louis Blues,1,OT
+12/13/2022,6:00 PM,7:00 PM,Anaheim Ducks,0,Toronto Maple Leafs,7,Regulation
+12/13/2022,6:00 PM,7:00 PM,Columbus Blue Jackets,0,Florida Panthers,4,Regulation
+12/13/2022,6:00 PM,7:00 PM,Dallas Stars,4,New Jersey Devils,1,Regulation
+12/13/2022,6:00 PM,7:00 PM,Los Angeles Kings,0,Buffalo Sabres,6,Regulation
+12/13/2022,6:00 PM,7:00 PM,New York Islanders,3,Boston Bruins,4,SO
+12/13/2022,6:00 PM,7:00 PM,Seattle Kraken,2,Tampa Bay Lightning,6,Regulation
+12/13/2022,6:00 PM,7:00 PM,Carolina Hurricanes,1,Detroit Red Wings,0,Regulation
+12/13/2022,7:00 PM,8:00 PM,Edmonton Oilers,6,Nashville Predators,3,Regulation
+12/13/2022,7:00 PM,8:00 PM,Vegas Golden Knights,6,Winnipeg Jets,5,Regulation
+12/13/2022,8:00 PM,9:00 PM,Washington Capitals,7,Chicago Blackhawks,3,Regulation
+12/13/2022,8:00 PM,9:00 PM,Philadelphia Flyers,2,Colorado Avalanche,3,Regulation
+12/13/2022,9:30 PM,10:30 PM,Arizona Coyotes,2,San Jose Sharks,3,Regulation
+12/14/2022,6:00 PM,7:00 PM,Montreal Canadiens,2,Ottawa Senators,3,Regulation
+12/14/2022,6:30 PM,7:30 PM,Detroit Red Wings,1,Minnesota Wild,4,Regulation
+12/14/2022,9:00 PM,10:00 PM,Vancouver Canucks,4,Calgary Flames,3,SO
+12/15/2022,6:00 PM,7:00 PM,Anaheim Ducks,5,Montreal Canadiens,2,Regulation
+12/15/2022,6:00 PM,7:00 PM,Columbus Blue Jackets,1,Tampa Bay Lightning,4,Regulation
+12/15/2022,6:00 PM,7:00 PM,Dallas Stars,2,Washington Capitals,1,Regulation
+12/15/2022,6:00 PM,7:00 PM,Los Angeles Kings,3,Boston Bruins,2,SO
+12/15/2022,6:00 PM,7:00 PM,Philadelphia Flyers,2,New Jersey Devils,1,Regulation
+12/15/2022,6:00 PM,7:00 PM,Pittsburgh Penguins,4,Florida Panthers,2,Regulation
+12/15/2022,6:00 PM,7:00 PM,Seattle Kraken,2,Carolina Hurricanes,3,Regulation
+12/15/2022,6:00 PM,7:00 PM,Toronto Maple Leafs,1,New York Rangers,3,Regulation
+12/15/2022,7:00 PM,8:00 PM,Nashville Predators,1,Winnipeg Jets,2,OT
+12/15/2022,7:30 PM,8:30 PM,Vegas Golden Knights,4,Chicago Blackhawks,1,Regulation
+12/15/2022,8:00 PM,9:00 PM,Buffalo Sabres,4,Colorado Avalanche,2,Regulation
+12/15/2022,8:00 PM,9:00 PM,St. Louis Blues,4,Edmonton Oilers,3,SO
+12/16/2022,7:00 PM,8:00 PM,Chicago Blackhawks,1,Minnesota Wild,4,Regulation
+12/16/2022,8:00 PM,9:00 PM,St. Louis Blues,5,Calgary Flames,2,Regulation
+12/16/2022,8:30 PM,9:30 PM,New York Islanders,4,Arizona Coyotes,5,Regulation
+12/17/2022,12:00 PM,1:00 PM,Columbus Blue Jackets,2,Boston Bruins,4,Regulation
+12/17/2022,12:00 PM,1:00 PM,Ottawa Senators,6,Detroit Red Wings,3,Regulation
+12/17/2022,3:00 PM,4:00 PM,Anaheim Ducks,4,Edmonton Oilers,3,Regulation
+12/17/2022,6:00 PM,7:00 PM,Dallas Stars,4,Carolina Hurricanes,5,OT
+12/17/2022,6:00 PM,7:00 PM,New York Rangers,6,Philadelphia Flyers,3,Regulation
+12/17/2022,6:00 PM,7:00 PM,Tampa Bay Lightning,5,Montreal Canadiens,1,Regulation
+12/17/2022,6:00 PM,7:00 PM,Toronto Maple Leafs,2,Washington Capitals,5,Regulation
+12/17/2022,6:30 PM,7:30 PM,Florida Panthers,4,New Jersey Devils,2,Regulation
+12/17/2022,8:00 PM,9:00 PM,Buffalo Sabres,5,Arizona Coyotes,2,Regulation
+12/17/2022,8:00 PM,9:00 PM,Nashville Predators,1,Colorado Avalanche,3,Regulation
+12/17/2022,9:00 PM,10:00 PM,New York Islanders,5,Vegas Golden Knights,2,Regulation
+12/17/2022,9:00 PM,10:00 PM,Winnipeg Jets,5,Vancouver Canucks,1,Regulation
+12/17/2022,9:30 PM,10:30 PM,San Jose Sharks,2,Los Angeles Kings,3,SO
+12/18/2022,1:00 PM,2:00 PM,Ottawa Senators,2,Minnesota Wild,4,Regulation
+12/18/2022,4:00 PM,5:00 PM,Pittsburgh Penguins,2,Carolina Hurricanes,3,Regulation
+12/18/2022,6:30 PM,7:30 PM,New York Rangers,7,Chicago Blackhawks,1,Regulation
+12/18/2022,7:00 PM,8:00 PM,Winnipeg Jets,2,Seattle Kraken,3,Regulation
+12/18/2022,9:00 PM,10:00 PM,Calgary Flames,5,San Jose Sharks,2,Regulation
+12/19/2022,6:00 PM,7:00 PM,Dallas Stars,2,Columbus Blue Jackets,1,Regulation
+12/19/2022,6:00 PM,7:00 PM,Detroit Red Wings,3,Washington Capitals,4,OT
+12/19/2022,6:00 PM,7:00 PM,Florida Panthers,3,Boston Bruins,7,Regulation
+12/19/2022,7:00 PM,8:00 PM,Edmonton Oilers,3,Nashville Predators,4,OT
+12/19/2022,8:00 PM,9:00 PM,New York Islanders,0,Colorado Avalanche,1,SO
+12/19/2022,9:00 PM,10:00 PM,Buffalo Sabres,3,Vegas Golden Knights,2,Regulation
+12/19/2022,9:00 PM,10:00 PM,Montreal Canadiens,3,Arizona Coyotes,2,OT
+12/19/2022,9:30 PM,10:30 PM,St. Louis Blues,5,Vancouver Canucks,1,Regulation
+12/20/2022,6:00 PM,7:00 PM,Columbus Blue Jackets,3,Philadelphia Flyers,5,Regulation
+12/20/2022,6:00 PM,7:00 PM,New York Rangers,2,Pittsburgh Penguins,3,Regulation
+12/20/2022,6:00 PM,7:00 PM,New Jersey Devils,1,Carolina Hurricanes,4,Regulation
+12/20/2022,6:00 PM,7:00 PM,Tampa Bay Lightning,1,Toronto Maple Leafs,4,Regulation
+12/20/2022,7:00 PM,8:00 PM,Ottawa Senators,1,Winnipeg Jets,5,Regulation
+12/20/2022,9:00 PM,10:00 PM,St. Louis Blues,2,Seattle Kraken,5,Regulation
+12/20/2022,9:30 PM,10:30 PM,Anaheim Ducks,1,Los Angeles Kings,4,Regulation
+12/20/2022,9:30 PM,10:30 PM,Calgary Flames,7,San Jose Sharks,3,Regulation
+12/21/2022,6:00 PM,7:00 PM,New Jersey Devils,4,Florida Panthers,2,Regulation
+12/21/2022,6:00 PM,7:00 PM,Tampa Bay Lightning,4,Detroit Red Wings,7,Regulation
+12/21/2022,7:00 PM,8:00 PM,Montreal Canadiens,1,Colorado Avalanche,2,OT
+12/21/2022,7:30 PM,8:30 PM,Nashville Predators,4,Chicago Blackhawks,2,Regulation
+12/21/2022,8:30 PM,9:30 PM,Edmonton Oilers,6,Dallas Stars,3,Regulation
+12/21/2022,9:00 PM,10:00 PM,Arizona Coyotes,2,Vegas Golden Knights,5,Regulation
+12/21/2022,9:00 PM,10:00 PM,Minnesota Wild,4,Anaheim Ducks,1,Regulation
+12/22/2022,1:00 PM,2:00 PM,Philadelphia Flyers,3,Toronto Maple Leafs,4,Regulation
+12/22/2022,6:00 PM,7:00 PM,Carolina Hurricanes,4,Pittsburgh Penguins,3,OT
+12/22/2022,6:00 PM,7:00 PM,New York Islanders,3,New York Rangers,5,Regulation
+12/22/2022,6:00 PM,7:00 PM,Washington Capitals,3,Ottawa Senators,2,OT
+12/22/2022,6:00 PM,7:00 PM,Winnipeg Jets,2,Boston Bruins,3,Regulation
+12/22/2022,9:00 PM,10:00 PM,Seattle Kraken,5,Vancouver Canucks,6,SO
+12/22/2022,9:30 PM,10:30 PM,Calgary Flames,3,Los Angeles Kings,4,OT
+12/22/2022,9:30 PM,10:30 PM,Minnesota Wild,2,San Jose Sharks,5,Regulation
+12/23/2022,6:00 PM,7:00 PM,Boston Bruins,4,New Jersey Devils,3,Regulation
+12/23/2022,6:00 PM,7:00 PM,Philadelphia Flyers,5,Carolina Hurricanes,6,Regulation
+12/23/2022,6:00 PM,7:00 PM,Winnipeg Jets,1,Washington Capitals,4,Regulation
+12/23/2022,6:30 PM,7:30 PM,Florida Panthers,1,New York Islanders,5,Regulation
+12/23/2022,7:00 PM,8:00 PM,Colorado Avalanche,3,Nashville Predators,2,OT
+12/23/2022,7:00 PM,8:00 PM,Montreal Canadiens,2,Dallas Stars,4,Regulation
+12/23/2022,7:30 PM,8:30 PM,Columbus Blue Jackets,2,Chicago Blackhawks,5,Regulation
+12/23/2022,8:00 PM,9:00 PM,Vancouver Canucks,5,Edmonton Oilers,2,Regulation
+12/23/2022,8:30 PM,9:30 PM,Los Angeles Kings,1,Arizona Coyotes,2,SO
+12/23/2022,9:00 PM,10:00 PM,St. Louis Blues,4,Vegas Golden Knights,5,SO
+12/23/2022,9:30 PM,10:30 PM,Calgary Flames,3,Anaheim Ducks,2,OT
+12/27/2022,6:00 PM,7:00 PM,Boston Bruins,2,Ottawa Senators,3,SO
+12/27/2022,6:00 PM,7:00 PM,Chicago Blackhawks,0,Carolina Hurricanes,3,Regulation
+12/27/2022,6:00 PM,7:00 PM,Washington Capitals,4,New York Rangers,0,Regulation
+12/27/2022,6:30 PM,7:30 PM,Pittsburgh Penguins,1,New York Islanders,5,Regulation
+12/27/2022,7:00 PM,8:00 PM,Dallas Stars,3,Nashville Predators,2,Regulation
+12/27/2022,7:00 PM,8:00 PM,Minnesota Wild,4,Winnipeg Jets,1,Regulation
+12/27/2022,7:00 PM,8:00 PM,Toronto Maple Leafs,5,St. Louis Blues,4,OT
+12/27/2022,8:00 PM,9:00 PM,Colorado Avalanche,3,Arizona Coyotes,6,Regulation
+12/27/2022,8:00 PM,9:00 PM,Edmonton Oilers,2,Calgary Flames,1,Regulation
+12/27/2022,9:00 PM,10:00 PM,San Jose Sharks,2,Vancouver Canucks,6,Regulation
+12/27/2022,9:30 PM,10:30 PM,Vegas Golden Knights,2,Los Angeles Kings,4,Regulation
+12/28/2022,6:00 PM,7:00 PM,Montreal Canadiens,1,Tampa Bay Lightning,4,Regulation
+12/28/2022,6:30 PM,7:30 PM,Boston Bruins,3,New Jersey Devils,1,Regulation
+12/28/2022,6:30 PM,7:30 PM,Detroit Red Wings,5,Pittsburgh Penguins,4,OT
+12/28/2022,9:00 PM,10:00 PM,Calgary Flames,3,Seattle Kraken,2,Regulation
+12/28/2022,9:00 PM,10:00 PM,Vegas Golden Knights,2,Anaheim Ducks,3,SO
+12/29/2022,6:00 PM,7:00 PM,Detroit Red Wings,3,Buffalo Sabres,6,Regulation
+12/29/2022,6:00 PM,7:00 PM,Montreal Canadiens,2,Florida Panthers,7,Regulation
+12/29/2022,6:00 PM,7:00 PM,New York Rangers,1,Tampa Bay Lightning,2,SO
+12/29/2022,6:00 PM,7:00 PM,Ottawa Senators,4,Washington Capitals,3,OT
+12/29/2022,6:30 PM,7:30 PM,Columbus Blue Jackets,1,New York Islanders,2,Regulation
+12/29/2022,7:00 PM,8:00 PM,Chicago Blackhawks,1,St. Louis Blues,3,Regulation
+12/29/2022,7:00 PM,8:00 PM,Dallas Stars,4,Minnesota Wild,1,Regulation
+12/29/2022,7:00 PM,8:00 PM,Vancouver Canucks,2,Winnipeg Jets,4,Regulation
+12/29/2022,8:00 PM,9:00 PM,Los Angeles Kings,5,Colorado Avalanche,4,SO
+12/29/2022,8:00 PM,9:00 PM,Toronto Maple Leafs,3,Arizona Coyotes,6,Regulation
+12/29/2022,9:30 PM,10:30 PM,Philadelphia Flyers,4,San Jose Sharks,3,OT
+12/30/2022,4:00 PM,5:00 PM,Nashville Predators,6,Anaheim Ducks,1,Regulation
+12/30/2022,6:00 PM,7:00 PM,New Jersey Devils,4,Pittsburgh Penguins,2,Regulation
+12/30/2022,6:30 PM,7:30 PM,Florida Panthers,0,Carolina Hurricanes,4,Regulation
+12/30/2022,9:00 PM,10:00 PM,Edmonton Oilers,7,Seattle Kraken,2,Regulation
+12/31/2022,12:00 PM,1:00 PM,Buffalo Sabres,4,Boston Bruins,3,OT
+12/31/2022,12:00 PM,1:00 PM,Chicago Blackhawks,1,Columbus Blue Jackets,4,Regulation
+12/31/2022,2:00 PM,3:00 PM,Nashville Predators,4,Vegas Golden Knights,5,OT
+12/31/2022,3:00 PM,4:00 PM,Montreal Canadiens,2,Washington Capitals,9,Regulation
+12/31/2022,3:00 PM,4:00 PM,Philadelphia Flyers,4,Los Angeles Kings,2,Regulation
+12/31/2022,4:00 PM,5:00 PM,Arizona Coyotes,3,Tampa Bay Lightning,5,Regulation
+12/31/2022,5:00 PM,6:00 PM,Minnesota Wild,5,St. Louis Blues,2,Regulation
+12/31/2022,6:00 PM,7:00 PM,Ottawa Senators,2,Detroit Red Wings,4,Regulation
+12/31/2022,6:00 PM,7:00 PM,Toronto Maple Leafs,6,Colorado Avalanche,2,Regulation
+12/31/2022,7:00 PM,8:00 PM,San Jose Sharks,2,Dallas Stars,5,Regulation
+12/31/2022,9:00 PM,10:00 PM,Vancouver Canucks,2,Calgary Flames,3,Regulation
+12/31/2022,9:00 PM,10:00 PM,Winnipeg Jets,2,Edmonton Oilers,1,Regulation
+1/1/2023,2:00 PM,3:00 PM,Carolina Hurricanes,5,New Jersey Devils,4,SO
+1/1/2023,4:00 PM,5:00 PM,New York Rangers,5,Florida Panthers,3,Regulation
+1/1/2023,6:00 PM,7:00 PM,Buffalo Sabres,1,Ottawa Senators,3,Regulation
+1/1/2023,6:00 PM,7:00 PM,San Jose Sharks,5,Chicago Blackhawks,2,Regulation
+1/1/2023,7:00 PM,8:00 PM,New York Islanders,1,Seattle Kraken,4,Regulation
+1/2/2023,1:00 PM,2:00 PM,Pittsburgh Penguins,1,Boston Bruins,2,Regulation
+1/2/2023,8:00 PM,9:00 PM,Vegas Golden Knights,3,Colorado Avalanche,2,Regulation
+1/2/2023,9:00 PM,10:00 PM,Philadelphia Flyers,4,Anaheim Ducks,1,Regulation
+1/3/2023,6:00 PM,7:00 PM,Arizona Coyotes,3,Florida Panthers,5,Regulation
+1/3/2023,6:00 PM,7:00 PM,Buffalo Sabres,5,Washington Capitals,4,OT
+1/3/2023,6:00 PM,7:00 PM,Carolina Hurricanes,3,New York Rangers,5,Regulation
+1/3/2023,6:00 PM,7:00 PM,Columbus Blue Jackets,0,Ottawa Senators,4,Regulation
+1/3/2023,6:00 PM,7:00 PM,St. Louis Blues,6,Toronto Maple Leafs,5,SO
+1/3/2023,7:00 PM,8:00 PM,Calgary Flames,2,Winnipeg Jets,3,Regulation
+1/3/2023,7:00 PM,8:00 PM,Montreal Canadiens,3,Nashville Predators,6,Regulation
+1/3/2023,7:30 PM,8:30 PM,Tampa Bay Lightning,4,Chicago Blackhawks,1,Regulation
+1/3/2023,8:00 PM,9:00 PM,Seattle Kraken,5,Edmonton Oilers,2,Regulation
+1/3/2023,9:00 PM,10:00 PM,New York Islanders,6,Vancouver Canucks,2,Regulation
+1/3/2023,9:00 PM,10:00 PM,Dallas Stars,2,Los Angeles Kings,3,Regulation
+1/4/2023,6:00 PM,7:00 PM,New Jersey Devils,5,Detroit Red Wings,1,Regulation
+1/4/2023,8:30 PM,9:30 PM,Tampa Bay Lightning,1,Minnesota Wild,5,Regulation
+1/4/2023,9:00 PM,10:00 PM,Dallas Stars,0,Anaheim Ducks,2,Regulation
+1/5/2023,6:00 PM,7:00 PM,Arizona Coyotes,2,Philadelphia Flyers,6,Regulation
+1/5/2023,6:00 PM,7:00 PM,New York Rangers,4,Montreal Canadiens,1,Regulation
+1/5/2023,6:00 PM,7:00 PM,Nashville Predators,5,Carolina Hurricanes,3,Regulation
+1/5/2023,6:00 PM,7:00 PM,Seattle Kraken,5,Toronto Maple Leafs,1,Regulation
+1/5/2023,6:00 PM,7:00 PM,St. Louis Blues,5,New Jersey Devils,3,Regulation
+1/5/2023,6:00 PM,7:00 PM,Washington Capitals,6,Columbus Blue Jackets,2,Regulation
+1/5/2023,8:00 PM,9:00 PM,New York Islanders,2,Edmonton Oilers,4,Regulation
+1/5/2023,9:00 PM,10:00 PM,Colorado Avalanche,2,Vancouver Canucks,4,Regulation
+1/5/2023,9:00 PM,10:00 PM,Pittsburgh Penguins,2,Vegas Golden Knights,5,Regulation
+1/5/2023,9:30 PM,10:30 PM,Boston Bruins,5,Los Angeles Kings,2,Regulation
+1/6/2023,6:00 PM,7:00 PM,Nashville Predators,3,Washington Capitals,2,Regulation
+1/6/2023,6:00 PM,7:00 PM,Florida Panthers,3,Detroit Red Wings,2,Regulation
+1/6/2023,7:00 PM,8:00 PM,Tampa Bay Lightning,2,Winnipeg Jets,4,Regulation
+1/6/2023,7:30 PM,8:30 PM,Arizona Coyotes,0,Chicago Blackhawks,2,Regulation
+1/6/2023,8:00 PM,9:00 PM,New York Islanders,1,Calgary Flames,4,Regulation
+1/6/2023,9:00 PM,10:00 PM,San Jose Sharks,4,Anaheim Ducks,5,OT
+1/7/2023,12:00 PM,1:00 PM,New York Rangers,3,New Jersey Devils,4,OT
+1/7/2023,3:00 PM,4:00 PM,Carolina Hurricanes,3,Columbus Blue Jackets,4,SO
+1/7/2023,6:00 PM,7:00 PM,Detroit Red Wings,1,Toronto Maple Leafs,4,Regulation
+1/7/2023,6:00 PM,7:00 PM,Minnesota Wild,5,Buffalo Sabres,6,OT
+1/7/2023,6:00 PM,7:00 PM,Seattle Kraken,8,Ottawa Senators,4,Regulation
+1/7/2023,6:00 PM,7:00 PM,St. Louis Blues,4,Montreal Canadiens,5,Regulation
+1/7/2023,9:00 PM,10:00 PM,Colorado Avalanche,3,Edmonton Oilers,2,OT
+1/7/2023,9:00 PM,10:00 PM,Los Angeles Kings,5,Vegas Golden Knights,1,Regulation
+1/7/2023,9:30 PM,10:30 PM,Boston Bruins,4,San Jose Sharks,2,Regulation
+1/8/2023,2:00 PM,3:00 PM,Vancouver Canucks,4,Winnipeg Jets,7,Regulation
+1/8/2023,2:30 PM,3:30 PM,Florida Panthers,1,Dallas Stars,5,Regulation
+1/8/2023,4:00 PM,5:00 PM,Columbus Blue Jackets,0,Washington Capitals,1,Regulation
+1/8/2023,6:00 PM,7:00 PM,Calgary Flames,3,Chicago Blackhawks,4,OT
+1/8/2023,6:00 PM,7:00 PM,Pittsburgh Penguins,4,Arizona Coyotes,1,Regulation
+1/8/2023,6:00 PM,7:00 PM,St. Louis Blues,3,Minnesota Wild,0,Regulation
+1/8/2023,6:00 PM,7:00 PM,Toronto Maple Leafs,6,Philadelphia Flyers,2,Regulation
+1/8/2023,7:30 PM,8:30 PM,Boston Bruins,7,Anaheim Ducks,1,Regulation
+1/9/2023,6:00 PM,7:00 PM,Philadelphia Flyers,4,Buffalo Sabres,0,Regulation
+1/9/2023,6:30 PM,7:30 PM,Nashville Predators,3,Ottawa Senators,0,Regulation
+1/9/2023,6:30 PM,7:30 PM,Seattle Kraken,4,Montreal Canadiens,0,Regulation
+1/9/2023,9:30 PM,10:30 PM,Edmonton Oilers,3,Los Angeles Kings,6,Regulation
+1/10/2023,6:00 PM,7:00 PM,Columbus Blue Jackets,3,Tampa Bay Lightning,6,Regulation
+1/10/2023,6:00 PM,7:00 PM,Minnesota Wild,3,New York Rangers,4,SO
+1/10/2023,6:00 PM,7:00 PM,New Jersey Devils,5,Carolina Hurricanes,3,Regulation
+1/10/2023,6:00 PM,7:00 PM,Seattle Kraken,4,Buffalo Sabres,3,Regulation
+1/10/2023,6:00 PM,7:00 PM,Vancouver Canucks,4,Pittsburgh Penguins,5,Regulation
+1/10/2023,6:00 PM,7:00 PM,Winnipeg Jets,5,Detroit Red Wings,7,Regulation
+1/10/2023,6:30 PM,7:30 PM,Dallas Stars,2,New York Islanders,1,SO
+1/10/2023,7:00 PM,8:00 PM,Calgary Flames,3,St. Louis Blues,4,OT
+1/10/2023,8:00 PM,9:00 PM,San Jose Sharks,4,Arizona Coyotes,2,Regulation
+1/10/2023,8:30 PM,9:30 PM,Florida Panthers,5,Colorado Avalanche,4,Regulation
+1/11/2023,6:00 PM,7:00 PM,Washington Capitals,3,Philadelphia Flyers,5,Regulation
+1/11/2023,6:30 PM,7:30 PM,Nashville Predators,1,Toronto Maple Leafs,2,Regulation
+1/11/2023,9:00 PM,10:00 PM,Edmonton Oilers,6,Anaheim Ducks,2,Regulation
+1/11/2023,9:00 PM,10:00 PM,San Jose Sharks,3,Los Angeles Kings,4,Regulation
+1/12/2023,6:00 PM,7:00 PM,Carolina Hurricanes,6,Columbus Blue Jackets,2,Regulation
+1/12/2023,6:00 PM,7:00 PM,Dallas Stars,1,New York Rangers,2,OT
+1/12/2023,6:00 PM,7:00 PM,Nashville Predators,3,Montreal Canadiens,4,Regulation
+1/12/2023,6:00 PM,7:00 PM,Seattle Kraken,3,Boston Bruins,0,Regulation
+1/12/2023,6:00 PM,7:00 PM,Toronto Maple Leafs,1,Detroit Red Wings,4,Regulation
+1/12/2023,6:00 PM,7:00 PM,Vancouver Canucks,4,Tampa Bay Lightning,5,Regulation
+1/12/2023,6:00 PM,7:00 PM,Winnipeg Jets,4,Buffalo Sabres,2,Regulation
+1/12/2023,6:30 PM,7:30 PM,Minnesota Wild,3,New York Islanders,1,Regulation
+1/12/2023,7:00 PM,8:00 PM,Calgary Flames,4,St. Louis Blues,1,Regulation
+1/12/2023,7:30 PM,8:30 PM,Colorado Avalanche,2,Chicago Blackhawks,3,Regulation
+1/12/2023,8:00 PM,9:00 PM,Ottawa Senators,5,Arizona Coyotes,3,Regulation
+1/12/2023,9:00 PM,10:00 PM,Florida Panthers,2,Vegas Golden Knights,4,Regulation
+1/13/2023,6:00 PM,7:00 PM,Winnipeg Jets,4,Pittsburgh Penguins,1,Regulation
+1/13/2023,9:00 PM,10:00 PM,New Jersey Devils,6,Anaheim Ducks,2,Regulation
+1/13/2023,9:30 PM,10:30 PM,Edmonton Oilers,7,San Jose Sharks,1,Regulation
+1/14/2023,1:00 PM,2:00 PM,Calgary Flames,6,Dallas Stars,5,Regulation
+1/14/2023,6:00 PM,7:00 PM,Columbus Blue Jackets,4,Detroit Red Wings,3,Regulation
+1/14/2023,6:00 PM,7:00 PM,Montreal Canadiens,1,New York Islanders,2,Regulation
+1/14/2023,6:00 PM,7:00 PM,Ottawa Senators,0,Colorado Avalanche,7,Regulation
+1/14/2023,6:00 PM,7:00 PM,Philadelphia Flyers,3,Washington Capitals,1,Regulation
+1/14/2023,6:00 PM,7:00 PM,Pittsburgh Penguins,1,Carolina Hurricanes,2,Regulation
+1/14/2023,6:00 PM,7:00 PM,Toronto Maple Leafs,3,Boston Bruins,4,Regulation
+1/14/2023,6:00 PM,7:00 PM,Vancouver Canucks,3,Florida Panthers,4,Regulation
+1/14/2023,7:00 PM,8:00 PM,Arizona Coyotes,1,Minnesota Wild,2,Regulation
+1/14/2023,7:00 PM,8:00 PM,Buffalo Sabres,5,Nashville Predators,3,Regulation
+1/14/2023,7:00 PM,8:00 PM,Seattle Kraken,8,Chicago Blackhawks,5,Regulation
+1/14/2023,7:00 PM,8:00 PM,Tampa Bay Lightning,4,St. Louis Blues,2,Regulation
+1/14/2023,9:00 PM,10:00 PM,Edmonton Oilers,4,Vegas Golden Knights,3,Regulation
+1/14/2023,9:30 PM,10:30 PM,New Jersey Devils,5,Los Angeles Kings,2,Regulation
+1/15/2023,4:00 PM,5:00 PM,Montreal Canadiens,2,New York Rangers,1,Regulation
+1/15/2023,4:00 PM,5:00 PM,Vancouver Canucks,4,Carolina Hurricanes,3,SO
+1/15/2023,6:00 PM,7:00 PM,Arizona Coyotes,1,Winnipeg Jets,2,Regulation
+1/16/2023,12:00 PM,1:00 PM,Florida Panthers,4,Buffalo Sabres,1,Regulation
+1/16/2023,12:00 PM,1:00 PM,Philadelphia Flyers,0,Boston Bruins,6,Regulation
+1/16/2023,2:00 PM,3:00 PM,Detroit Red Wings,3,Colorado Avalanche,6,Regulation
+1/16/2023,3:00 PM,4:00 PM,New Jersey Devils,4,San Jose Sharks,3,SO
+1/16/2023,3:00 PM,4:00 PM,Tampa Bay Lightning,4,Seattle Kraken,1,Regulation
+1/16/2023,5:00 PM,6:00 PM,Dallas Stars,4,Vegas Golden Knights,0,Regulation
+1/16/2023,6:00 PM,7:00 PM,Anaheim Ducks,3,Pittsburgh Penguins,4,OT
+1/16/2023,6:00 PM,7:00 PM,New York Rangers,3,Columbus Blue Jackets,1,Regulation
+1/16/2023,6:30 PM,7:30 PM,Washington Capitals,4,New York Islanders,3,OT
+1/16/2023,7:00 PM,8:00 PM,Calgary Flames,1,Nashville Predators,2,Regulation
+1/16/2023,7:00 PM,8:00 PM,Ottawa Senators,1,St. Louis Blues,2,Regulation
+1/17/2023,6:00 PM,7:00 PM,Anaheim Ducks,2,Philadelphia Flyers,5,Regulation
+1/17/2023,6:00 PM,7:00 PM,Florida Panthers,4,Toronto Maple Leafs,5,OT
+1/17/2023,6:00 PM,7:00 PM,Minnesota Wild,4,Washington Capitals,2,Regulation
+1/17/2023,6:00 PM,7:00 PM,Winnipeg Jets,1,Montreal Canadiens,4,Regulation
+1/17/2023,7:00 PM,8:00 PM,Columbus Blue Jackets,1,Nashville Predators,2,Regulation
+1/17/2023,7:30 PM,8:30 PM,Buffalo Sabres,3,Chicago Blackhawks,4,OT
+1/17/2023,8:00 PM,9:00 PM,Detroit Red Wings,3,Arizona Coyotes,4,SO
+1/17/2023,8:00 PM,9:00 PM,Seattle Kraken,2,Edmonton Oilers,5,Regulation
+1/18/2023,6:00 PM,7:00 PM,Pittsburgh Penguins,4,Ottawa Senators,5,OT
+1/18/2023,6:30 PM,7:30 PM,Boston Bruins,4,New York Islanders,1,Regulation
+1/18/2023,8:30 PM,9:30 PM,Colorado Avalanche,4,Calgary Flames,1,Regulation
+1/18/2023,9:00 PM,10:00 PM,Tampa Bay Lightning,5,Vancouver Canucks,2,Regulation
+1/18/2023,9:00 PM,10:00 PM,Dallas Stars,3,San Jose Sharks,5,Regulation
+1/19/2023,6:00 PM,7:00 PM,Anaheim Ducks,5,Columbus Blue Jackets,3,Regulation
+1/19/2023,6:00 PM,7:00 PM,Boston Bruins,3,New York Rangers,1,Regulation
+1/19/2023,6:00 PM,7:00 PM,Chicago Blackhawks,4,Philadelphia Flyers,1,Regulation
+1/19/2023,6:00 PM,7:00 PM,Florida Panthers,6,Montreal Canadiens,2,Regulation
+1/19/2023,6:00 PM,7:00 PM,Minnesota Wild,2,Carolina Hurricanes,5,Regulation
+1/19/2023,6:00 PM,7:00 PM,Winnipeg Jets,1,Toronto Maple Leafs,4,Regulation
+1/19/2023,6:30 PM,7:30 PM,New York Islanders,2,Buffalo Sabres,3,OT
+1/19/2023,7:00 PM,8:00 PM,Nashville Predators,2,St. Louis Blues,5,Regulation
+1/19/2023,8:00 PM,9:00 PM,Tampa Bay Lightning,3,Edmonton Oilers,5,Regulation
+1/19/2023,8:00 PM,9:00 PM,Washington Capitals,4,Arizona Coyotes,0,Regulation
+1/19/2023,9:00 PM,10:00 PM,Detroit Red Wings,3,Vegas Golden Knights,2,Regulation
+1/19/2023,9:00 PM,10:00 PM,New Jersey Devils,3,Seattle Kraken,4,OT
+1/19/2023,9:30 PM,10:30 PM,Dallas Stars,4,Los Angeles Kings,0,Regulation
+1/20/2023,6:00 PM,7:00 PM,Ottawa Senators,1,Pittsburgh Penguins,4,Regulation
+1/20/2023,9:00 PM,10:00 PM,Colorado Avalanche,4,Vancouver Canucks,1,Regulation
+1/21/2023,11:30 AM,12:30 PM,Anaheim Ducks,3,Buffalo Sabres,6,Regulation
+1/21/2023,2:00 PM,3:00 PM,Tampa Bay Lightning,3,Calgary Flames,6,Regulation
+1/21/2023,5:00 PM,6:00 PM,Minnesota Wild,3,Florida Panthers,5,Regulation
+1/21/2023,6:00 PM,7:00 PM,Philadelphia Flyers,2,Detroit Red Wings,1,Regulation
+1/21/2023,6:00 PM,7:00 PM,San Jose Sharks,3,Columbus Blue Jackets,5,Regulation
+1/21/2023,6:00 PM,7:00 PM,Toronto Maple Leafs,2,Montreal Canadiens,3,OT
+1/21/2023,6:00 PM,7:00 PM,Winnipeg Jets,5,Ottawa Senators,1,Regulation
+1/21/2023,6:30 PM,7:30 PM,Carolina Hurricanes,5,New York Islanders,2,Regulation
+1/21/2023,7:00 PM,8:00 PM,Arizona Coyotes,0,Dallas Stars,4,Regulation
+1/21/2023,7:00 PM,8:00 PM,Chicago Blackhawks,5,St. Louis Blues,3,Regulation
+1/21/2023,7:00 PM,8:00 PM,Los Angeles Kings,3,Nashville Predators,5,Regulation
+1/21/2023,9:00 PM,10:00 PM,Colorado Avalanche,2,Seattle Kraken,1,SO
+1/21/2023,9:00 PM,10:00 PM,Edmonton Oilers,4,Vancouver Canucks,2,Regulation
+1/21/2023,9:00 PM,10:00 PM,Washington Capitals,2,Vegas Golden Knights,6,Regulation
+1/22/2023,1:00 PM,2:00 PM,Pittsburgh Penguins,1,New Jersey Devils,2,OT
+1/22/2023,6:00 PM,7:00 PM,Los Angeles Kings,2,Chicago Blackhawks,1,Regulation
+1/22/2023,6:00 PM,7:00 PM,San Jose Sharks,0,Boston Bruins,4,Regulation
+1/22/2023,6:00 PM,7:00 PM,Winnipeg Jets,5,Philadelphia Flyers,3,Regulation
+1/22/2023,7:00 PM,8:00 PM,Vegas Golden Knights,1,Arizona Coyotes,4,Regulation
+1/23/2023,6:00 PM,7:00 PM,Florida Panthers,2,New York Rangers,6,Regulation
+1/23/2023,6:00 PM,7:00 PM,New York Islanders,2,Toronto Maple Leafs,5,Regulation
+1/23/2023,7:30 PM,8:30 PM,Buffalo Sabres,3,Dallas Stars,2,OT
+1/23/2023,8:30 PM,9:30 PM,Columbus Blue Jackets,3,Calgary Flames,4,OT
+1/24/2023,6:00 PM,7:00 PM,Boston Bruins,4,Montreal Canadiens,2,Regulation
+1/24/2023,6:00 PM,7:00 PM,Florida Panthers,6,Pittsburgh Penguins,7,OT
+1/24/2023,6:00 PM,7:00 PM,Los Angeles Kings,4,Philadelphia Flyers,3,OT
+1/24/2023,6:00 PM,7:00 PM,Minnesota Wild,2,Tampa Bay Lightning,4,Regulation
+1/24/2023,6:00 PM,7:00 PM,San Jose Sharks,2,Detroit Red Wings,3,OT
+1/24/2023,6:30 PM,7:30 PM,Vegas Golden Knights,2,New Jersey Devils,3,OT
+1/24/2023,7:00 PM,8:00 PM,Buffalo Sabres,5,St. Louis Blues,3,Regulation
+1/24/2023,7:00 PM,8:00 PM,Winnipeg Jets,1,Nashville Predators,2,Regulation
+1/24/2023,8:00 PM,9:00 PM,Anaheim Ducks,5,Arizona Coyotes,2,Regulation
+1/24/2023,8:00 PM,9:00 PM,Washington Capitals,2,Colorado Avalanche,3,Regulation
+1/24/2023,9:00 PM,10:00 PM,Chicago Blackhawks,2,Vancouver Canucks,5,Regulation
+1/25/2023,6:00 PM,7:00 PM,New York Islanders,1,Ottawa Senators,2,Regulation
+1/25/2023,6:00 PM,7:00 PM,New York Rangers,2,Toronto Maple Leafs,3,OT
+1/25/2023,7:30 PM,8:30 PM,Carolina Hurricanes,3,Dallas Stars,2,OT
+1/25/2023,8:30 PM,9:30 PM,Columbus Blue Jackets,3,Edmonton Oilers,2,OT
+1/25/2023,9:00 PM,10:00 PM,Vancouver Canucks,1,Seattle Kraken,6,Regulation
+1/26/2023,6:00 PM,7:00 PM,Boston Bruins,2,Tampa Bay Lightning,3,Regulation
+1/26/2023,6:00 PM,7:00 PM,Detroit Red Wings,4,Montreal Canadiens,3,OT
+1/26/2023,6:00 PM,7:00 PM,Pittsburgh Penguins,2,Washington Capitals,3,SO
+1/26/2023,7:00 PM,8:00 PM,Buffalo Sabres,3,Winnipeg Jets,2,Regulation
+1/26/2023,7:00 PM,8:00 PM,New Jersey Devils,4,Nashville Predators,6,Regulation
+1/26/2023,7:00 PM,8:00 PM,Philadelphia Flyers,2,Minnesota Wild,3,OT
+1/26/2023,8:00 PM,9:00 PM,Anaheim Ducks,5,Colorado Avalanche,3,Regulation
+1/26/2023,8:00 PM,9:00 PM,Chicago Blackhawks,5,Calgary Flames,1,Regulation
+1/26/2023,8:00 PM,9:00 PM,St. Louis Blues,0,Arizona Coyotes,5,Regulation
+1/27/2023,6:00 PM,7:00 PM,Detroit Red Wings,0,New York Islanders,2,Regulation
+1/27/2023,6:00 PM,7:00 PM,Los Angeles Kings,4,Florida Panthers,3,Regulation
+1/27/2023,6:00 PM,7:00 PM,Ottawa Senators,6,Toronto Maple Leafs,2,Regulation
+1/27/2023,6:00 PM,7:00 PM,San Jose Sharks,4,Carolina Hurricanes,5,OT
+1/27/2023,6:00 PM,7:00 PM,Vegas Golden Knights,1,New York Rangers,4,Regulation
+1/27/2023,7:30 PM,8:30 PM,New Jersey Devils,3,Dallas Stars,2,OT
+1/27/2023,9:00 PM,10:00 PM,Calgary Flames,5,Seattle Kraken,2,Regulation
+1/27/2023,9:00 PM,10:00 PM,Columbus Blue Jackets,2,Vancouver Canucks,5,Regulation
+1/28/2023,2:00 PM,3:00 PM,St. Louis Blues,2,Colorado Avalanche,4,Regulation
+1/28/2023,5:00 PM,6:00 PM,Boston Bruins,3,Florida Panthers,4,OT
+1/28/2023,6:00 PM,7:00 PM,Los Angeles Kings,2,Tampa Bay Lightning,5,Regulation
+1/28/2023,6:00 PM,7:00 PM,Montreal Canadiens,0,Ottawa Senators,5,Regulation
+1/28/2023,6:00 PM,7:00 PM,Philadelphia Flyers,4,Winnipeg Jets,0,Regulation
+1/28/2023,6:00 PM,7:00 PM,San Jose Sharks,6,Pittsburgh Penguins,4,Regulation
+1/28/2023,6:30 PM,7:30 PM,Vegas Golden Knights,1,New York Islanders,2,OT
+1/28/2023,8:00 PM,9:00 PM,Buffalo Sabres,2,Minnesota Wild,3,SO
+1/28/2023,9:00 PM,10:00 PM,Chicago Blackhawks,3,Edmonton Oilers,7,Regulation
+1/28/2023,9:00 PM,10:00 PM,Columbus Blue Jackets,1,Seattle Kraken,3,Regulation
+1/28/2023,9:30 PM,10:30 PM,Arizona Coyotes,1,Anaheim Ducks,2,OT
+1/29/2023,4:00 PM,5:00 PM,Boston Bruins,1,Carolina Hurricanes,4,Regulation
+1/29/2023,4:00 PM,5:00 PM,Washington Capitals,1,Toronto Maple Leafs,5,Regulation
+1/30/2023,7:00 PM,8:00 PM,St. Louis Blues,2,Winnipeg Jets,4,Regulation
+1/31/2023,6:00 PM,7:00 PM,Los Angeles Kings,4,Carolina Hurricanes,5,OT
+1/31/2023,6:00 PM,7:00 PM,Ottawa Senators,5,Montreal Canadiens,4,Regulation
+1/31/2023,6:00 PM,7:00 PM,Washington Capitals,4,Columbus Blue Jackets,3,OT
+2/1/2023,6:30 PM,7:30 PM,Carolina Hurricanes,5,Buffalo Sabres,1,Regulation
+2/1/2023,6:30 PM,7:30 PM,Boston Bruins,5,Toronto Maple Leafs,2,Regulation
+2/6/2023,6:00 PM,7:00 PM,New York Islanders,2,Philadelphia Flyers,1,Regulation
+2/6/2023,6:00 PM,7:00 PM,Tampa Bay Lightning,1,Florida Panthers,7,Regulation
+2/6/2023,6:30 PM,7:30 PM,Calgary Flames,4,New York Rangers,5,OT
+2/6/2023,6:30 PM,7:30 PM,Vancouver Canucks,4,New Jersey Devils,5,OT
+2/6/2023,7:30 PM,8:30 PM,Anaheim Ducks,2,Dallas Stars,3,SO
+2/6/2023,8:00 PM,9:00 PM,Minnesota Wild,2,Arizona Coyotes,3,Regulation
+2/7/2023,6:00 PM,7:00 PM,Colorado Avalanche,1,Pittsburgh Penguins,2,OT
+2/7/2023,6:00 PM,7:00 PM,San Jose Sharks,4,Tampa Bay Lightning,3,OT
+2/7/2023,6:30 PM,7:30 PM,Edmonton Oilers,5,Detroit Red Wings,2,Regulation
+2/7/2023,6:30 PM,7:30 PM,Seattle Kraken,0,New York Islanders,4,Regulation
+2/7/2023,7:00 PM,8:00 PM,Vegas Golden Knights,5,Nashville Predators,1,Regulation
+2/7/2023,7:30 PM,8:30 PM,Anaheim Ducks,3,Chicago Blackhawks,2,OT
+2/8/2023,7:00 PM,8:00 PM,Vancouver Canucks,3,New York Rangers,4,Regulation
+2/8/2023,7:30 PM,8:30 PM,Minnesota Wild,1,Dallas Stars,4,Regulation
+2/9/2023,6:00 PM,7:00 PM,Colorado Avalanche,0,Tampa Bay Lightning,5,Regulation
+2/9/2023,6:00 PM,7:00 PM,Edmonton Oilers,1,Philadelphia Flyers,2,SO
+2/9/2023,6:00 PM,7:00 PM,San Jose Sharks,1,Florida Panthers,4,Regulation
+2/9/2023,6:00 PM,7:00 PM,Seattle Kraken,1,New Jersey Devils,3,Regulation
+2/9/2023,6:00 PM,7:00 PM,Calgary Flames,1,Detroit Red Wings,2,Regulation
+2/9/2023,6:30 PM,7:30 PM,Vancouver Canucks,6,New York Islanders,5,Regulation
+2/9/2023,7:00 PM,8:00 PM,Vegas Golden Knights,5,Minnesota Wild,1,Regulation
+2/10/2023,6:00 PM,7:00 PM,Seattle Kraken,3,New York Rangers,6,Regulation
+2/10/2023,6:00 PM,7:00 PM,Toronto Maple Leafs,3,Columbus Blue Jackets,0,Regulation
+2/10/2023,7:30 PM,8:30 PM,Arizona Coyotes,3,Chicago Blackhawks,4,OT
+2/10/2023,9:00 PM,10:00 PM,Pittsburgh Penguins,6,Anaheim Ducks,3,Regulation
+2/11/2023,11:00 AM,12:00 PM,Vancouver Canucks,2,Detroit Red Wings,5,Regulation
+2/11/2023,11:30 AM,12:30 PM,Calgary Flames,7,Buffalo Sabres,2,Regulation
+2/11/2023,11:30 AM,12:30 PM,Edmonton Oilers,6,Ottawa Senators,3,Regulation
+2/11/2023,11:30 AM,12:30 PM,New York Islanders,3,Montreal Canadiens,4,OT
+2/11/2023,11:30 AM,12:30 PM,Nashville Predators,2,Philadelphia Flyers,1,OT
+2/11/2023,12:00 PM,1:00 PM,Tampa Bay Lightning,3,Dallas Stars,1,Regulation
+2/11/2023,2:30 PM,3:30 PM,Washington Capitals,2,Boston Bruins,1,Regulation
+2/11/2023,5:00 PM,6:00 PM,Colorado Avalanche,5,Florida Panthers,3,Regulation
+2/11/2023,6:00 PM,7:00 PM,Columbus Blue Jackets,4,Toronto Maple Leafs,3,Regulation
+2/11/2023,6:00 PM,7:00 PM,New York Rangers,6,Carolina Hurricanes,2,Regulation
+2/11/2023,7:00 PM,8:00 PM,Arizona Coyotes,5,St. Louis Blues,6,OT
+2/11/2023,7:00 PM,8:00 PM,New Jersey Devils,2,Minnesota Wild,3,SO
+2/11/2023,9:00 PM,10:00 PM,Chicago Blackhawks,1,Winnipeg Jets,4,Regulation
+2/11/2023,9:30 PM,10:30 PM,Pittsburgh Penguins,0,Los Angeles Kings,6,Regulation
+2/12/2023,11:30 AM,12:30 PM,Edmonton Oilers,2,Montreal Canadiens,6,Regulation
+2/12/2023,12:00 PM,1:00 PM,Seattle Kraken,4,Philadelphia Flyers,3,Regulation
+2/12/2023,12:30 PM,1:30 PM,San Jose Sharks,4,Washington Capitals,1,Regulation
+2/12/2023,2:00 PM,3:00 PM,Anaheim Ducks,2,Vegas Golden Knights,7,Regulation
+2/13/2023,6:30 PM,7:30 PM,Calgary Flames,3,Ottawa Senators,4,OT
+2/13/2023,7:00 PM,8:00 PM,Arizona Coyotes,4,Nashville Predators,2,Regulation
+2/13/2023,7:00 PM,8:00 PM,Florida Panthers,2,Minnesota Wild,1,SO
+2/13/2023,9:00 PM,10:00 PM,Detroit Red Wings,6,Vancouver Canucks,1,Regulation
+2/13/2023,9:30 PM,10:30 PM,Buffalo Sabres,2,Los Angeles Kings,5,Regulation
+2/14/2023,6:00 PM,7:00 PM,Carolina Hurricanes,3,Washington Capitals,2,Regulation
+2/14/2023,6:00 PM,7:00 PM,Chicago Blackhawks,0,Montreal Canadiens,4,Regulation
+2/14/2023,6:30 PM,7:30 PM,New Jersey Devils,3,Columbus Blue Jackets,2,Regulation
+2/14/2023,6:30 PM,7:30 PM,Ottawa Senators,3,New York Islanders,2,SO
+2/14/2023,7:00 PM,8:00 PM,Florida Panthers,2,St. Louis Blues,6,Regulation
+2/14/2023,7:00 PM,8:00 PM,Seattle Kraken,2,Winnipeg Jets,3,SO
+2/14/2023,7:30 PM,8:30 PM,Boston Bruins,3,Dallas Stars,2,OT
+2/14/2023,8:00 PM,9:00 PM,Tampa Bay Lightning,4,Colorado Avalanche,3,SO
+2/14/2023,9:30 PM,10:30 PM,Pittsburgh Penguins,3,San Jose Sharks,1,Regulation
+2/15/2023,6:00 PM,7:00 PM,Chicago Blackhawks,2,Toronto Maple Leafs,5,Regulation
+2/15/2023,8:00 PM,9:00 PM,Tampa Bay Lightning,0,Arizona Coyotes,1,SO
+2/15/2023,8:30 PM,9:30 PM,Colorado Avalanche,3,Minnesota Wild,2,Regulation
+2/15/2023,8:30 PM,9:30 PM,Detroit Red Wings,5,Edmonton Oilers,4,SO
+2/15/2023,9:00 PM,10:00 PM,Buffalo Sabres,7,Anaheim Ducks,3,Regulation
+2/15/2023,9:00 PM,10:00 PM,New York Rangers,6,Vancouver Canucks,4,Regulation
+2/16/2023,6:00 PM,7:00 PM,Florida Panthers,6,Washington Capitals,3,Regulation
+2/16/2023,6:00 PM,7:00 PM,Montreal Canadiens,2,Carolina Hurricanes,6,Regulation
+2/16/2023,6:00 PM,7:00 PM,Winnipeg Jets,1,Columbus Blue Jackets,3,Regulation
+2/16/2023,7:00 PM,8:00 PM,Boston Bruins,5,Nashville Predators,0,Regulation
+2/16/2023,8:00 PM,9:00 PM,New Jersey Devils,2,St. Louis Blues,4,Regulation
+2/16/2023,8:00 PM,9:00 PM,Detroit Red Wings,5,Calgary Flames,2,Regulation
+2/16/2023,9:00 PM,10:00 PM,Philadelphia Flyers,2,Seattle Kraken,6,Regulation
+2/16/2023,9:00 PM,10:00 PM,San Jose Sharks,1,Vegas Golden Knights,2,Regulation
+2/17/2023,6:00 PM,7:00 PM,Chicago Blackhawks,4,Ottawa Senators,3,OT
+2/17/2023,6:00 PM,7:00 PM,Pittsburgh Penguins,4,New York Islanders,5,Regulation
+2/17/2023,7:00 PM,8:00 PM,Dallas Stars,1,Minnesota Wild,2,SO
+2/17/2023,8:00 PM,9:00 PM,New York Rangers,5,Edmonton Oilers,4,SO
+2/17/2023,8:00 PM,9:00 PM,Los Angeles Kings,6,Anaheim Ducks,3,Regulation
+2/18/2023,1:00 PM,2:00 PM,Colorado Avalanche,4,St. Louis Blues,1,Regulation
+2/18/2023,1:00 PM,2:00 PM,Florida Panthers,3,Nashville Predators,7,Regulation
+2/18/2023,4:00 PM,5:00 PM,New York Islanders,2,Boston Bruins,6,Regulation
+2/18/2023,4:30 PM,5:30 PM,New Jersey Devils,5,Pittsburgh Penguins,2,Regulation
+2/18/2023,5:00 PM,6:00 PM,Columbus Blue Jackets,4,Dallas Stars,1,Regulation
+2/18/2023,6:00 PM,7:00 PM,Montreal Canadiens,1,Toronto Maple Leafs,5,Regulation
+2/18/2023,7:00 PM,8:00 PM,Washington Capitals,1,Carolina Hurricanes,4,Regulation
+2/18/2023,9:00 PM,10:00 PM,New York Rangers,2,Calgary Flames,3,OT
+2/18/2023,9:00 PM,10:00 PM,Philadelphia Flyers,2,Vancouver Canucks,6,Regulation
+2/18/2023,9:30 PM,10:30 PM,Arizona Coyotes,5,Los Angeles Kings,6,SO
+2/18/2023,9:30 PM,10:30 PM,Buffalo Sabres,4,San Jose Sharks,2,Regulation
+2/18/2023,9:30 PM,10:30 PM,Detroit Red Wings,2,Seattle Kraken,4,Regulation
+2/18/2023,9:30 PM,10:30 PM,Tampa Bay Lightning,4,Vegas Golden Knights,5,Regulation
+2/19/2023,1:00 PM,2:00 PM,Nashville Predators,3,Minnesota Wild,4,Regulation
+2/19/2023,1:00 PM,2:00 PM,St. Louis Blues,2,Ottawa Senators,7,Regulation
+2/19/2023,2:00 PM,3:00 PM,Edmonton Oilers,5,Colorado Avalanche,6,OT
+2/19/2023,5:00 PM,6:00 PM,Toronto Maple Leafs,3,Chicago Blackhawks,5,Regulation
+2/19/2023,6:00 PM,7:00 PM,Winnipeg Jets,2,New Jersey Devils,4,Regulation
+2/19/2023,7:30 PM,8:30 PM,Columbus Blue Jackets,2,Arizona Coyotes,3,OT
+2/20/2023,12:00 PM,1:00 PM,Anaheim Ducks,3,Florida Panthers,4,OT
+2/20/2023,12:00 PM,1:00 PM,Ottawa Senators,1,Boston Bruins,3,Regulation
+2/20/2023,3:00 PM,4:00 PM,Philadelphia Flyers,4,Calgary Flames,3,Regulation
+2/20/2023,3:00 PM,4:00 PM,Seattle Kraken,0,San Jose Sharks,4,Regulation
+2/20/2023,6:00 PM,7:00 PM,New York Islanders,4,Pittsburgh Penguins,2,Regulation
+2/20/2023,6:00 PM,7:00 PM,Winnipeg Jets,4,New York Rangers,1,Regulation
+2/21/2023,6:00 PM,7:00 PM,Anaheim Ducks,1,Tampa Bay Lightning,6,Regulation
+2/21/2023,6:00 PM,7:00 PM,Detroit Red Wings,3,Washington Capitals,1,Regulation
+2/21/2023,6:00 PM,7:00 PM,Montreal Canadiens,5,New Jersey Devils,2,Regulation
+2/21/2023,6:00 PM,7:00 PM,St. Louis Blues,1,Carolina Hurricanes,4,Regulation
+2/21/2023,6:30 PM,7:30 PM,Toronto Maple Leafs,6,Buffalo Sabres,3,Regulation
+2/21/2023,7:00 PM,8:00 PM,Los Angeles Kings,1,Minnesota Wild,2,Regulation
+2/21/2023,7:00 PM,8:00 PM,Vancouver Canucks,4,Nashville Predators,5,SO
+2/21/2023,7:30 PM,8:30 PM,Vegas Golden Knights,2,Chicago Blackhawks,3,SO
+2/21/2023,8:00 PM,9:00 PM,Philadelphia Flyers,2,Edmonton Oilers,4,Regulation
+2/22/2023,6:00 PM,7:00 PM,Winnipeg Jets,1,New York Islanders,2,Regulation
+2/22/2023,8:30 PM,9:30 PM,Chicago Blackhawks,4,Dallas Stars,3,Regulation
+2/22/2023,8:30 PM,9:30 PM,Calgary Flames,6,Arizona Coyotes,3,Regulation
+2/23/2023,6:00 PM,7:00 PM,Anaheim Ducks,4,Washington Capitals,2,Regulation
+2/23/2023,6:00 PM,7:00 PM,Buffalo Sabres,6,Tampa Bay Lightning,5,OT
+2/23/2023,6:00 PM,7:00 PM,Edmonton Oilers,7,Pittsburgh Penguins,2,Regulation
+2/23/2023,6:00 PM,7:00 PM,Los Angeles Kings,3,New Jersey Devils,4,OT
+2/23/2023,6:00 PM,7:00 PM,Minnesota Wild,2,Columbus Blue Jackets,0,Regulation
+2/23/2023,6:00 PM,7:00 PM,New York Rangers,1,Detroit Red Wings,4,Regulation
+2/23/2023,7:00 PM,8:00 PM,Vancouver Canucks,3,St. Louis Blues,2,OT
+2/23/2023,8:00 PM,9:00 PM,Calgary Flames,3,Vegas Golden Knights,4,OT
+2/23/2023,9:00 PM,10:00 PM,Boston Bruins,6,Seattle Kraken,5,Regulation
+2/23/2023,9:30 PM,10:30 PM,Nashville Predators,6,San Jose Sharks,2,Regulation
+2/24/2023,6:00 PM,7:00 PM,Buffalo Sabres,3,Florida Panthers,1,Regulation
+2/24/2023,6:00 PM,7:00 PM,Minnesota Wild,1,Toronto Maple Leafs,2,OT
+2/24/2023,6:00 PM,7:00 PM,Montreal Canadiens,5,Philadelphia Flyers,2,Regulation
+2/24/2023,6:00 PM,7:00 PM,Ottawa Senators,0,Carolina Hurricanes,4,Regulation
+2/24/2023,6:30 PM,7:30 PM,Los Angeles Kings,3,New York Islanders,2,Regulation
+2/24/2023,7:00 PM,8:00 PM,Colorado Avalanche,5,Winnipeg Jets,1,Regulation
+2/25/2023,11:30 AM,12:30 PM,Edmonton Oilers,5,Columbus Blue Jackets,6,Regulation
+2/25/2023,12:00 PM,1:00 PM,New York Rangers,3,Washington Capitals,6,Regulation
+2/25/2023,2:30 PM,3:30 PM,Pittsburgh Penguins,3,St. Louis Blues,2,OT
+2/25/2023,6:00 PM,7:00 PM,Anaheim Ducks,3,Carolina Hurricanes,2,Regulation
+2/25/2023,6:00 PM,7:00 PM,Boston Bruins,3,Vancouver Canucks,1,Regulation
+2/25/2023,6:00 PM,7:00 PM,Ottawa Senators,5,Montreal Canadiens,2,Regulation
+2/25/2023,6:00 PM,7:00 PM,Philadelphia Flyers,0,New Jersey Devils,7,Regulation
+2/25/2023,7:00 PM,8:00 PM,Tampa Bay Lightning,3,Detroit Red Wings,0,Regulation
+2/25/2023,9:00 PM,10:00 PM,Calgary Flames,1,Colorado Avalanche,4,Regulation
+2/25/2023,9:00 PM,10:00 PM,Dallas Stars,3,Vegas Golden Knights,2,SO
+2/25/2023,9:00 PM,10:00 PM,Chicago Blackhawks,4,San Jose Sharks,3,SO
+2/26/2023,12:00 PM,1:00 PM,Washington Capitals,4,Buffalo Sabres,7,Regulation
+2/26/2023,1:00 PM,2:00 PM,Columbus Blue Jackets,2,Minnesota Wild,3,OT
+2/26/2023,2:30 PM,3:30 PM,New York Islanders,4,Winnipeg Jets,0,Regulation
+2/26/2023,4:00 PM,5:00 PM,Los Angeles Kings,2,New York Rangers,5,Regulation
+2/26/2023,5:00 PM,6:00 PM,Tampa Bay Lightning,3,Pittsburgh Penguins,7,Regulation
+2/26/2023,6:00 PM,7:00 PM,Nashville Predators,6,Arizona Coyotes,2,Regulation
+2/26/2023,6:00 PM,7:00 PM,Toronto Maple Leafs,5,Seattle Kraken,1,Regulation
+2/27/2023,6:00 PM,7:00 PM,Detroit Red Wings,2,Ottawa Senators,6,Regulation
+2/27/2023,7:30 PM,8:30 PM,Boston Bruins,3,Edmonton Oilers,2,Regulation
+2/27/2023,7:30 PM,8:30 PM,Vancouver Canucks,5,Dallas Stars,4,OT
+2/27/2023,8:00 PM,9:00 PM,Vegas Golden Knights,0,Colorado Avalanche,3,Regulation
+2/27/2023,9:00 PM,10:00 PM,Chicago Blackhawks,2,Anaheim Ducks,4,Regulation
+2/28/2023,6:00 PM,7:00 PM,Detroit Red Wings,1,Ottawa Senators,6,Regulation
+2/28/2023,6:00 PM,7:00 PM,Florida Panthers,4,Tampa Bay Lightning,1,Regulation
+2/28/2023,6:30 PM,7:30 PM,Columbus Blue Jackets,5,Buffalo Sabres,3,Regulation
+2/28/2023,7:00 PM,8:00 PM,Los Angeles Kings,6,Winnipeg Jets,5,SO
+2/28/2023,7:00 PM,8:00 PM,New York Islanders,1,Minnesota Wild,2,SO
+2/28/2023,7:00 PM,8:00 PM,Pittsburgh Penguins,3,Nashville Predators,1,Regulation
+2/28/2023,7:00 PM,8:00 PM,Seattle Kraken,5,St. Louis Blues,3,Regulation
+2/28/2023,8:00 PM,9:00 PM,Boston Bruins,4,Calgary Flames,3,OT
+2/28/2023,8:00 PM,9:00 PM,Chicago Blackhawks,1,Arizona Coyotes,4,Regulation
+2/28/2023,9:30 PM,10:30 PM,Montreal Canadiens,3,San Jose Sharks,1,Regulation
+3/1/2023,6:30 PM,7:30 PM,New York Rangers,3,Philadelphia Flyers,2,OT
+3/1/2023,7:00 PM,8:00 PM,Toronto Maple Leafs,2,Edmonton Oilers,5,Regulation
+3/1/2023,7:30 PM,8:30 PM,Arizona Coyotes,2,Dallas Stars,4,Regulation
+3/1/2023,8:00 PM,9:00 PM,New Jersey Devils,7,Colorado Avalanche,5,Regulation
+3/1/2023,9:00 PM,10:00 PM,Carolina Hurricanes,2,Vegas Golden Knights,3,Regulation
+3/1/2023,9:00 PM,10:00 PM,Washington Capitals,3,Anaheim Ducks,2,OT
+3/2/2023,6:00 PM,7:00 PM,Buffalo Sabres,1,Boston Bruins,7,Regulation
+3/2/2023,6:00 PM,7:00 PM,Nashville Predators,2,Florida Panthers,1,Regulation
+3/2/2023,6:00 PM,7:00 PM,Ottawa Senators,5,New York Rangers,3,Regulation
+3/2/2023,6:00 PM,7:00 PM,Pittsburgh Penguins,5,Tampa Bay Lightning,4,OT
+3/2/2023,6:00 PM,7:00 PM,Seattle Kraken,5,Detroit Red Wings,4,OT
+3/2/2023,7:30 PM,8:30 PM,Dallas Stars,5,Chicago Blackhawks,2,Regulation
+3/2/2023,8:00 PM,9:00 PM,Toronto Maple Leafs,2,Calgary Flames,1,Regulation
+3/2/2023,9:00 PM,10:00 PM,Minnesota Wild,2,Vancouver Canucks,1,Regulation
+3/2/2023,9:30 PM,10:30 PM,Montreal Canadiens,2,Los Angeles Kings,3,Regulation
+3/2/2023,9:30 PM,10:30 PM,St. Louis Blues,6,San Jose Sharks,3,Regulation
+3/3/2023,6:00 PM,7:00 PM,Seattle Kraken,4,Columbus Blue Jackets,2,Regulation
+3/3/2023,8:00 PM,9:00 PM,Winnipeg Jets,3,Edmonton Oilers,6,Regulation
+3/3/2023,8:30 PM,9:30 PM,Carolina Hurricanes,6,Arizona Coyotes,1,Regulation
+3/3/2023,9:00 PM,10:00 PM,Montreal Canadiens,2,Anaheim Ducks,3,Regulation
+3/3/2023,9:00 PM,10:00 PM,New Jersey Devils,3,Vegas Golden Knights,4,SO
+3/4/2023,11:30 AM,12:30 PM,Tampa Bay Lightning,3,Buffalo Sabres,5,Regulation
+3/4/2023,11:30 AM,12:30 PM,Detroit Red Wings,1,New York Islanders,4,Regulation
+3/4/2023,12:00 PM,1:00 PM,New York Rangers,2,Boston Bruins,4,Regulation
+3/4/2023,2:30 PM,3:30 PM,Colorado Avalanche,3,Dallas Stars,7,Regulation
+3/4/2023,5:00 PM,6:00 PM,Pittsburgh Penguins,1,Florida Panthers,4,Regulation
+3/4/2023,5:00 PM,6:00 PM,Washington Capitals,8,San Jose Sharks,3,Regulation
+3/4/2023,6:00 PM,7:00 PM,Columbus Blue Jackets,2,Ottawa Senators,5,Regulation
+3/4/2023,6:00 PM,7:00 PM,Edmonton Oilers,5,Winnipeg Jets,7,Regulation
+3/4/2023,6:00 PM,7:00 PM,Toronto Maple Leafs,1,Vancouver Canucks,4,Regulation
+3/4/2023,7:00 PM,8:00 PM,Nashville Predators,3,Chicago Blackhawks,1,Regulation
+3/4/2023,9:00 PM,10:00 PM,Minnesota Wild,3,Calgary Flames,0,Regulation
+3/4/2023,9:30 PM,10:30 PM,St. Louis Blues,2,Los Angeles Kings,4,Regulation
+3/5/2023,2:00 PM,3:00 PM,Tampa Bay Lightning,0,Carolina Hurricanes,6,Regulation
+3/5/2023,5:00 PM,6:00 PM,Detroit Red Wings,1,Philadelphia Flyers,3,Regulation
+3/5/2023,5:00 PM,6:00 PM,Montreal Canadiens,3,Vegas Golden Knights,4,Regulation
+3/5/2023,6:00 PM,7:00 PM,New Jersey Devils,5,Arizona Coyotes,4,OT
+3/5/2023,8:00 PM,9:00 PM,Seattle Kraken,3,Colorado Avalanche,2,OT
+3/6/2023,6:30 PM,7:30 PM,Edmonton Oilers,3,Buffalo Sabres,2,Regulation
+3/6/2023,6:30 PM,7:30 PM,San Jose Sharks,3,Winnipeg Jets,2,OT
+3/6/2023,7:30 PM,8:30 PM,Calgary Flames,5,Dallas Stars,4,Regulation
+3/6/2023,8:00 PM,9:00 PM,Ottawa Senators,0,Chicago Blackhawks,5,Regulation
+3/6/2023,9:30 PM,10:30 PM,Nashville Predators,3,Vancouver Canucks,4,SO
+3/6/2023,9:30 PM,10:30 PM,Washington Capitals,2,Los Angeles Kings,4,Regulation
+3/7/2023,6:00 PM,7:00 PM,Carolina Hurricanes,4,Montreal Canadiens,3,SO
+3/7/2023,6:00 PM,7:00 PM,Columbus Blue Jackets,4,Pittsburgh Penguins,5,OT
+3/7/2023,6:00 PM,7:00 PM,Philadelphia Flyers,2,Tampa Bay Lightning,5,Regulation
+3/7/2023,6:00 PM,7:00 PM,Toronto Maple Leafs,4,New Jersey Devils,3,Regulation
+3/7/2023,6:00 PM,7:00 PM,Vegas Golden Knights,1,Florida Panthers,2,Regulation
+3/7/2023,6:30 PM,7:30 PM,Buffalo Sabres,2,New York Islanders,3,Regulation
+3/7/2023,7:00 PM,8:00 PM,Calgary Flames,1,Minnesota Wild,0,SO
+3/7/2023,8:00 PM,9:00 PM,San Jose Sharks,0,Colorado Avalanche,6,Regulation
+3/7/2023,8:00 PM,9:00 PM,St. Louis Blues,2,Arizona Coyotes,6,Regulation
+3/7/2023,9:00 PM,10:00 PM,Anaheim Ducks,2,Seattle Kraken,5,Regulation
+3/8/2023,6:30 PM,7:30 PM,Chicago Blackhawks,3,Detroit Red Wings,4,Regulation
+3/8/2023,6:30 PM,7:30 PM,Minnesota Wild,4,Winnipeg Jets,2,Regulation
+3/8/2023,9:00 PM,10:00 PM,Anaheim Ducks,2,Vancouver Canucks,3,OT
+3/9/2023,6:00 PM,7:00 PM,Dallas Stars,10,Buffalo Sabres,4,Regulation
+3/9/2023,6:00 PM,7:00 PM,New York Islanders,4,Pittsburgh Penguins,3,OT
+3/9/2023,6:00 PM,7:00 PM,New York Rangers,4,Montreal Canadiens,3,SO
+3/9/2023,6:00 PM,7:00 PM,New Jersey Devils,3,Washington Capitals,2,SO
+3/9/2023,6:00 PM,7:00 PM,Philadelphia Flyers,0,Carolina Hurricanes,1,Regulation
+3/9/2023,6:00 PM,7:00 PM,Vegas Golden Knights,4,Tampa Bay Lightning,3,OT
+3/9/2023,6:30 PM,7:30 PM,Edmonton Oilers,3,Boston Bruins,2,Regulation
+3/9/2023,7:00 PM,8:00 PM,San Jose Sharks,2,St. Louis Blues,4,Regulation
+3/9/2023,8:00 PM,9:00 PM,Los Angeles Kings,5,Colorado Avalanche,2,Regulation
+3/9/2023,8:00 PM,9:00 PM,Nashville Predators,1,Arizona Coyotes,4,Regulation
+3/9/2023,9:00 PM,10:00 PM,Ottawa Senators,5,Seattle Kraken,4,Regulation
+3/10/2023,6:00 PM,7:00 PM,Chicago Blackhawks,3,Florida Panthers,4,OT
+3/10/2023,8:00 PM,9:00 PM,Anaheim Ducks,3,Calgary Flames,1,Regulation
+3/11/2023,12:00 PM,1:00 PM,Detroit Red Wings,2,Boston Bruins,3,Regulation
+3/11/2023,2:30 PM,3:30 PM,Philadelphia Flyers,1,Pittsburgh Penguins,5,Regulation
+3/11/2023,4:00 PM,5:00 PM,New York Rangers,2,Buffalo Sabres,1,OT
+3/11/2023,5:00 PM,6:00 PM,Arizona Coyotes,2,Colorado Avalanche,3,OT
+3/11/2023,6:00 PM,7:00 PM,Chicago Blackhawks,1,Tampa Bay Lightning,3,Regulation
+3/11/2023,6:00 PM,7:00 PM,Edmonton Oilers,4,Toronto Maple Leafs,7,Regulation
+3/11/2023,6:00 PM,7:00 PM,New Jersey Devils,3,Montreal Canadiens,1,Regulation
+3/11/2023,6:00 PM,7:00 PM,St. Louis Blues,5,Columbus Blue Jackets,2,Regulation
+3/11/2023,6:00 PM,7:00 PM,Vegas Golden Knights,4,Carolina Hurricanes,0,Regulation
+3/11/2023,6:00 PM,7:00 PM,Winnipeg Jets,5,Florida Panthers,4,OT
+3/11/2023,6:30 PM,7:30 PM,Washington Capitals,5,New York Islanders,1,Regulation
+3/11/2023,9:00 PM,10:00 PM,Dallas Stars,4,Seattle Kraken,3,OT
+3/11/2023,9:00 PM,10:00 PM,Ottawa Senators,2,Vancouver Canucks,5,Regulation
+3/11/2023,9:30 PM,10:30 PM,Minnesota Wild,5,San Jose Sharks,2,Regulation
+3/11/2023,9:30 PM,10:30 PM,Nashville Predators,2,Los Angeles Kings,1,SO
+3/12/2023,11:30 AM,1:30 PM,Boston Bruins,3,Detroit Red Wings,5,Regulation
+3/12/2023,2:00 PM,4:00 PM,New York Rangers,2,Pittsburgh Penguins,3,OT
+3/12/2023,5:00 PM,7:00 PM,Carolina Hurricanes,0,New Jersey Devils,3,Regulation
+3/12/2023,5:00 PM,7:00 PM,Vegas Golden Knights,5,St. Louis Blues,3,Regulation
+3/12/2023,5:00 PM,7:00 PM,Winnipeg Jets,3,Tampa Bay Lightning,2,Regulation
+3/12/2023,7:00 PM,9:00 PM,Ottawa Senators,1,Calgary Flames,5,Regulation
+3/12/2023,7:30 PM,9:30 PM,Minnesota Wild,4,Arizona Coyotes,5,OT
+3/12/2023,7:30 PM,9:30 PM,Nashville Predators,5,Anaheim Ducks,4,OT
+3/13/2023,5:30 PM,7:30 PM,Buffalo Sabres,4,Toronto Maple Leafs,3,Regulation
+3/13/2023,5:30 PM,7:30 PM,Colorado Avalanche,8,Montreal Canadiens,4,Regulation
+3/13/2023,8:00 PM,10:00 PM,Dallas Stars,5,Seattle Kraken,2,Regulation
+3/14/2023,5:00 PM,7:00 PM,Montreal Canadiens,6,Pittsburgh Penguins,4,Regulation
+3/14/2023,5:00 PM,7:00 PM,Tampa Bay Lightning,4,New Jersey Devils,1,Regulation
+3/14/2023,5:00 PM,7:00 PM,Vegas Golden Knights,5,Philadelphia Flyers,3,Regulation
+3/14/2023,5:00 PM,7:00 PM,Washington Capitals,3,New York Rangers,5,Regulation
+3/14/2023,5:00 PM,7:00 PM,Winnipeg Jets,3,Carolina Hurricanes,5,Regulation
+3/14/2023,6:00 PM,8:00 PM,Detroit Red Wings,1,Nashville Predators,2,Regulation
+3/14/2023,6:30 PM,8:30 PM,Boston Bruins,3,Chicago Blackhawks,6,Regulation
+3/14/2023,7:00 PM,9:00 PM,Ottawa Senators,3,Edmonton Oilers,6,Regulation
+3/14/2023,8:00 PM,10:00 PM,Calgary Flames,3,Arizona Coyotes,4,OT
+3/14/2023,8:00 PM,10:00 PM,Dallas Stars,2,Vancouver Canucks,5,Regulation
+3/14/2023,8:30 PM,10:30 PM,Columbus Blue Jackets,6,San Jose Sharks,5,OT
+3/14/2023,8:30 PM,10:30 PM,New York Islanders,2,Los Angeles Kings,5,Regulation
+3/15/2023,5:00 PM,7:00 PM,Buffalo Sabres,4,Washington Capitals,5,SO
+3/15/2023,5:00 PM,7:00 PM,Colorado Avalanche,2,Toronto Maple Leafs,1,SO
+3/15/2023,7:30 PM,9:30 PM,Minnesota Wild,8,St. Louis Blues,5,Regulation
+3/15/2023,8:00 PM,10:00 PM,New York Islanders,6,Anaheim Ducks,3,Regulation
+3/16/2023,5:00 PM,7:00 PM,Colorado Avalanche,5,Ottawa Senators,4,Regulation
+3/16/2023,5:00 PM,7:00 PM,Montreal Canadiens,5,Florida Panthers,9,Regulation
+3/16/2023,5:00 PM,7:00 PM,Pittsburgh Penguins,2,New York Rangers,4,Regulation
+3/16/2023,5:00 PM,7:00 PM,Tampa Bay Lightning,4,New Jersey Devils,3,SO
+3/16/2023,6:00 PM,8:00 PM,Boston Bruins,3,Winnipeg Jets,0,Regulation
+3/16/2023,6:00 PM,8:00 PM,Chicago Blackhawks,2,Nashville Predators,1,Regulation
+3/16/2023,7:00 PM,9:00 PM,Dallas Stars,1,Edmonton Oilers,4,Regulation
+3/16/2023,8:00 PM,10:00 PM,Calgary Flames,7,Vegas Golden Knights,2,Regulation
+3/16/2023,8:00 PM,10:00 PM,Vancouver Canucks,2,Arizona Coyotes,3,Regulation
+3/16/2023,8:30 PM,10:30 PM,Columbus Blue Jackets,1,Los Angeles Kings,4,Regulation
+3/16/2023,8:30 PM,10:30 PM,Seattle Kraken,2,San Jose Sharks,1,OT
+3/17/2023,5:00 PM,7:00 PM,Buffalo Sabres,2,Philadelphia Flyers,5,Regulation
+3/17/2023,5:00 PM,7:00 PM,Carolina Hurricanes,2,Toronto Maple Leafs,5,Regulation
+3/17/2023,5:00 PM,7:00 PM,St. Louis Blues,5,Washington Capitals,2,Regulation
+3/17/2023,8:00 PM,10:00 PM,Columbus Blue Jackets,4,Anaheim Ducks,7,Regulation
+3/18/2023,11:00 AM,1:00 PM,Colorado Avalanche,5,Detroit Red Wings,1,Regulation
+3/18/2023,12:00 PM,2:00 PM,Boston Bruins,5,Minnesota Wild,2,Regulation
+3/18/2023,12:00 PM,2:00 PM,Winnipeg Jets,3,Nashville Predators,2,OT
+3/18/2023,2:00 PM,4:00 PM,Edmonton Oilers,6,Seattle Kraken,4,Regulation
+3/18/2023,3:00 PM,5:00 PM,Carolina Hurricanes,5,Philadelphia Flyers,4,OT
+3/18/2023,4:00 PM,6:00 PM,New Jersey Devils,2,Florida Panthers,4,Regulation
+3/18/2023,5:00 PM,7:00 PM,Montreal Canadiens,3,Tampa Bay Lightning,5,Regulation
+3/18/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,5,Ottawa Senators,4,SO
+3/18/2023,6:00 PM,8:00 PM,Pittsburgh Penguins,0,New York Rangers,6,Regulation
+3/18/2023,8:00 PM,10:00 PM,Dallas Stars,6,Calgary Flames,5,OT
+3/18/2023,8:00 PM,10:00 PM,Vancouver Canucks,3,Los Angeles Kings,2,SO
+3/18/2023,8:30 PM,10:30 PM,Chicago Blackhawks,2,Arizona Coyotes,4,Regulation
+3/18/2023,8:30 PM,10:30 PM,New York Islanders,4,San Jose Sharks,1,Regulation
+3/19/2023,11:00 AM,1:00 PM,Boston Bruins,7,Buffalo Sabres,0,Regulation
+3/19/2023,12:00 PM,2:00 PM,Washington Capitals,3,Minnesota Wild,5,Regulation
+3/19/2023,2:00 PM,4:00 PM,Columbus Blue Jackets,2,Vegas Golden Knights,7,Regulation
+3/19/2023,5:00 PM,7:00 PM,Nashville Predators,0,New York Rangers,7,Regulation
+3/19/2023,5:00 PM,7:00 PM,New Jersey Devils,5,Tampa Bay Lightning,2,Regulation
+3/19/2023,5:00 PM,7:00 PM,Winnipeg Jets,0,St. Louis Blues,3,Regulation
+3/19/2023,6:00 PM,8:00 PM,Vancouver Canucks,2,Anaheim Ducks,1,Regulation
+3/20/2023,5:00 PM,7:00 PM,Ottawa Senators,2,Pittsburgh Penguins,1,Regulation
+3/20/2023,5:00 PM,7:00 PM,Florida Panthers,5,Detroit Red Wings,2,Regulation
+3/20/2023,7:00 PM,9:00 PM,Chicago Blackhawks,0,Colorado Avalanche,5,Regulation
+3/20/2023,7:30 PM,9:30 PM,San Jose Sharks,4,Edmonton Oilers,5,OT
+3/20/2023,8:30 PM,10:30 PM,Calgary Flames,2,Los Angeles Kings,8,Regulation
+3/21/2023,5:00 PM,7:00 PM,Carolina Hurricanes,3,New York Rangers,2,Regulation
+3/21/2023,5:00 PM,7:00 PM,Columbus Blue Jackets,7,Washington Capitals,6,OT
+3/21/2023,5:00 PM,7:00 PM,Florida Panthers,3,Philadelphia Flyers,6,Regulation
+3/21/2023,5:00 PM,7:00 PM,Minnesota Wild,2,New Jersey Devils,1,OT
+3/21/2023,5:00 PM,7:00 PM,Nashville Predators,7,Buffalo Sabres,3,Regulation
+3/21/2023,5:00 PM,7:00 PM,Ottawa Senators,1,Boston Bruins,2,Regulation
+3/21/2023,5:00 PM,7:00 PM,Tampa Bay Lightning,2,Montreal Canadiens,3,Regulation
+3/21/2023,5:30 PM,7:30 PM,Toronto Maple Leafs,2,New York Islanders,7,Regulation
+3/21/2023,6:00 PM,8:00 PM,Arizona Coyotes,1,Winnipeg Jets,2,Regulation
+3/21/2023,6:00 PM,8:00 PM,Detroit Red Wings,3,St. Louis Blues,2,SO
+3/21/2023,6:30 PM,8:30 PM,Seattle Kraken,5,Dallas Stars,4,OT
+3/21/2023,8:00 PM,10:00 PM,Calgary Flames,5,Anaheim Ducks,1,Regulation
+3/21/2023,8:00 PM,10:00 PM,Vegas Golden Knights,4,Vancouver Canucks,3,Regulation
+3/22/2023,6:00 PM,8:00 PM,Pittsburgh Penguins,5,Colorado Avalanche,2,Regulation
+3/22/2023,8:30 PM,10:30 PM,Arizona Coyotes,3,Edmonton Oilers,4,OT
+3/23/2023,4:30 PM,6:30 PM,Minnesota Wild,4,Philadelphia Flyers,5,SO
+3/23/2023,5:00 PM,7:00 PM,Chicago Blackhawks,1,Washington Capitals,6,Regulation
+3/23/2023,5:00 PM,7:00 PM,Montreal Canadiens,2,Boston Bruins,4,Regulation
+3/23/2023,5:00 PM,7:00 PM,New York Rangers,2,Carolina Hurricanes,1,Regulation
+3/23/2023,5:00 PM,7:00 PM,Tampa Bay Lightning,2,Ottawa Senators,7,Regulation
+3/23/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,6,Florida Panthers,2,Regulation
+3/23/2023,5:00 PM,7:00 PM,St. Louis Blues,4,Detroit Red Wings,3,Regulation
+3/23/2023,6:00 PM,8:00 PM,Seattle Kraken,1,Nashville Predators,2,SO
+3/23/2023,7:00 PM,9:00 PM,Pittsburgh Penguins,2,Dallas Stars,3,Regulation
+3/23/2023,7:00 PM,9:00 PM,Vegas Golden Knights,3,Calgary Flames,2,Regulation
+3/23/2023,8:00 PM,10:00 PM,San Jose Sharks,2,Vancouver Canucks,7,Regulation
+3/23/2023,8:00 PM,10:00 PM,Winnipeg Jets,3,Anaheim Ducks,2,Regulation
+3/24/2023,5:00 PM,7:00 PM,New York Islanders,4,Columbus Blue Jackets,5,OT
+3/24/2023,5:00 PM,7:00 PM,New Jersey Devils,4,Buffalo Sabres,5,Regulation
+3/24/2023,7:00 PM,9:00 PM,Arizona Coyotes,1,Colorado Avalanche,3,Regulation
+3/25/2023,11:00 AM,1:00 PM,Detroit Red Wings,0,Philadelphia Flyers,3,Regulation
+3/25/2023,11:00 AM,1:00 PM,Tampa Bay Lightning,1,Boston Bruins,2,Regulation
+3/25/2023,12:00 PM,2:00 PM,Seattle Kraken,7,Nashville Predators,2,Regulation
+3/25/2023,2:00 PM,4:00 PM,San Jose Sharks,3,Calgary Flames,5,Regulation
+3/25/2023,2:00 PM,4:00 PM,Winnipeg Jets,1,Los Angeles Kings,4,Regulation
+3/25/2023,3:00 PM,5:00 PM,Chicago Blackhawks,1,Minnesota Wild,3,Regulation
+3/25/2023,3:00 PM,5:00 PM,New York Rangers,4,Florida Panthers,3,Regulation
+3/25/2023,3:00 PM,5:00 PM,Buffalo Sabres,2,New York Islanders,0,Regulation
+3/25/2023,5:00 PM,7:00 PM,Columbus Blue Jackets,2,Montreal Canadiens,8,Regulation
+3/25/2023,5:00 PM,7:00 PM,Ottawa Senators,3,New Jersey Devils,5,Regulation
+3/25/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,3,Carolina Hurricanes,5,Regulation
+3/25/2023,5:00 PM,7:00 PM,Vancouver Canucks,3,Dallas Stars,1,Regulation
+3/25/2023,6:00 PM,8:00 PM,Washington Capitals,3,Pittsburgh Penguins,4,Regulation
+3/25/2023,8:00 PM,10:00 PM,Vegas Golden Knights,4,Edmonton Oilers,3,OT
+3/25/2023,8:30 PM,10:30 PM,St. Louis Blues,6,Anaheim Ducks,3,Regulation
+3/26/2023,1:00 PM,3:00 PM,Colorado Avalanche,4,Arizona Coyotes,3,SO
+3/26/2023,3:00 PM,5:00 PM,Boston Bruins,4,Carolina Hurricanes,3,SO
+3/26/2023,4:00 PM,6:00 PM,Toronto Maple Leafs,3,Nashville Predators,2,Regulation
+3/26/2023,4:00 PM,6:00 PM,Vancouver Canucks,4,Chicago Blackhawks,2,Regulation
+3/26/2023,8:30 PM,10:30 PM,St. Louis Blues,6,Los Angeles Kings,7,Regulation
+3/27/2023,5:00 PM,7:00 PM,Florida Panthers,2,Ottawa Senators,5,Regulation
+3/27/2023,5:00 PM,7:00 PM,Montreal Canadiens,4,Buffalo Sabres,3,SO
+3/27/2023,5:30 PM,7:30 PM,New Jersey Devils,1,New York Islanders,5,Regulation
+3/27/2023,6:00 PM,8:00 PM,Seattle Kraken,1,Minnesota Wild,5,Regulation
+3/27/2023,8:00 PM,10:00 PM,Colorado Avalanche,5,Anaheim Ducks,1,Regulation
+3/27/2023,8:00 PM,10:00 PM,Edmonton Oilers,5,Arizona Coyotes,4,Regulation
+3/28/2023,5:00 PM,7:00 PM,Columbus Blue Jackets,2,New York Rangers,6,Regulation
+3/28/2023,5:00 PM,7:00 PM,Montreal Canadiens,2,Philadelphia Flyers,3,Regulation
+3/28/2023,5:00 PM,7:00 PM,Nashville Predators,2,Boston Bruins,1,Regulation
+3/28/2023,5:00 PM,7:00 PM,Tampa Bay Lightning,4,Carolina Hurricanes,0,Regulation
+3/28/2023,5:00 PM,7:00 PM,Pittsburgh Penguins,4,Detroit Red Wings,7,Regulation
+3/28/2023,6:00 PM,8:00 PM,Vancouver Canucks,5,St. Louis Blues,6,OT
+3/28/2023,6:30 PM,8:30 PM,Dallas Stars,4,Chicago Blackhawks,1,Regulation
+3/28/2023,7:00 PM,9:00 PM,Los Angeles Kings,1,Calgary Flames,2,Regulation
+3/28/2023,8:00 PM,10:00 PM,Edmonton Oilers,7,Vegas Golden Knights,4,Regulation
+3/28/2023,8:30 PM,10:30 PM,Winnipeg Jets,0,San Jose Sharks,3,Regulation
+3/29/2023,5:30 PM,7:30 PM,Florida Panthers,3,Toronto Maple Leafs,2,OT
+3/29/2023,5:30 PM,7:30 PM,New York Islanders,2,Washington Capitals,1,SO
+3/29/2023,8:00 PM,10:00 PM,Minnesota Wild,4,Colorado Avalanche,2,Regulation
+3/30/2023,5:00 PM,7:00 PM,Columbus Blue Jackets,1,Boston Bruins,2,OT
+3/30/2023,5:00 PM,7:00 PM,Florida Panthers,5,Montreal Canadiens,2,Regulation
+3/30/2023,5:00 PM,7:00 PM,New York Rangers,1,New Jersey Devils,2,Regulation
+3/30/2023,5:00 PM,7:00 PM,Nashville Predators,0,Pittsburgh Penguins,2,Regulation
+3/30/2023,5:00 PM,7:00 PM,Philadelphia Flyers,4,Ottawa Senators,5,OT
+3/30/2023,5:00 PM,7:00 PM,Washington Capitals,1,Tampa Bay Lightning,5,Regulation
+3/30/2023,5:30 PM,7:30 PM,Carolina Hurricanes,2,Detroit Red Wings,3,Regulation
+3/30/2023,6:30 PM,8:30 PM,St. Louis Blues,5,Chicago Blackhawks,3,Regulation
+3/30/2023,7:00 PM,9:00 PM,Los Angeles Kings,0,Edmonton Oilers,2,Regulation
+3/30/2023,8:00 PM,10:00 PM,Anaheim Ducks,1,Seattle Kraken,4,Regulation
+3/30/2023,8:30 PM,10:30 PM,Vegas Golden Knights,3,San Jose Sharks,4,OT
+3/31/2023,5:00 PM,7:00 PM,New York Rangers,2,Buffalo Sabres,3,OT
+3/31/2023,6:00 PM,8:00 PM,Detroit Red Wings,2,Winnipeg Jets,6,Regulation
+3/31/2023,8:00 PM,10:00 PM,Calgary Flames,5,Vancouver Canucks,4,OT
+3/31/2023,8:30 PM,10:30 PM,Dallas Stars,5,Arizona Coyotes,2,Regulation
+4/1/2023,11:00 AM,1:00 PM,St. Louis Blues,1,Nashville Predators,6,Regulation
+4/1/2023,1:00 PM,3:00 PM,Boston Bruins,4,Pittsburgh Penguins,3,Regulation
+4/1/2023,5:00 PM,7:00 PM,Buffalo Sabres,6,Philadelphia Flyers,3,Regulation
+4/1/2023,5:00 PM,7:00 PM,Carolina Hurricanes,3,Montreal Canadiens,0,Regulation
+4/1/2023,5:00 PM,7:00 PM,Florida Panthers,7,Columbus Blue Jackets,0,Regulation
+4/1/2023,5:00 PM,7:00 PM,New York Islanders,0,Tampa Bay Lightning,5,Regulation
+4/1/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,3,Ottawa Senators,0,Regulation
+4/1/2023,6:00 PM,8:00 PM,New Jersey Devils,6,Chicago Blackhawks,3,Regulation
+4/1/2023,7:00 PM,9:00 PM,Dallas Stars,2,Colorado Avalanche,5,Regulation
+4/1/2023,8:00 PM,10:00 PM,Anaheim Ducks,0,Edmonton Oilers,6,Regulation
+4/1/2023,8:00 PM,10:00 PM,Los Angeles Kings,3,Seattle Kraken,1,Regulation
+4/1/2023,8:00 PM,10:00 PM,Minnesota Wild,1,Vegas Golden Knights,4,Regulation
+4/1/2023,8:00 PM,10:00 PM,San Jose Sharks,7,Arizona Coyotes,2,Regulation
+4/2/2023,11:00 AM,1:00 PM,New York Rangers,5,Washington Capitals,2,Regulation
+4/2/2023,1:30 PM,3:30 PM,Boston Bruins,4,St. Louis Blues,3,SO
+4/2/2023,4:00 PM,6:00 PM,New York Islanders,1,Carolina Hurricanes,2,Regulation
+4/2/2023,4:00 PM,6:00 PM,Ottawa Senators,3,Columbus Blue Jackets,4,OT
+4/2/2023,4:00 PM,6:00 PM,Philadelphia Flyers,2,Pittsburgh Penguins,4,Regulation
+4/2/2023,5:00 PM,7:00 PM,Detroit Red Wings,5,Toronto Maple Leafs,2,Regulation
+4/2/2023,5:00 PM,7:00 PM,New Jersey Devils,1,Winnipeg Jets,6,Regulation
+4/2/2023,6:00 PM,8:00 PM,Anaheim Ducks,4,Calgary Flames,5,Regulation
+4/2/2023,6:00 PM,8:00 PM,Los Angeles Kings,4,Vancouver Canucks,1,Regulation
+4/3/2023,6:00 PM,8:00 PM,Vegas Golden Knights,4,Minnesota Wild,3,SO
+4/3/2023,6:30 PM,8:30 PM,Nashville Predators,1,Dallas Stars,5,Regulation
+4/3/2023,8:00 PM,10:00 PM,Arizona Coyotes,1,Seattle Kraken,8,Regulation
+4/4/2023,5:00 PM,7:00 PM,Buffalo Sabres,1,Florida Panthers,2,Regulation
+4/4/2023,5:00 PM,7:00 PM,Columbus Blue Jackets,2,Toronto Maple Leafs,4,Regulation
+4/4/2023,5:00 PM,7:00 PM,Detroit Red Wings,5,Montreal Canadiens,0,Regulation
+4/4/2023,5:00 PM,7:00 PM,Ottawa Senators,2,Carolina Hurricanes,3,OT
+4/4/2023,5:00 PM,7:00 PM,Pittsburgh Penguins,1,New Jersey Devils,5,Regulation
+4/4/2023,6:00 PM,8:00 PM,Philadelphia Flyers,2,St. Louis Blues,4,Regulation
+4/4/2023,6:00 PM,8:00 PM,Vegas Golden Knights,2,Nashville Predators,3,OT
+4/4/2023,7:00 PM,9:00 PM,Chicago Blackhawks,4,Calgary Flames,3,Regulation
+4/4/2023,8:00 PM,10:00 PM,Seattle Kraken,5,Vancouver Canucks,2,Regulation
+4/4/2023,8:30 PM,10:30 PM,Edmonton Oilers,3,Los Angeles Kings,1,Regulation
+4/4/2023,8:30 PM,10:30 PM,Colorado Avalanche,4,San Jose Sharks,3,OT
+4/5/2023,5:30 PM,7:30 PM,Calgary Flames,3,Winnipeg Jets,1,Regulation
+4/5/2023,5:30 PM,7:30 PM,Tampa Bay Lightning,3,New York Rangers,6,Regulation
+4/5/2023,8:00 PM,10:00 PM,Edmonton Oilers,3,Anaheim Ducks,1,Regulation
+4/6/2023,5:00 PM,7:00 PM,Columbus Blue Jackets,,New Jersey Devils,,Scheduled
+4/6/2023,5:00 PM,7:00 PM,Minnesota Wild,,Pittsburgh Penguins,,Scheduled
+4/6/2023,5:00 PM,7:00 PM,Ottawa Senators,,Florida Panthers,,Scheduled
+4/6/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,,Boston Bruins,,Scheduled
+4/6/2023,5:00 PM,7:00 PM,Washington Capitals,,Montreal Canadiens,,Scheduled
+4/6/2023,5:00 PM,7:00 PM,Buffalo Sabres,,Detroit Red Wings,,Scheduled
+4/6/2023,5:30 PM,7:30 PM,Tampa Bay Lightning,,New York Islanders,,Scheduled
+4/6/2023,6:00 PM,8:00 PM,Carolina Hurricanes,,Nashville Predators,,Scheduled
+4/6/2023,6:00 PM,8:00 PM,New York Rangers,,St. Louis Blues,,Scheduled
+4/6/2023,6:30 PM,8:30 PM,Philadelphia Flyers,,Dallas Stars,,Scheduled
+4/6/2023,8:00 PM,10:00 PM,Chicago Blackhawks,,Vancouver Canucks,,Scheduled
+4/6/2023,8:00 PM,10:00 PM,Los Angeles Kings,,Vegas Golden Knights,,Scheduled
+4/6/2023,8:30 PM,10:30 PM,Arizona Coyotes,,Seattle Kraken,,Scheduled
+4/6/2023,8:30 PM,10:30 PM,Colorado Avalanche,,San Jose Sharks,,Scheduled
+4/8/2023,10:30 AM,12:30 PM,Carolina Hurricanes,,Buffalo Sabres,,Scheduled
+4/8/2023,11:00 AM,1:00 PM,Pittsburgh Penguins,,Detroit Red Wings,,Scheduled
+4/8/2023,1:30 PM,3:30 PM,Vegas Golden Knights,,Dallas Stars,,Scheduled
+4/8/2023,2:00 PM,4:00 PM,Edmonton Oilers,,San Jose Sharks,,Scheduled
+4/8/2023,3:30 PM,5:30 PM,Anaheim Ducks,,Arizona Coyotes,,Scheduled
+4/8/2023,5:00 PM,7:00 PM,Florida Panthers,,Washington Capitals,,Scheduled
+4/8/2023,5:00 PM,7:00 PM,Montreal Canadiens,,Toronto Maple Leafs,,Scheduled
+4/8/2023,5:00 PM,7:00 PM,New York Rangers,,Columbus Blue Jackets,,Scheduled
+4/8/2023,5:00 PM,7:00 PM,Nashville Predators,,Winnipeg Jets,,Scheduled
+4/8/2023,5:00 PM,7:00 PM,Tampa Bay Lightning,,Ottawa Senators,,Scheduled
+4/8/2023,5:30 PM,7:30 PM,Philadelphia Flyers,,New York Islanders,,Scheduled
+4/8/2023,6:00 PM,8:00 PM,St. Louis Blues,,Minnesota Wild,,Scheduled
+4/8/2023,6:00 PM,8:00 PM,New Jersey Devils,,Boston Bruins,,Scheduled
+4/8/2023,8:00 PM,10:00 PM,Calgary Flames,,Vancouver Canucks,,Scheduled
+4/8/2023,8:00 PM,10:00 PM,Chicago Blackhawks,,Seattle Kraken,,Scheduled
+4/8/2023,8:30 PM,10:30 PM,Colorado Avalanche,,Los Angeles Kings,,Scheduled
+4/9/2023,4:00 PM,6:00 PM,Boston Bruins,,Philadelphia Flyers,,Scheduled
+4/9/2023,6:30 PM,8:30 PM,Colorado Avalanche,,Anaheim Ducks,,Scheduled
+4/10/2023,5:00 PM,7:00 PM,Buffalo Sabres,,New York Rangers,,Scheduled
+4/10/2023,5:00 PM,7:00 PM,Carolina Hurricanes,,Ottawa Senators,,Scheduled
+4/10/2023,5:00 PM,7:00 PM,New York Islanders,,Washington Capitals,,Scheduled
+4/10/2023,5:00 PM,7:00 PM,San Jose Sharks,,Winnipeg Jets,,Scheduled
+4/10/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,,Florida Panthers,,Scheduled
+4/10/2023,5:00 PM,7:00 PM,Dallas Stars,,Detroit Red Wings,,Scheduled
+4/10/2023,7:00 PM,9:00 PM,Minnesota Wild,,Chicago Blackhawks,,Scheduled
+4/10/2023,7:30 PM,9:30 PM,Nashville Predators,,Calgary Flames,,Scheduled
+4/10/2023,8:00 PM,10:00 PM,Seattle Kraken,,Arizona Coyotes,,Scheduled
+4/10/2023,8:30 PM,10:30 PM,Vancouver Canucks,,Los Angeles Kings,,Scheduled
+4/11/2023,5:00 PM,7:00 PM,Buffalo Sabres,,New Jersey Devils,,Scheduled
+4/11/2023,5:00 PM,7:00 PM,Columbus Blue Jackets,,Philadelphia Flyers,,Scheduled
+4/11/2023,5:00 PM,7:00 PM,Detroit Red Wings,,Carolina Hurricanes,,Scheduled
+4/11/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,,Tampa Bay Lightning,,Scheduled
+4/11/2023,5:00 PM,7:00 PM,Washington Capitals,,Boston Bruins,,Scheduled
+4/11/2023,5:30 PM,7:30 PM,Chicago Blackhawks,,Pittsburgh Penguins,,Scheduled
+4/11/2023,6:00 PM,8:00 PM,Winnipeg Jets,,Minnesota Wild,,Scheduled
+4/11/2023,7:30 PM,9:30 PM,Edmonton Oilers,,Colorado Avalanche,,Scheduled
+4/11/2023,8:00 PM,10:00 PM,Seattle Kraken,,Vegas Golden Knights,,Scheduled
+4/11/2023,8:00 PM,10:00 PM,Vancouver Canucks,,Anaheim Ducks,,Scheduled
+4/12/2023,5:00 PM,7:00 PM,Montreal Canadiens,,New York Islanders,,Scheduled
+4/12/2023,5:30 PM,7:30 PM,Dallas Stars,,St. Louis Blues,,Scheduled
+4/12/2023,8:00 PM,10:00 PM,San Jose Sharks,,Calgary Flames,,Scheduled
+4/13/2023,5:00 PM,7:00 PM,Boston Bruins,,Montreal Canadiens,,Scheduled
+4/13/2023,5:00 PM,7:00 PM,Carolina Hurricanes,,Florida Panthers,,Scheduled
+4/13/2023,5:00 PM,7:00 PM,Detroit Red Wings,,Tampa Bay Lightning,,Scheduled
+4/13/2023,5:00 PM,7:00 PM,New Jersey Devils,,Washington Capitals,,Scheduled
+4/13/2023,5:00 PM,7:00 PM,Ottawa Senators,,Buffalo Sabres,,Scheduled
+4/13/2023,5:00 PM,7:00 PM,Pittsburgh Penguins,,Columbus Blue Jackets,,Scheduled
+4/13/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,,New York Rangers,,Scheduled
+4/13/2023,6:00 PM,8:00 PM,Minnesota Wild,,Nashville Predators,,Scheduled
+4/13/2023,6:00 PM,8:00 PM,St. Louis Blues,,Dallas Stars,,Scheduled
+4/13/2023,6:00 PM,8:00 PM,Winnipeg Jets,,Colorado Avalanche,,Scheduled
+4/13/2023,6:30 PM,8:30 PM,Philadelphia Flyers,,Chicago Blackhawks,,Scheduled
+4/13/2023,7:00 PM,9:00 PM,San Jose Sharks,,Edmonton Oilers,,Scheduled
+4/13/2023,8:00 PM,10:00 PM,Los Angeles Kings,,Anaheim Ducks,,Scheduled
+4/13/2023,8:00 PM,10:00 PM,Vancouver Canucks,,Arizona Coyotes,,Scheduled
+4/13/2023,8:30 PM,10:30 PM,Vegas Golden Knights,,Seattle Kraken,,Scheduled
+4/14/2023,5:30 PM,7:30 PM,Buffalo Sabres,,Columbus Blue Jackets,,Scheduled
+4/14/2023,6:00 PM,8:00 PM,Colorado Avalanche,,Nashville Predators,,Scheduled
