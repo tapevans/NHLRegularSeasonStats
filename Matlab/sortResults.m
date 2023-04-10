@@ -1,5 +1,5 @@
 
-function [Atlantic, Metro , Central, Pacific, subScores] = displayResults(Teams,Scores,IDX)
+function [Atlantic, Metro , Central, Pacific, subScores] = sortResults(Teams,Scores,IDX)
 T = struct2table(Teams);
 sortedT = sortrows(T , 'divison');
 Atlantic = sortedT(1:8,:);

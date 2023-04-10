@@ -25,6 +25,7 @@ clear all; close all; clc
     [H2H] = getH2H(Teams , Scores, IDX);
 
 %% Determine Playoff Position
+    
 
 %% Display Results
    [Atlantic, Metro , Central, Pacific, subScores] =  displayResults(Teams,Scores,IDX);

@@ -166,17 +166,26 @@ i = i+1;
 
 
 for TT = 1:length(Teams)
-    Teams(TT).GP  = 0;
-    Teams(TT).W   = 0;
-    Teams(TT).L   = 0;
-    Teams(TT).OTL = 0;
-    Teams(TT).Pts = 0;
-    Teams(TT).GF  = 0;
-    Teams(TT).GA  = 0;
-    Teams(TT).HGR = 0;
-    Teams(TT).AGR = 0;
-    Teams(TT).GR  = 0;
-    Teams(TT).TPP = 0;
+    Teams(TT).GP  = 0; % Games Played
+    Teams(TT).W   = 0; % Wins
+    Teams(TT).L   = 0; % Loses
+    Teams(TT).OTL = 0; % Overtime Loses
+    Teams(TT).Pts = 0; % Points
+    Teams(TT).Per = 0; % Points Percentage
+    Teams(TT).RW  = 0; % Regulation Wins
+    Teams(TT).ROW = 0; % Regulation and OT Wins
+    Teams(TT).GF  = 0; % Goals For
+    Teams(TT).GA  = 0; % Goals Against
+    Teams(TT).Dif = 0; % Goals For - Goals Against
+    Teams(TT).HGR = 0; % Home Games Remaining
+    Teams(TT).AGR = 0; % Away Games Remaining
+    Teams(TT).GR  = 0; % Games Remaining
+    Teams(TT).TPP = 0; % Total Possible Points
+    Teams(TT).HR  = [0,0,0]; % Home Record
+    Teams(TT).AR  = [0,0,0]; % Away Record
+    Teams(TT).OTR = [0,0];   % Overtime Record
+    Teams(TT).SOR = [0,0];   % Shootout Record
+    Teams(TT).DivRank = 0; % Division Rank
 end
 
 end
