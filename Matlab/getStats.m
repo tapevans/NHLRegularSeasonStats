@@ -3,7 +3,7 @@
 
 function [Teams] = getStats(Teams , Scores)
 % Initialize
-N_Teams     = length(Teams);
+N_teams     = length(Teams);
 [N_games,~] = size(Scores);
 
 for GG = 1:N_games
@@ -62,7 +62,7 @@ end
         Teams(Scores(GG).awayIDX).GR = Teams(Scores(GG).awayIDX).GR + 1;
         Teams(Scores(GG).homeIDX).GR = Teams(Scores(GG).homeIDX).GR + 1;
         
-        for TT = 1:N_Teams
+        for TT = 1:N_teams
             if strcmp(Scores(GG).Away , Teams(TT).name)
                 Teams(TT).AGR = Teams(TT).AGR + 1;
             end
@@ -75,7 +75,7 @@ end
 
 
 %% Total Possible Points
-    for TT = 1:N_Teams
+    for TT = 1:N_teams
         Teams(TT).TPP = Teams(TT).Pts + 2*Teams(TT).GR;
     end
 

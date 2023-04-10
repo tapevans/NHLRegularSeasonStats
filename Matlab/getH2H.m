@@ -1,6 +1,6 @@
 %% getH2H
 
-function [H2H] = getH2H(Teams , Scores)
+function [H2H] = getH2H(Teams , Scores, IDX)
 N_teams = length(Teams);
 
 H2H = cell(N_teams);
@@ -14,7 +14,7 @@ end
 for TT = 1:N_teams
     for OO = 1:N_teams
         if OO ~= TT
-            matchup = intersect(Teams(TT).GameIDXHome,Teams(OO).GameIDX);
+            matchup = intersect(IDX(TT).GameIDXHome,IDX(OO).GameIDX);
             subScores = Scores(matchup);
             for i = length(subScores)
                 if subScores(i).HomeScore > subScores(i).AwayScore
@@ -27,7 +27,7 @@ for TT = 1:N_teams
                     end
                 end
             end
-            matchup = intersect(Teams(TT).GameIDXAway,Teams(OO).GameIDX);
+            matchup = intersect(IDX(TT).GameIDXAway,IDX(OO).GameIDX);
             subScores = Scores(matchup);
             for i = length(subScores)
                 if subScores(i).AwayScore > subScores(i).HomeScore

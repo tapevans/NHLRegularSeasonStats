@@ -1,5 +1,5 @@
 
-function displayResults(Teams,Scores)
+function [Atlantic, Metro , Central, Pacific, subScores] = displayResults(Teams,Scores,IDX)
 T = struct2table(Teams);
 sortedT = sortrows(T , 'divison');
 Atlantic = sortedT(1:8,:);
@@ -13,11 +13,11 @@ Pacific = sortrows(Pacific,'Pts', 'descend');
 
 
 TT = 6;
-subScores = [Scores(Teams(TT).GameIDXAway);Scores(Teams(TT).GameIDXHome)];
+subScores = [Scores(IDX(TT).GameIDXAway);Scores(IDX(TT).GameIDXHome)];
 
 % N_teams     = length(Teams);
 % for TT = 2:N_teams
-%     subScores(:,TT) = [Scores(Teams(TT).GameIDXAway);Scores(Teams(TT).GameIDXHome)];
+%     subScores(:,TT) = [Scores(IDX(TT).GameIDXAway);Scores(IDX(TT).GameIDXHome)];
 % end
 
 end

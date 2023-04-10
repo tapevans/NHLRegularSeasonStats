@@ -177,9 +177,6 @@ for TT = 1:length(Teams)
     Teams(TT).AGR = 0;
     Teams(TT).GR  = 0;
     Teams(TT).TPP = 0;
-    Teams(TT).GameIDX = [];
-    Teams(TT).GameIDXHome = [];
-    Teams(TT).GameIDXAway = [];
 end
 
 end

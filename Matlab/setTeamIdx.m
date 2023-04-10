@@ -1,41 +1,46 @@
 %% setTeamIdx
 % set the team index in the table
 
-function [Teams, Scores] = setTeamIdx( Teams , Scores )
+function [Teams, Scores, IDX] = setTeamIdx( Teams , Scores )
 % Initialize
-    N_Teams     = length(Teams);
+    N_teams     = length(Teams);
     [N_games,~] = size(Scores);
     Scores(1).awayIDX = [];
     Scores(1).homeIDX = [];
+    for TT = 1:N_teams
+        IDX(TT).GameIDX = [];
+        IDX(TT).GameIDXHome = [];
+        IDX(TT).GameIDXAway = [];
+    end
 
 % Loop through all the teams and place their index in Scores
-    for TT = 1:N_Teams
+    for TT = 1:N_teams
         Team_str = Teams(TT).name;
         for GG = 1:N_games
             if strcmp(Scores(GG).Away , Team_str)
                 Scores(GG).awayIDX = TT;
-                if isempty(Teams(TT).GameIDX)
-                    Teams(TT).GameIDX = GG;
+                if isempty(IDX(TT).GameIDX)
+                    IDX(TT).GameIDX = GG;
                 else
-                    Teams(TT).GameIDX = [Teams(TT).GameIDX , GG];
+                    IDX(TT).GameIDX = [IDX(TT).GameIDX , GG];
                 end
-                if isempty(Teams(TT).GameIDXAway)
-                    Teams(TT).GameIDXAway = GG;
+                if isempty(IDX(TT).GameIDXAway)
+                    IDX(TT).GameIDXAway = GG;
                 else
-                    Teams(TT).GameIDXAway = [Teams(TT).GameIDXAway , GG];
+                    IDX(TT).GameIDXAway = [IDX(TT).GameIDXAway , GG];
                 end
             end
             if strcmp(Scores(GG).Home , Team_str)
                 Scores(GG).homeIDX = TT;
-                if isempty(Teams(TT).GameIDX)
-                    Teams(TT).GameIDX = GG;
+                if isempty(IDX(TT).GameIDX)
+                    IDX(TT).GameIDX = GG;
                 else
-                    Teams(TT).GameIDX = [Teams(TT).GameIDX , GG];
+                    IDX(TT).GameIDX = [IDX(TT).GameIDX , GG];
                 end
-                if isempty(Teams(TT).GameIDXHome)
-                    Teams(TT).GameIDXHome = GG;
+                if isempty(IDX(TT).GameIDXHome)
+                    IDX(TT).GameIDXHome = GG;
                 else
-                    Teams(TT).GameIDXHome = [Teams(TT).GameIDXHome , GG];
+                    IDX(TT).GameIDXHome = [IDX(TT).GameIDXHome , GG];
                 end
             end
         end
