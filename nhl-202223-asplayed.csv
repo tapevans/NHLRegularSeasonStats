@@ -1,4 +1,4 @@
-Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
+Date,StartTimeSask,StartTimeET,Away,AwayScore,Home,HomeScore,Status
 10/7/2022,12:00 PM,2:00 PM,San Jose Sharks,1,Nashville Predators,4,Regulation
 10/8/2022,12:00 PM,2:00 PM,Nashville Predators,3,San Jose Sharks,2,Regulation
 10/11/2022,5:30 PM,7:30 PM,Tampa Bay Lightning,1,New York Rangers,3,Regulation
@@ -1239,37 +1239,37 @@ Date,Start Time (Sask),Start Time (ET),Visitor,Score,Home,Score,Status
 4/5/2023,5:30 PM,7:30 PM,Calgary Flames,3,Winnipeg Jets,1,Regulation
 4/5/2023,5:30 PM,7:30 PM,Tampa Bay Lightning,3,New York Rangers,6,Regulation
 4/5/2023,8:00 PM,10:00 PM,Edmonton Oilers,3,Anaheim Ducks,1,Regulation
-4/6/2023,5:00 PM,7:00 PM,Columbus Blue Jackets,,New Jersey Devils,,Scheduled
-4/6/2023,5:00 PM,7:00 PM,Minnesota Wild,,Pittsburgh Penguins,,Scheduled
-4/6/2023,5:00 PM,7:00 PM,Ottawa Senators,,Florida Panthers,,Scheduled
-4/6/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,,Boston Bruins,,Scheduled
-4/6/2023,5:00 PM,7:00 PM,Washington Capitals,,Montreal Canadiens,,Scheduled
-4/6/2023,5:00 PM,7:00 PM,Buffalo Sabres,,Detroit Red Wings,,Scheduled
-4/6/2023,5:30 PM,7:30 PM,Tampa Bay Lightning,,New York Islanders,,Scheduled
-4/6/2023,6:00 PM,8:00 PM,Carolina Hurricanes,,Nashville Predators,,Scheduled
-4/6/2023,6:00 PM,8:00 PM,New York Rangers,,St. Louis Blues,,Scheduled
-4/6/2023,6:30 PM,8:30 PM,Philadelphia Flyers,,Dallas Stars,,Scheduled
-4/6/2023,8:00 PM,10:00 PM,Chicago Blackhawks,,Vancouver Canucks,,Scheduled
-4/6/2023,8:00 PM,10:00 PM,Los Angeles Kings,,Vegas Golden Knights,,Scheduled
-4/6/2023,8:30 PM,10:30 PM,Arizona Coyotes,,Seattle Kraken,,Scheduled
-4/6/2023,8:30 PM,10:30 PM,Colorado Avalanche,,San Jose Sharks,,Scheduled
-4/8/2023,10:30 AM,12:30 PM,Carolina Hurricanes,,Buffalo Sabres,,Scheduled
-4/8/2023,11:00 AM,1:00 PM,Pittsburgh Penguins,,Detroit Red Wings,,Scheduled
-4/8/2023,1:30 PM,3:30 PM,Vegas Golden Knights,,Dallas Stars,,Scheduled
-4/8/2023,2:00 PM,4:00 PM,Edmonton Oilers,,San Jose Sharks,,Scheduled
-4/8/2023,3:30 PM,5:30 PM,Anaheim Ducks,,Arizona Coyotes,,Scheduled
-4/8/2023,5:00 PM,7:00 PM,Florida Panthers,,Washington Capitals,,Scheduled
-4/8/2023,5:00 PM,7:00 PM,Montreal Canadiens,,Toronto Maple Leafs,,Scheduled
-4/8/2023,5:00 PM,7:00 PM,New York Rangers,,Columbus Blue Jackets,,Scheduled
-4/8/2023,5:00 PM,7:00 PM,Nashville Predators,,Winnipeg Jets,,Scheduled
-4/8/2023,5:00 PM,7:00 PM,Tampa Bay Lightning,,Ottawa Senators,,Scheduled
-4/8/2023,5:30 PM,7:30 PM,Philadelphia Flyers,,New York Islanders,,Scheduled
-4/8/2023,6:00 PM,8:00 PM,St. Louis Blues,,Minnesota Wild,,Scheduled
-4/8/2023,6:00 PM,8:00 PM,New Jersey Devils,,Boston Bruins,,Scheduled
-4/8/2023,8:00 PM,10:00 PM,Calgary Flames,,Vancouver Canucks,,Scheduled
-4/8/2023,8:00 PM,10:00 PM,Chicago Blackhawks,,Seattle Kraken,,Scheduled
-4/8/2023,8:30 PM,10:30 PM,Colorado Avalanche,,Los Angeles Kings,,Scheduled
-4/9/2023,4:00 PM,6:00 PM,Boston Bruins,,Philadelphia Flyers,,Scheduled
+4/6/2023,5:00 PM,7:00 PM,Columbus Blue Jackets,1,New Jersey Devils,8,Regulation
+4/6/2023,5:00 PM,7:00 PM,Minnesota Wild,1,Pittsburgh Penguins,4,Regulation
+4/6/2023,5:00 PM,7:00 PM,Ottawa Senators,2,Florida Panthers,7,Regulation
+4/6/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,1,Boston Bruins,2,OT
+4/6/2023,5:00 PM,7:00 PM,Washington Capitals,2,Montreal Canadiens,6,Regulation
+4/6/2023,5:00 PM,7:00 PM,Buffalo Sabres,7,Detroit Red Wings,6,SO
+4/6/2023,5:30 PM,7:30 PM,Tampa Bay Lightning,1,New York Islanders,6,Regulation
+4/6/2023,6:00 PM,8:00 PM,Carolina Hurricanes,0,Nashville Predators,3,Regulation
+4/6/2023,6:00 PM,8:00 PM,New York Rangers,2,St. Louis Blues,3,SO
+4/6/2023,6:30 PM,8:30 PM,Philadelphia Flyers,1,Dallas Stars,4,Regulation
+4/6/2023,8:00 PM,10:00 PM,Chicago Blackhawks,0,Vancouver Canucks,3,Regulation
+4/6/2023,8:00 PM,10:00 PM,Los Angeles Kings,2,Vegas Golden Knights,5,Regulation
+4/6/2023,8:30 PM,10:30 PM,Arizona Coyotes,2,Seattle Kraken,4,Regulation
+4/6/2023,8:30 PM,10:30 PM,Colorado Avalanche,6,San Jose Sharks,2,Regulation
+4/8/2023,10:30 AM,12:30 PM,Carolina Hurricanes,3,Buffalo Sabres,4,Regulation
+4/8/2023,11:00 AM,1:00 PM,Pittsburgh Penguins,5,Detroit Red Wings,1,Regulation
+4/8/2023,1:30 PM,3:30 PM,Vegas Golden Knights,1,Dallas Stars,2,SO
+4/8/2023,2:00 PM,4:00 PM,Edmonton Oilers,6,San Jose Sharks,1,Regulation
+4/8/2023,3:30 PM,5:30 PM,Anaheim Ducks,4,Arizona Coyotes,5,OT
+4/8/2023,5:00 PM,7:00 PM,Florida Panthers,4,Washington Capitals,2,Regulation
+4/8/2023,5:00 PM,7:00 PM,Montreal Canadiens,1,Toronto Maple Leafs,7,Regulation
+4/8/2023,5:00 PM,7:00 PM,New York Rangers,4,Columbus Blue Jackets,0,Regulation
+4/8/2023,5:00 PM,7:00 PM,Nashville Predators,0,Winnipeg Jets,2,Regulation
+4/8/2023,5:00 PM,7:00 PM,Tampa Bay Lightning,4,Ottawa Senators,7,Regulation
+4/8/2023,5:30 PM,7:30 PM,Philadelphia Flyers,0,New York Islanders,4,Regulation
+4/8/2023,6:00 PM,8:00 PM,St. Louis Blues,3,Minnesota Wild,5,Regulation
+4/8/2023,6:00 PM,8:00 PM,New Jersey Devils,1,Boston Bruins,2,Regulation
+4/8/2023,8:00 PM,10:00 PM,Calgary Flames,2,Vancouver Canucks,3,SO
+4/8/2023,8:00 PM,10:00 PM,Chicago Blackhawks,3,Seattle Kraken,7,Regulation
+4/8/2023,8:30 PM,10:30 PM,Colorado Avalanche,4,Los Angeles Kings,3,Regulation
+4/9/2023,4:00 PM,6:00 PM,Boston Bruins,5,Philadelphia Flyers,3,Regulation
 4/9/2023,6:30 PM,8:30 PM,Colorado Avalanche,,Anaheim Ducks,,Scheduled
 4/10/2023,5:00 PM,7:00 PM,Buffalo Sabres,,New York Rangers,,Scheduled
 4/10/2023,5:00 PM,7:00 PM,Carolina Hurricanes,,Ottawa Senators,,Scheduled
