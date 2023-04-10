@@ -163,4 +163,23 @@ Teams(i).divison    = 'Central';
 Teams(i).conference = 'Western';
 i = i+1;
 
+
+
+for TT = 1:length(Teams)
+    Teams(TT).GP  = 0;
+    Teams(TT).W   = 0;
+    Teams(TT).L   = 0;
+    Teams(TT).OTL = 0;
+    Teams(TT).Pts = 0;
+    Teams(TT).GF  = 0;
+    Teams(TT).GA  = 0;
+    Teams(TT).HGR = 0;
+    Teams(TT).AGR = 0;
+    Teams(TT).GR  = 0;
+    Teams(TT).TPP = 0;
+    Teams(TT).GameIDX = [];
+    Teams(TT).GameIDXHome = [];
+    Teams(TT).GameIDXAway = [];
+end
+
 end

@@ -1,7 +1,7 @@
 %% setTeamIdx
 % set the team index in the table
 
-function [Scores] = setTeamIdx( Teams , Scores )
+function [Teams, Scores] = setTeamIdx( Teams , Scores )
 % Initialize
     N_Teams     = length(Teams);
     [N_games,~] = size(Scores);
@@ -14,12 +14,34 @@ function [Scores] = setTeamIdx( Teams , Scores )
         for GG = 1:N_games
             if strcmp(Scores(GG).Away , Team_str)
                 Scores(GG).awayIDX = TT;
+                if isempty(Teams(TT).GameIDX)
+                    Teams(TT).GameIDX = GG;
+                else
+                    Teams(TT).GameIDX = [Teams(TT).GameIDX , GG];
+                end
+                if isempty(Teams(TT).GameIDXAway)
+                    Teams(TT).GameIDXAway = GG;
+                else
+                    Teams(TT).GameIDXAway = [Teams(TT).GameIDXAway , GG];
+                end
             end
             if strcmp(Scores(GG).Home , Team_str)
                 Scores(GG).homeIDX = TT;
+                if isempty(Teams(TT).GameIDX)
+                    Teams(TT).GameIDX = GG;
+                else
+                    Teams(TT).GameIDX = [Teams(TT).GameIDX , GG];
+                end
+                if isempty(Teams(TT).GameIDXHome)
+                    Teams(TT).GameIDXHome = GG;
+                else
+                    Teams(TT).GameIDXHome = [Teams(TT).GameIDXHome , GG];
+                end
             end
         end
     end
+
+% 
 
 
 end

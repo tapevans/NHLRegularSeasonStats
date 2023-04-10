@@ -12,20 +12,6 @@ for GG = 1:N_games
         break
     end
 end
-
-for TT = 1:length(Teams)
-    Teams(TT).GP  = 0;
-    Teams(TT).W   = 0;
-    Teams(TT).L   = 0;
-    Teams(TT).OTL = 0;
-    Teams(TT).Pts = 0;
-    Teams(TT).GF  = 0;
-    Teams(TT).GA  = 0;
-    Teams(TT).HGR = 0;
-    Teams(TT).AGR = 0;
-    Teams(TT).GR  = 0;
-    Teams(TT).TPP = 0;
-end
 % Loop through every game in the table
 
 %% Games Played

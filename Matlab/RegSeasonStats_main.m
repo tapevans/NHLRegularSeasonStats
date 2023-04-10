@@ -16,12 +16,15 @@ clear all; close all; clc
     Scores = table2struct(Scores);
 
 %% Find the index for each team in scores
-    [Scores] = setTeamIdx( Teams , Scores );
+    [Teams, Scores] = setTeamIdx( Teams , Scores );
 
 %% Apply Stats
     [Teams] = getStats(Teams , Scores);
 
+%% Determine Head2Head Matchup
+    [H2H] = getH2H(Teams , Scores);
+
 %% Determine Playoff Position
 
 %% Display Results
-    displayResults(Teams)
+    displayResults(Teams,Scores)
