@@ -2,8 +2,10 @@
 
 
 function [Teams] = getStats(Teams , Scores)
-% Loop through every game in the table
-[N_games,~]    = size(Scores);
+% Initialize
+N_Teams     = length(Teams);
+[N_games,~] = size(Scores);
+
 for GG = 1:N_games
     if strcmp(Scores(GG).Status , 'Scheduled')
         N_games_played = GG - 1;
@@ -24,44 +26,71 @@ for TT = 1:length(Teams)
     Teams(TT).GR  = 0;
     Teams(TT).TPP = 0;
 end
+% Loop through every game in the table
 
 %% Games Played
 for GG = 1:N_games_played
     Teams(Scores(GG).awayIDX).GP = Teams(Scores(GG).awayIDX).GP + 1;
     Teams(Scores(GG).homeIDX).GP = Teams(Scores(GG).homeIDX).GP + 1;
+
+    % Goals For
+    Teams(Scores(GG).awayIDX).GF = Teams(Scores(GG).awayIDX).GF + Scores(GG).AwayScore;
+    Teams(Scores(GG).homeIDX).GF = Teams(Scores(GG).homeIDX).GF + Scores(GG).HomeScore;
+
+    % Goals Against
+    Teams(Scores(GG).awayIDX).GA = Teams(Scores(GG).awayIDX).GA + Scores(GG).HomeScore;
+    Teams(Scores(GG).homeIDX).GA = Teams(Scores(GG).homeIDX).GA + Scores(GG).AwayScore;
+
 % Identify the winner
     % Away team won
-    if Scores(GG).AwayScore > Scores(GG).HomeScore 
-        % disp([Scores(GG).Away ' beat ' Scores(GG).Home])
-        % disp([Scores(GG).Away ' gets 2 points'])
+    if Scores(GG).AwayScore > Scores(GG).HomeScore
         Teams(Scores(GG).awayIDX).Pts = Teams(Scores(GG).awayIDX).Pts + 2;
+        Teams(Scores(GG).awayIDX).W   = Teams(Scores(GG).awayIDX).W   + 1;
         if strcmp(Scores(GG).Status , 'Regulation')
-            % disp([Scores.Home(GG) ' get 0 points'])
             % Teams(Scores(GG).homeIDX).points = Teams(Scores(GG).homeIDX).points + 0;
+            Teams(Scores(GG).homeIDX).L   = Teams(Scores(GG).homeIDX).L   + 1;
         else
-            % disp([Scores(GG).Home ' get 1 points'])
             Teams(Scores(GG).homeIDX).Pts = Teams(Scores(GG).homeIDX).Pts + 1;
+            Teams(Scores(GG).homeIDX).OTL = Teams(Scores(GG).homeIDX).OTL + 1;
         end
+
     % Home team won
     else 
-        % disp([Scores(GG).Home ' beat ' Scores(GG).Away])
-        % disp([Scores(GG).Home ' gets 2 points'])
         Teams(Scores(GG).homeIDX).Pts = Teams(Scores(GG).homeIDX).Pts + 2;
+        Teams(Scores(GG).homeIDX).W   = Teams(Scores(GG).homeIDX).W   + 1;
         if strcmp(Scores(GG).Status , 'Regulation')
-            % disp([Scores(GG).Away ' get 0 points'])
             % Teams(Scores(GG).awayIDX).points = Teams(Scores(GG).awayIDX).points + 0;
+            Teams(Scores(GG).awayIDX).L   = Teams(Scores(GG).awayIDX).L   + 1;
         else
-            % disp([Scores(GG).Away ' get 1 points'])
             Teams(Scores(GG).awayIDX).Pts = Teams(Scores(GG).awayIDX).Pts + 1;
+            Teams(Scores(GG).awayIDX).OTL = Teams(Scores(GG).awayIDX).OTL + 1;
         end
     end
 
 
 end
 
+
 %% Remaining Games
+    for GG = N_games_played + 1:N_games
+        Teams(Scores(GG).awayIDX).GR = Teams(Scores(GG).awayIDX).GR + 1;
+        Teams(Scores(GG).homeIDX).GR = Teams(Scores(GG).homeIDX).GR + 1;
+        
+        for TT = 1:N_Teams
+            if strcmp(Scores(GG).Away , Teams(TT).name)
+                Teams(TT).AGR = Teams(TT).AGR + 1;
+            end
+            if strcmp(Scores(GG).Home , Teams(TT).name)
+                Teams(TT).HGR = Teams(TT).HGR + 1;
+            end
+        end
+    
+    end
 
 
-
+%% Total Possible Points
+    for TT = 1:N_Teams
+        Teams(TT).TPP = Teams(TT).Pts + 2*Teams(TT).GR;
+    end
 
 end

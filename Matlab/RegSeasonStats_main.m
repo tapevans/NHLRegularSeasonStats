@@ -21,5 +21,7 @@ clear all; close all; clc
 %% Apply Stats
     [Teams] = getStats(Teams , Scores);
 
+%% Determine Playoff Position
+
 %% Display Results
     displayResults(Teams)

@@ -13,8 +13,4 @@ Pacific = sortrows(Pacific,'Pts', 'descend');
 
 
 
-
-
-% sortedS = table2struct(sortedT);
-
 end
