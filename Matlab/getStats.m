@@ -6,6 +6,11 @@ function [Teams] = getStats(Teams , Scores)
 N_teams     = length(Teams);
 [N_games,~] = size(Scores);
 
+% !!!!!!!!!!!! Add these in to the record spot
+P.Win  = 1;
+P.Loss = 2;
+P.OTL  = 3;
+
 for GG = 1:N_games
     if strcmp(Scores(GG).Status , 'Scheduled')
         N_games_played = GG - 1;
@@ -14,33 +19,69 @@ for GG = 1:N_games
 end
 % Loop through every game in the table
 
-%% Games Played
+%% Completed Games
 for GG = 1:N_games_played
+    %% Games Played
     Teams(Scores(GG).awayIDX).GP = Teams(Scores(GG).awayIDX).GP + 1;
     Teams(Scores(GG).homeIDX).GP = Teams(Scores(GG).homeIDX).GP + 1;
 
-    % Goals For
+    %% Goals For
     Teams(Scores(GG).awayIDX).GF = Teams(Scores(GG).awayIDX).GF + Scores(GG).AwayScore;
     Teams(Scores(GG).homeIDX).GF = Teams(Scores(GG).homeIDX).GF + Scores(GG).HomeScore;
 
-    % Goals Against
+    %% Goals Against
     Teams(Scores(GG).awayIDX).GA = Teams(Scores(GG).awayIDX).GA + Scores(GG).HomeScore;
     Teams(Scores(GG).homeIDX).GA = Teams(Scores(GG).homeIDX).GA + Scores(GG).AwayScore;
 
-% Identify the winner
-    % Away team won
+    %% Identify the winner
+    %% Away team won
     if Scores(GG).AwayScore > Scores(GG).HomeScore
-        Teams(Scores(GG).awayIDX).Pts = Teams(Scores(GG).awayIDX).Pts + 2;
-        Teams(Scores(GG).awayIDX).W   = Teams(Scores(GG).awayIDX).W   + 1;
+        % Update Points
+            Teams(Scores(GG).awayIDX).Pts = Teams(Scores(GG).awayIDX).Pts + 2;
+
+        % Update Wins
+            Teams(Scores(GG).awayIDX).W   = Teams(Scores(GG).awayIDX).W   + 1;
+
+        % Update Away Record (Win)
+            Teams(Scores(GG).awayIDX).AR(1) = Teams(Scores(GG).awayIDX).AR(1) + 1; 
+
         if strcmp(Scores(GG).Status , 'Regulation')
-            % Teams(Scores(GG).homeIDX).points = Teams(Scores(GG).homeIDX).points + 0;
-            Teams(Scores(GG).homeIDX).L   = Teams(Scores(GG).homeIDX).L   + 1;
+            % Update Home Record (Loss)
+            
+            % Add win to RW for away team
+            
+            % Update Home Points
+                % Teams(Scores(GG).homeIDX).points = Teams(Scores(GG).homeIDX).points + 0;
+
+            % Update Home Loss
+                Teams(Scores(GG).homeIDX).L   = Teams(Scores(GG).homeIDX).L   + 1;
         else
-            Teams(Scores(GG).homeIDX).Pts = Teams(Scores(GG).homeIDX).Pts + 1;
-            Teams(Scores(GG).homeIDX).OTL = Teams(Scores(GG).homeIDX).OTL + 1;
+            % Update Home Record (OT Loss)
+
+            % Update Points
+                Teams(Scores(GG).homeIDX).Pts = Teams(Scores(GG).homeIDX).Pts + 1;
+            % Update OTL
+                Teams(Scores(GG).homeIDX).OTL = Teams(Scores(GG).homeIDX).OTL + 1;
+
+            % Update OT Record
+            if strcmp(Scores(GG).Status , 'OT')
+                % Away (OTR Win)
+                    Teams(Scores(GG).awayIDX).OTR(1) = Teams(Scores(GG).awayIDX).OTR(1) + 1;
+                % Home (OTR Loss)
+                
+            % Update SO Record    
+            elseif strcmp(Scores(GG).Status , 'SO')
+                % Away (SOR Win)
+                    Teams(Scores(GG).awayIDX).SOR(1) = Teams(Scores(GG).awayIDX).OTR(1) + 1;
+                % Home (SOR Loss)
+                
+
+            else
+                disp('Something is wrong here')
+            end
         end
 
-    % Home team won
+    %% Home team won
     else 
         Teams(Scores(GG).homeIDX).Pts = Teams(Scores(GG).homeIDX).Pts + 2;
         Teams(Scores(GG).homeIDX).W   = Teams(Scores(GG).homeIDX).W   + 1;
@@ -78,5 +119,23 @@ end
     for TT = 1:N_teams
         Teams(TT).TPP = Teams(TT).Pts + 2*Teams(TT).GR;
     end
+
+
+%% Goal Differential
+    for TT = 1:N_teams
+        Teams(TT).Dif = Teams(TT).GF - Teams(TT).GA;
+    end
+
+
+%% Points Percentage
+    for TT = 1:N_teams
+        Teams(TT).Per = Teams(TT).Pts/ ( 2*Teams(TT).GP );
+    end
+
+%% Regulation + OT Wins
+    for TT = 1:N_teams
+        Teams(TT).ROW = Teams(TT).RW + Teams(TT).OTR(1);
+    end
+
 
 end
