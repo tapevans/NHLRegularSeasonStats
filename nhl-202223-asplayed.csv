@@ -1271,16 +1271,16 @@ Date,StartTimeSask,StartTimeET,Away,AwayScore,Home,HomeScore,Status
 4/8/2023,8:30 PM,10:30 PM,Colorado Avalanche,4,Los Angeles Kings,3,Regulation
 4/9/2023,4:00 PM,6:00 PM,Boston Bruins,5,Philadelphia Flyers,3,Regulation
 4/9/2023,6:30 PM,8:30 PM,Colorado Avalanche,5,Anaheim Ducks,4,OT
-4/10/2023,5:00 PM,7:00 PM,Buffalo Sabres,,New York Rangers,,Scheduled
-4/10/2023,5:00 PM,7:00 PM,Carolina Hurricanes,,Ottawa Senators,,Scheduled
-4/10/2023,5:00 PM,7:00 PM,New York Islanders,,Washington Capitals,,Scheduled
-4/10/2023,5:00 PM,7:00 PM,San Jose Sharks,,Winnipeg Jets,,Scheduled
-4/10/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,,Florida Panthers,,Scheduled
-4/10/2023,5:00 PM,7:00 PM,Dallas Stars,,Detroit Red Wings,,Scheduled
-4/10/2023,7:00 PM,9:00 PM,Minnesota Wild,,Chicago Blackhawks,,Scheduled
-4/10/2023,7:30 PM,9:30 PM,Nashville Predators,,Calgary Flames,,Scheduled
-4/10/2023,8:00 PM,10:00 PM,Seattle Kraken,,Arizona Coyotes,,Scheduled
-4/10/2023,8:30 PM,10:30 PM,Vancouver Canucks,,Los Angeles Kings,,Scheduled
+4/10/2023,5:00 PM,7:00 PM,Buffalo Sabres,3,New York Rangers,2,SO
+4/10/2023,5:00 PM,7:00 PM,Carolina Hurricanes,2,Ottawa Senators,3,Regulation
+4/10/2023,5:00 PM,7:00 PM,New York Islanders,2,Washington Capitals,5,Regulation
+4/10/2023,5:00 PM,7:00 PM,San Jose Sharks,2,Winnipeg Jets,6,Regulation
+4/10/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,2,Florida Panthers,1,OT
+4/10/2023,5:00 PM,7:00 PM,Dallas Stars,6,Detroit Red Wings,1,Regulation
+4/10/2023,7:00 PM,9:00 PM,Minnesota Wild,4,Chicago Blackhawks,2,Regulation
+4/10/2023,7:30 PM,9:30 PM,Nashville Predators,3,Calgary Flames,2,SO
+4/10/2023,8:00 PM,10:00 PM,Seattle Kraken,4,Arizona Coyotes,1,Regulation
+4/10/2023,8:30 PM,10:30 PM,Vancouver Canucks,0,Los Angeles Kings,3,Regulation
 4/11/2023,5:00 PM,7:00 PM,Buffalo Sabres,,New Jersey Devils,,Scheduled
 4/11/2023,5:00 PM,7:00 PM,Columbus Blue Jackets,,Philadelphia Flyers,,Scheduled
 4/11/2023,5:00 PM,7:00 PM,Detroit Red Wings,,Carolina Hurricanes,,Scheduled
