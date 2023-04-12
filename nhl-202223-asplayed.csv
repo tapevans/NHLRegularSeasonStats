@@ -1281,16 +1281,16 @@ Date,StartTimeSask,StartTimeET,Away,AwayScore,Home,HomeScore,Status
 4/10/2023,7:30 PM,9:30 PM,Nashville Predators,3,Calgary Flames,2,SO
 4/10/2023,8:00 PM,10:00 PM,Seattle Kraken,4,Arizona Coyotes,1,Regulation
 4/10/2023,8:30 PM,10:30 PM,Vancouver Canucks,0,Los Angeles Kings,3,Regulation
-4/11/2023,5:00 PM,7:00 PM,Buffalo Sabres,,New Jersey Devils,,Scheduled
-4/11/2023,5:00 PM,7:00 PM,Columbus Blue Jackets,,Philadelphia Flyers,,Scheduled
-4/11/2023,5:00 PM,7:00 PM,Detroit Red Wings,,Carolina Hurricanes,,Scheduled
-4/11/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,,Tampa Bay Lightning,,Scheduled
-4/11/2023,5:00 PM,7:00 PM,Washington Capitals,,Boston Bruins,,Scheduled
-4/11/2023,5:30 PM,7:30 PM,Chicago Blackhawks,,Pittsburgh Penguins,,Scheduled
-4/11/2023,6:00 PM,8:00 PM,Winnipeg Jets,,Minnesota Wild,,Scheduled
-4/11/2023,7:30 PM,9:30 PM,Edmonton Oilers,,Colorado Avalanche,,Scheduled
-4/11/2023,8:00 PM,10:00 PM,Seattle Kraken,,Vegas Golden Knights,,Scheduled
-4/11/2023,8:00 PM,10:00 PM,Vancouver Canucks,,Anaheim Ducks,,Scheduled
+4/11/2023,5:00 PM,7:00 PM,Buffalo Sabres,2,New Jersey Devils,6,Regulation
+4/11/2023,5:00 PM,7:00 PM,Columbus Blue Jackets,3,Philadelphia Flyers,4,OT
+4/11/2023,5:00 PM,7:00 PM,Detroit Red Wings,1,Carolina Hurricanes,4,Regulation
+4/11/2023,5:00 PM,7:00 PM,Toronto Maple Leafs,4,Tampa Bay Lightning,3,Regulation
+4/11/2023,5:00 PM,7:00 PM,Washington Capitals,2,Boston Bruins,5,Regulation
+4/11/2023,5:30 PM,7:30 PM,Chicago Blackhawks,5,Pittsburgh Penguins,2,Regulation
+4/11/2023,6:00 PM,8:00 PM,Winnipeg Jets,3,Minnesota Wild,1,Regulation
+4/11/2023,7:30 PM,9:30 PM,Edmonton Oilers,2,Colorado Avalanche,1,OT
+4/11/2023,8:00 PM,10:00 PM,Seattle Kraken,1,Vegas Golden Knights,4,Regulation
+4/11/2023,8:00 PM,10:00 PM,Vancouver Canucks,3,Anaheim Ducks,2,Regulation
 4/12/2023,5:00 PM,7:00 PM,Montreal Canadiens,,New York Islanders,,Scheduled
 4/12/2023,5:30 PM,7:30 PM,Dallas Stars,,St. Louis Blues,,Scheduled
 4/12/2023,8:00 PM,10:00 PM,San Jose Sharks,,Calgary Flames,,Scheduled
