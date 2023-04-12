@@ -1,5 +1,5 @@
 %% Regular Season Stats
-clear all; close all; clc
+% clear all; close all; clc
 
 %% File structure
     currentFolder = pwd;
@@ -12,7 +12,7 @@ clear all; close all; clc
 
 %% Get Scores
     Scores = readtable([score_dir filesep score_filename ]);
-    Scores = Scores(:,[1,4:8]);
+    Scores = Scores(:,[1,4:8]); % .csv columns 2 and 3 are game start time, don't want to include those
     Scores = table2struct(Scores);
 
 %% Find the index for each team in scores
@@ -22,10 +22,21 @@ clear all; close all; clc
     [Teams] = getStats(Teams , Scores);
 
 %% Determine Head2Head Matchup
-    [H2H] = getH2H(Teams , Scores, IDX);
+    [H2H] = getH2H(Teams , Scores, IDX); 
+
+%% Determine Current Division Rank
+    [Teams] = getDivisionRank(Teams);
+
+%% Determine Current Conference Rank
+    [Teams] = getConferenceRank(Teams);
 
 %% Determine Playoff Status
     [Teams] = getPlayoffStatus(Teams);
 
-%% Display Results
-   [Atlantic, Metro , Central, Pacific, subScores] =  sortResults(Teams,Scores,IDX);
+%% Sort Results
+   [Atlantic, Metro , Central, Pacific, Eastern, Western, subScores] =  sortResults(Teams,Scores,IDX);
+
+%% Display 2 teams H2H
+    desiredTeamIDX = 6;
+    opposingTeamIDX = 13;
+    dispSpecificH2H(desiredTeamIDX , opposingTeamIDX , Teams, H2H)
