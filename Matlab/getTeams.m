@@ -166,50 +166,50 @@ i = i+1;
 
 
 for TT = 1:length(Teams)
-    % % Google Standings Order
-    % Teams(TT).GP  = 0; % Games Played
-    % Teams(TT).W   = 0; % Wins
-    % Teams(TT).L   = 0; % Loses
-    % Teams(TT).OTL = 0; % Overtime Loses
-    % Teams(TT).Pts = 0; % Points
-    % Teams(TT).GF  = 0; % Goals For
-    % Teams(TT).GA  = 0; % Goals Against
-    % Teams(TT).Dif = 0; % Goals For - Goals Against
-    % Teams(TT).TPP = 0; % Total Possible Points
-    % Teams(TT).Per = 0; % Points Percentage
-    % Teams(TT).RW  = 0; % Regulation Wins
-    % Teams(TT).ROW = 0; % Regulation and OT Wins
-    % Teams(TT).HGR = 0; % Home Games Remaining
-    % Teams(TT).AGR = 0; % Away Games Remaining
-    % Teams(TT).GR  = 0; % Games Remaining
-    % Teams(TT).HR  = [0,0,0]; % Home Record
-    % Teams(TT).AR  = [0,0,0]; % Away Record
-    % Teams(TT).OTR = [0,0];   % Overtime Record
-    % Teams(TT).SOR = [0,0];   % Shootout Record
-    % Teams(TT).DivRank = 0; % Division Rank
-
-    % NHL Site Order
+    % Google Standings Order
     Teams(TT).GP  = 0; % Games Played
     Teams(TT).W   = 0; % Wins
     Teams(TT).L   = 0; % Loses
     Teams(TT).OTL = 0; % Overtime Loses
     Teams(TT).Pts = 0; % Points
-    Teams(TT).Per = 0; % Points Percentage
-    Teams(TT).RW  = 0; % Regulation Wins
-    Teams(TT).ROW = 0; % Regulation and OT Wins
     Teams(TT).GF  = 0; % Goals For
     Teams(TT).GA  = 0; % Goals Against
     Teams(TT).Dif = 0; % Goals For - Goals Against
-    Teams(TT).HR  = [0,0,0]; % Home Record
-    Teams(TT).AR  = [0,0,0]; % Away Record
-    Teams(TT).SOR = [0,0];   % Shootout Record
+    Teams(TT).TPP = 0; % Total Possible Points
+    Teams(TT).Per = 0; % Points Percentage
+    Teams(TT).RW  = 0; % Regulation Wins
+    Teams(TT).ROW = 0; % Regulation and OT Wins
     Teams(TT).HGR = 0; % Home Games Remaining
     Teams(TT).AGR = 0; % Away Games Remaining
-    Teams(TT).TPP = 0; % Total Possible Points
     Teams(TT).GR  = 0; % Games Remaining
+    Teams(TT).HR  = [0,0,0]; % Home Record
+    Teams(TT).AR  = [0,0,0]; % Away Record
     Teams(TT).OTR = [0,0];   % Overtime Record
+    Teams(TT).SOR = [0,0];   % Shootout Record
     Teams(TT).DivRank = 0; % Division Rank
-    Teams(TT).ConRank = 0; % Conference Rank
+
+    % % NHL Site Order
+    % Teams(TT).GP  = 0; % Games Played
+    % Teams(TT).W   = 0; % Wins
+    % Teams(TT).L   = 0; % Loses
+    % Teams(TT).OTL = 0; % Overtime Loses
+    % Teams(TT).Pts = 0; % Points
+    % Teams(TT).Per = 0; % Points Percentage
+    % Teams(TT).RW  = 0; % Regulation Wins
+    % Teams(TT).ROW = 0; % Regulation and OT Wins
+    % Teams(TT).GF  = 0; % Goals For
+    % Teams(TT).GA  = 0; % Goals Against
+    % Teams(TT).Dif = 0; % Goals For - Goals Against
+    % Teams(TT).HR  = [0,0,0]; % Home Record
+    % Teams(TT).AR  = [0,0,0]; % Away Record
+    % Teams(TT).SOR = [0,0];   % Shootout Record
+    % Teams(TT).HGR = 0; % Home Games Remaining
+    % Teams(TT).AGR = 0; % Away Games Remaining
+    % Teams(TT).TPP = 0; % Total Possible Points
+    % Teams(TT).GR  = 0; % Games Remaining
+    % Teams(TT).OTR = [0,0];   % Overtime Record
+    % Teams(TT).DivRank = 0; % Division Rank
+    % Teams(TT).ConRank = 0; % Conference Rank
 end
 
 end

@@ -1,5 +1,5 @@
 %% Regular Season Stats
-% clear all; close all; clc
+clear all; close all; clc
 
 %% File structure
     currentFolder = pwd;
@@ -16,7 +16,7 @@
     Scores = table2struct(Scores);
 
 %% Find the index for each team in scores
-    [Teams, Scores, IDX] = setTeamIdx( Teams , Scores );
+    [Teams, Scores, IDX] = setTeamIdx( Teams , Scores );s
 
 %% Apply Stats
     [Teams] = getStats(Teams , Scores);
