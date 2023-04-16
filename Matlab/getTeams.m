@@ -187,6 +187,7 @@ for TT = 1:length(Teams)
     Teams(TT).OTR = [0,0];   % Overtime Record
     Teams(TT).SOR = [0,0];   % Shootout Record
     Teams(TT).DivRank = 0; % Division Rank
+    Teams(TT).PlayoffTeamsRecord  = [0,0,0]; % Home Record
 
     % % NHL Site Order
     % Teams(TT).GP  = 0; % Games Played

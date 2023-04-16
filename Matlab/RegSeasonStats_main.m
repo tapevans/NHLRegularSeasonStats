@@ -16,7 +16,7 @@ clear all; close all; clc
     Scores = table2struct(Scores);
 
 %% Find the index for each team in scores
-    [Teams, Scores, IDX] = setTeamIdx( Teams , Scores );s
+    [Teams, Scores, IDX] = setTeamIdx( Teams , Scores );
 
 %% Apply Stats
     [Teams] = getStats(Teams , Scores);
@@ -36,7 +36,14 @@ clear all; close all; clc
 %% Sort Results
    [Atlantic, Metro , Central, Pacific, Eastern, Western, subScores] =  sortResults(Teams,Scores,IDX);
 
+%% Record Against Playoff Teams
+    [Teams] = getRecordAgainstPlayoffTeams(Teams , H2H);
+
+%% Display Record Against Playoff Teams
+    dispRecordsAgainstPlayoffTeams(Teams)
+
 %% Display 2 teams H2H
-    desiredTeamIDX = 6;
-    opposingTeamIDX = 13;
-    dispSpecificH2H(desiredTeamIDX , opposingTeamIDX , Teams, H2H)
+    % desiredTeamIDX = 6;
+    % opposingTeamIDX = 13;
+    % dispSpecificH2H(desiredTeamIDX , opposingTeamIDX , Teams, H2H)
+

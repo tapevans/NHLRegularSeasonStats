@@ -16,6 +16,9 @@ for GG = 1:N_games
         break
     end
 end
+if ~strcmp(Scores(N_games).Status, 'Scheduled')
+    N_games_played = N_games;
+end
 % Loop through every game in the table
 
 %% Completed Games
