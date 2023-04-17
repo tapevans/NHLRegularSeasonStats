@@ -42,6 +42,46 @@ clear all; close all; clc
 %% Display Record Against Playoff Teams
     dispRecordsAgainstPlayoffTeams(Teams)
 
+%% Series 1 teams H2H
+    desiredTeamIDX  = 8;
+    opposingTeamIDX = 25;
+    dispSpecificH2H(desiredTeamIDX , opposingTeamIDX , Teams, H2H)
+
+%% Series 2 teams H2H
+    desiredTeamIDX  = 10;
+    opposingTeamIDX = 15;
+    dispSpecificH2H(desiredTeamIDX , opposingTeamIDX , Teams, H2H)
+
+%% Series 3 teams H2H
+    desiredTeamIDX  = 30;
+    opposingTeamIDX = 32;
+    dispSpecificH2H(desiredTeamIDX , opposingTeamIDX , Teams, H2H)
+
+%% Series 4 teams H2H
+    desiredTeamIDX  = 12;
+    opposingTeamIDX = 14;
+    dispSpecificH2H(desiredTeamIDX , opposingTeamIDX , Teams, H2H)
+
+%% Series 5 teams H2H
+    desiredTeamIDX  = 3;
+    opposingTeamIDX = 13;
+    dispSpecificH2H(desiredTeamIDX , opposingTeamIDX , Teams, H2H)
+
+%% Series 6 teams H2H
+    desiredTeamIDX  = 28;
+    opposingTeamIDX = 27;
+    dispSpecificH2H(desiredTeamIDX , opposingTeamIDX , Teams, H2H)
+
+%% Series 7 teams H2H
+    desiredTeamIDX  = 6;
+    opposingTeamIDX = 19;
+    dispSpecificH2H(desiredTeamIDX , opposingTeamIDX , Teams, H2H)
+
+%% Series 8 teams H2H
+    desiredTeamIDX  = 18;
+    opposingTeamIDX = 20;
+    dispSpecificH2H(desiredTeamIDX , opposingTeamIDX , Teams, H2H)
+
 %% Display 2 teams H2H
     % desiredTeamIDX = 6;
     % opposingTeamIDX = 13;
