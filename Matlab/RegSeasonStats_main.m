@@ -34,7 +34,7 @@ clear all; close all; clc
     [Teams] = getPlayoffStatus(Teams);
 
 %% Sort Results
-   [Atlantic, Metro , Central, Pacific, Eastern, Western, subScores] =  sortResults(Teams,Scores,IDX);
+   [Atlantic, Metro , Central, Pacific, Eastern, Western] =  sortResults(Teams);%,Scores,IDX);
 
 %% Record Against Playoff Teams
     [Teams] = getRecordAgainstPlayoffTeams(Teams , H2H);
@@ -86,4 +86,15 @@ clear all; close all; clc
     % desiredTeamIDX = 6;
     % opposingTeamIDX = 13;
     % dispSpecificH2H(desiredTeamIDX , opposingTeamIDX , Teams, H2H)
+
+%% get SubScores for first round
+    % desTeam = 08; desOpp = 25; % Avs Kraken
+    % desTeam = 10; desOpp = 15; % Stars Wild
+    % desTeam = 30; desOpp = 32; % Knights Jets
+    % desTeam = 12; desOpp = 14; % Oilers Kings
+    % desTeam = 03; desOpp = 13; % Bruins Panthers
+    % desTeam = 28; desOpp = 27; % Maple Leafs Lightning
+    % desTeam = 06; desOpp = 19; % Canes Islanders
+    desTeam = 18; desOpp = 20; % Devils Rangers
+    [subScores] = getSubScores(Scores , IDX , desTeam , desOpp);
 

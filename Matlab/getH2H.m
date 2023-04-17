@@ -18,16 +18,20 @@ end
 for TT = 1:N_teams
     for OO = 1:N_teams
         if OO ~= TT
-            if TT == 6 && OO == 13
+            if TT == 6 && OO == 19
                 TT; % Used for testing
             end
+            %% Testing subscores
+            [subScores] = getSubScores(Scores , IDX , TT , OO);
+            % [subScores] = getSubScores(Scores , IDX , TT , []);
+
             home_set = IDX(TT).GameIDXHome';
             away_set = IDX(TT).GameIDXAway';
             oo_set   = IDX(OO).GameIDX';
 
             matchup = intersect(IDX(TT).GameIDXHome,IDX(OO).GameIDX);
             subScores = Scores(matchup);
-            for i = length(subScores)
+            for i = 1:length(subScores)
                 if ~strcmp(subScores(i).Status , 'Scheduled')
                     if subScores(i).HomeScore > subScores(i).AwayScore
                         H2H{TT,OO}(1,P.Win) = H2H{TT,OO}(1,P.Win) + 1;
